@@ -1,212 +1,180 @@
-[02May2025 14:11:49.178] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[02May2025 14:11:49.181] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[02May2025 14:11:49.183] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[02May2025 14:11:49.286] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/server-men/servidor_minecraft/config/fml.toml is not correct. Correcting
-[02May2025 14:11:49.289] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[02May2025 14:11:49.290] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[02May2025 14:11:49.291] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[02May2025 14:11:49.292] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[02May2025 14:11:49.424] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[02May2025 14:11:49.582] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-men/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[02May2025 14:11:50.113] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[02May2025 14:11:51.579] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[02May2025 14:11:51.641] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[02May2025 14:11:51.705] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 14:11:51.862] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
-[02May2025 14:11:51.867] [main/WARN] [mixin/]: Reference map 'betterdeserttemples.refmap.json' for betterdeserttemples.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 14:11:51.873] [main/WARN] [mixin/]: Reference map 'betterfortresses.refmap.json' for betterfortresses.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 14:11:51.879] [main/WARN] [mixin/]: Reference map 'bettermineshafts.refmap.json' for bettermineshafts.mixins.json could not be read. If this is a development environment you can ignore this message
-[02May2025 14:11:53.029] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[02May2025 14:11:53.147] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[02May2025 14:11:53.187] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[02May2025 14:12:02.940] [modloading-worker-0/INFO] [betterdeserttemples/]: Creating directory for additional Better Desert Temples configuration at /workspaces/server-men/servidor_minecraft/config/betterdeserttemples/forge-1_21
-[02May2025 14:12:03.025] [modloading-worker-0/INFO] [betterfortresses/]: Creating directory for additional Better Nether Fortresses configuration at /workspaces/server-men/servidor_minecraft/config/betterfortresses/forge-1_21
-[02May2025 14:12:03.051] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
-[02May2025 14:12:03.055] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
-[02May2025 14:12:03.074] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[02May2025 14:12:03.108] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[02May2025 14:12:04.065] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/server-men/servidor_minecraft/config/betterdeserttemples-forge-1_21.toml is not correct. Correcting
-[02May2025 14:12:04.069] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Desert Temples was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.070] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Desert Temples.General was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.073] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Desert Temples.General.Disable Vanilla Pyramids was corrected from null to its default, true. 
-[02May2025 14:12:04.075] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Desert Temples.General.Apply Mining Fatigue was corrected from null to its default, true. 
-[02May2025 14:12:04.089] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/server-men/servidor_minecraft/config/betterfortresses-forge-1_20_4.toml is not correct. Correcting
-[02May2025 14:12:04.090] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Nether Fortresses was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.090] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Nether Fortresses.General was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.090] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Nether Fortresses.General.Disable Vanilla Nether Fortresses was corrected from null to its default, true. 
-[02May2025 14:12:04.095] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/server-men/servidor_minecraft/config/bettermineshafts-forge-1_21.toml is not correct. Correcting
-[02May2025 14:12:04.097] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.099] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Disable Vanilla Mineshafts was corrected from null to its default, true. 
-[02May2025 14:12:04.101] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Minimum y-coordinate was corrected from null to its default, -55. 
-[02May2025 14:12:04.102] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Maximum y-coordinate was corrected from null to its default, 30. 
-[02May2025 14:12:04.103] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Ore Deposits was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.103] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Ore Deposits.Enable Ore Deposits was corrected from null to its default, true. 
-[02May2025 14:12:04.103] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Ore Deposits.Cobble Spawn Chance (Empty Deposit) was corrected from null to its default, 50. 
-[02May2025 14:12:04.103] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Ore Deposits.Coal Spawn Chance was corrected from null to its default, 20. 
-[02May2025 14:12:04.103] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Ore Deposits.Iron Spawn Chance was corrected from null to its default, 9. 
-[02May2025 14:12:04.103] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Ore Deposits.Redstone Spawn Chance was corrected from null to its default, 7. 
-[02May2025 14:12:04.104] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Ore Deposits.Gold Spawn Chance was corrected from null to its default, 7. 
-[02May2025 14:12:04.104] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Ore Deposits.Lapis Spawn Chance was corrected from null to its default, 3. 
-[02May2025 14:12:04.104] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Ore Deposits.Emerald Spawn Chance was corrected from null to its default, 3. 
-[02May2025 14:12:04.104] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Ore Deposits.Diamond Spawn Chance was corrected from null to its default, 1. 
-[02May2025 14:12:04.104] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.104] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More.Lantern Spawn Rate was corrected from null to its default, 0.0067. 
-[02May2025 14:12:04.105] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More.Torch Spawn Rate was corrected from null to its default, 0.02. 
-[02May2025 14:12:04.105] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More.Workstation Spawn Rate was corrected from null to its default, 0.025. 
-[02May2025 14:12:04.112] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More.Workstation Cellar Spawn Rate was corrected from null to its default, 0.25. 
-[02May2025 14:12:04.112] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More.Small Shaft Spawn Rate was corrected from null to its default, 0.07. 
-[02May2025 14:12:04.116] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More.Cobweb Spawn Rate was corrected from null to its default, 0.15. 
-[02May2025 14:12:04.116] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More.Small Shaft Chest Minecart Spawn Rate was corrected from null to its default, 0.00125. 
-[02May2025 14:12:04.116] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More.Small Shaft TNT Minecart Spawn Rate was corrected from null to its default, 0.0025. 
-[02May2025 14:12:04.116] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More.Main Shaft Chest Minecart Spawn Rate was corrected from null to its default, 0.01. 
-[02May2025 14:12:04.116] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More.Main Shaft TNT Minecart Spawn Rate was corrected from null to its default, 0.0025. 
-[02May2025 14:12:04.116] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More.Abandoned Miners' Outpost Spawn Chance was corrected from null to its default, 2. 
-[02May2025 14:12:04.117] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key YUNG's Better Mineshafts.Spawn Rates & More.Small Shaft Piece Chain Length was corrected from null to its default, 9. 
-[02May2025 14:12:04.129] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/server-men/servidor_minecraft/config/advancednetherite-common.toml is not correct. Correcting
-[02May2025 14:12:04.129] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.129] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.129] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_iron_armor was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.129] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_iron_armor.ironPhantomPassiveArmor was corrected from null to its default, true. 
-[02May2025 14:12:04.130] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_iron_armor.ironPiglinPassiveArmor was corrected from null to its default, false. 
-[02May2025 14:12:04.131] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_iron_armor.ironEndermanPassiveArmor was corrected from null to its default, false. 
-[02May2025 14:12:04.132] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_gold_armor was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.132] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_gold_armor.goldPhantomPassiveArmor was corrected from null to its default, false. 
-[02May2025 14:12:04.132] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_gold_armor.goldPiglinPassiveArmor was corrected from null to its default, true. 
-[02May2025 14:12:04.132] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_gold_armor.goldEndermanPassiveArmor was corrected from null to its default, false. 
-[02May2025 14:12:04.133] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_emerald_armor was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.133] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_emerald_armor.emeraldPhantomPassiveArmor was corrected from null to its default, false. 
-[02May2025 14:12:04.133] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_emerald_armor.emeraldPiglinPassiveArmor was corrected from null to its default, false. 
-[02May2025 14:12:04.133] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_emerald_armor.emeraldEndermanPassiveArmor was corrected from null to its default, true. 
-[02May2025 14:12:04.133] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_diamond_armor was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.133] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_diamond_armor.diamondPhantomPassiveArmor was corrected from null to its default, true. 
-[02May2025 14:12:04.134] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_diamond_armor.diamondPiglinPassiveArmor was corrected from null to its default, true. 
-[02May2025 14:12:04.134] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.armor_perks.netherite_diamond_armor.diamondEndermanPassiveArmor was corrected from null to its default, true. 
-[02May2025 14:12:04.135] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.additional_drops was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:04.136] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.additional_drops.enableAdditionalCropDrops was corrected from null to its default, true. 
-[02May2025 14:12:04.136] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.additional_drops.enableAdditionalOreDrops was corrected from null to its default, true. 
-[02May2025 14:12:04.136] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.additional_drops.enableAdditionalMobDrops was corrected from null to its default, true. 
-[02May2025 14:12:04.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[02May2025 14:12:05.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
-[02May2025 14:12:05.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Starting version check at https://api.modrinth.com/updates/LbDPuvYD/forge_updates.json
-[02May2025 14:12:05.429] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Found status: OUTDATED Current: 1.2.1 Target: 1.2.1+mod
-[02May2025 14:12:05.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Starting version check at https://api.modrinth.com/updates/t2pMCVgG/forge_updates.json
-[02May2025 14:12:05.489] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Found status: OUTDATED Current: 1.5.0 Target: 1.5.0+mod
-[02May2025 14:12:05.489] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Starting version check at https://api.modrinth.com/updates/HQsBdHGd/forge_updates.json
-[02May2025 14:12:05.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Found status: BETA_OUTDATED Current: 5.0-beta4 Target: 5.0-beta4+mod
-[02May2025 14:12:05.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_endless_citylegacy] Starting version check at https://api.modrinth.com/updates/9PZ8RoeI/forge_updates.json
-[02May2025 14:12:05.574] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_endless_citylegacy] Found status: OUTDATED Current: 2.0.1 Target: 2.0.1+mod
-[02May2025 14:12:05.574] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Starting version check at https://api.modrinth.com/updates/GD1QoExk/forge_updates.json
-[02May2025 14:12:05.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Found status: OUTDATED Current: 1.8 Target: 1.8+mod
-[02May2025 14:12:05.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[02May2025 14:12:05.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
-[02May2025 14:12:05.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
-[02May2025 14:12:05.803] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Found status: OUTDATED Current: 3.0.6 Target: 3.0.6+mod
-[02May2025 14:12:05.803] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Starting version check at https://api.modrinth.com/updates/BynmO8IO/forge_updates.json
-[02May2025 14:12:05.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Found status: OUTDATED Current: 5.10 Target: 5.10+mod
-[02May2025 14:12:05.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Starting version check at https://api.modrinth.com/updates/UMmSTwE0/forge_updates.json
-[02May2025 14:12:06.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Found status: OUTDATED Current: 1.3 Target: 1.3+mod
-[02May2025 14:12:06.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[02May2025 14:12:06.111] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.6 Target: 2.1.6
-[02May2025 14:12:06.980] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02May2025 14:12:09.100] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
-[02May2025 14:12:11.490] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1358 recipes
-[02May2025 14:12:11.948] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[02May2025 14:12:11.948] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1704 advancements
-[02May2025 14:12:12.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
-[02May2025 14:12:12.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[02May2025 14:12:12.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[02May2025 14:12:12.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[02May2025 14:12:13.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[02May2025 14:12:13.412] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[02May2025 14:12:13.525] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02May2025 14:12:13.526] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[02May2025 14:12:13.526] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02May2025 14:12:13.526] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[02May2025 14:12:13.570] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/advancednetherite-server.toml is not correct. Correcting
-[02May2025 14:12:13.574] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:13.574] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:13.574] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:13.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers.ironBreakingSpeedMultiplier was corrected from null to its default, 12. 
-[02May2025 14:12:13.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers.goldBreakingSpeedMultiplier was corrected from null to its default, 20. 
-[02May2025 14:12:13.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers.emeraldBreakingSpeedMultiplier was corrected from null to its default, 29. 
-[02May2025 14:12:13.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers.diamondBreakingSpeedMultiplier was corrected from null to its default, 39. 
-[02May2025 14:12:13.579] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:13.579] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:13.579] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances.additionalWheatDropChance was corrected from null to its default, 0.3. 
-[02May2025 14:12:13.580] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances.additionalCarrotsDropChance was corrected from null to its default, 0.3. 
-[02May2025 14:12:13.585] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances.additionalPotatoesDropChance was corrected from null to its default, 0.3. 
-[02May2025 14:12:13.586] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances.additionalBeetrootsDropChance was corrected from null to its default, 0.2. 
-[02May2025 14:12:13.586] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:13.586] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances.additionalPhantomDropChance was corrected from null to its default, 0.5. 
-[02May2025 14:12:13.587] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances.additionalZombifiedPiglinDropChance was corrected from null to its default, 0.5. 
-[02May2025 14:12:13.592] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances.additionalPiglinDropChance was corrected from null to its default, 0.15. 
-[02May2025 14:12:13.593] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances.additionalEndermanDropChance was corrected from null to its default, 0.3. 
-[02May2025 14:12:13.593] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:13.593] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalRawIronDropChance was corrected from null to its default, 0.2. 
-[02May2025 14:12:13.594] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalRawGoldChance was corrected from null to its default, 0.3. 
-[02May2025 14:12:13.598] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalEmeraldDropChance was corrected from null to its default, 0.4. 
-[02May2025 14:12:13.598] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalDiamondDropChance was corrected from null to its default, 0.25. 
-[02May2025 14:12:13.599] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalGoldNuggetDropChance was corrected from null to its default, 0.6. 
-[02May2025 14:12:13.612] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[02May2025 14:12:13.613] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[02May2025 14:12:13.613] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[02May2025 14:12:13.613] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[02May2025 14:12:13.614] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[02May2025 14:12:13.628] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[02May2025 14:12:13.629] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[02May2025 14:12:13.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[02May2025 14:12:17.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[02May2025 14:12:26.199] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.200] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.201] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.201] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.202] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.202] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.204] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.204] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.205] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.205] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.206] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.206] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.206] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.207] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.432] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:26.840] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:27.326] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:27.825] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:28.331] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 14:12:28.843] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11019 ms
-[02May2025 14:12:28.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.282s)! For help, type "help"
-[02May2025 14:12:28.880] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[02May2025 14:12:29.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] [Endless City] Randomisation initialisation done
-[02May2025 14:12:29.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] [Endless City] Final load
-[02May2025 14:12:29.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] [Endless City] Structure randomisation initialisation complete
-[02May2025 14:12:29.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] [Endless City] Executing first-time load function
-[02May2025 14:12:41.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12318ms or 246 ticks behind
-[02May2025 14:14:26.838] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@475ad8fe[id=440519aa-b504-3d33-a29d-8bfbe2066cf3,name=davixelpro123,properties={}] lost connection: Disconnected
-[02May2025 14:15:37.182] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ae34a32[id=440519aa-b504-3d33-a29d-8bfbe2066cf3,name=davixelpro123,properties={}] lost connection: Timed out
-[02May2025 14:17:46.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.60.244.77:45761] logged in with entity id 50 at (0.5, 162.0, 0.5)
-[02May2025 14:17:46.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
-[02May2025 14:18:12.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made davixelpro13 a server operator
-[02May2025 14:18:14.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made davixelpro123 a server operator
-[02May2025 14:18:21.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Made davixelpro13 no longer a server operator]
-[02May2025 14:18:25.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
-[02May2025 14:18:45.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -2.9097311457020005,1.6882464670848947,-9.997730756617663
-[02May2025 14:18:59.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
-[02May2025 14:19:57.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
-[02May2025 14:19:57.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
-[02May2025 14:51:23.982] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e1abbe7[id=440519aa-b504-3d33-a29d-8bfbe2066cf3,name=davixelpro123,properties={}] lost connection: Disconnected
-[02May2025 14:51:32.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[02May2025 14:51:33.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[02May2025 14:51:33.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[02May2025 14:51:33.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[02May2025 14:51:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02May2025 14:51:33.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02May2025 14:51:33.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02May2025 14:51:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02May2025 14:51:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02May2025 14:51:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02May2025 14:51:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02May2025 14:57:20.165] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[02May2025 14:57:20.168] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[02May2025 14:57:20.170] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[02May2025 14:57:20.433] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[02May2025 14:57:20.612] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-men/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[02May2025 14:57:21.245] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[02May2025 14:57:22.678] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02May2025 14:57:22.747] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[02May2025 14:57:22.833] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 14:57:23.014] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
+[02May2025 14:57:23.015] [main/WARN] [mixin/]: Reference map 'betterdeserttemples.refmap.json' for betterdeserttemples.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 14:57:23.018] [main/WARN] [mixin/]: Reference map 'betterfortresses.refmap.json' for betterfortresses.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 14:57:23.023] [main/WARN] [mixin/]: Reference map 'bettermineshafts.refmap.json' for bettermineshafts.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 14:57:24.369] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[02May2025 14:57:24.530] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[02May2025 14:57:24.590] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[02May2025 14:57:35.307] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[02May2025 14:57:35.309] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[02May2025 14:57:35.339] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[02May2025 14:57:35.376] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[02May2025 14:57:36.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[02May2025 14:57:37.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
+[02May2025 14:57:37.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Starting version check at https://api.modrinth.com/updates/LbDPuvYD/forge_updates.json
+[02May2025 14:57:37.678] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Found status: OUTDATED Current: 1.2.1 Target: 1.2.1+mod
+[02May2025 14:57:37.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Starting version check at https://api.modrinth.com/updates/t2pMCVgG/forge_updates.json
+[02May2025 14:57:37.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Found status: OUTDATED Current: 1.5.0 Target: 1.5.0+mod
+[02May2025 14:57:37.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Starting version check at https://api.modrinth.com/updates/HQsBdHGd/forge_updates.json
+[02May2025 14:57:37.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Found status: BETA_OUTDATED Current: 5.0-beta4 Target: 5.0-beta4+mod
+[02May2025 14:57:37.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Starting version check at https://api.modrinth.com/updates/GD1QoExk/forge_updates.json
+[02May2025 14:57:37.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Found status: OUTDATED Current: 1.8 Target: 1.8+mod
+[02May2025 14:57:37.945] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02May2025 14:57:38.154] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
+[02May2025 14:57:38.159] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[02May2025 14:57:38.204] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Found status: OUTDATED Current: 3.0.6 Target: 3.0.6+mod
+[02May2025 14:57:38.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Starting version check at https://api.modrinth.com/updates/BynmO8IO/forge_updates.json
+[02May2025 14:57:38.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Found status: OUTDATED Current: 5.10 Target: 5.10+mod
+[02May2025 14:57:38.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Starting version check at https://api.modrinth.com/updates/UMmSTwE0/forge_updates.json
+[02May2025 14:57:38.293] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Found status: OUTDATED Current: 1.3 Target: 1.3+mod
+[02May2025 14:57:38.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[02May2025 14:57:38.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.6 Target: 2.1.6
+[02May2025 14:57:39.395] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02May2025 14:57:41.439] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[02May2025 14:57:44.259] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1358 recipes
+[02May2025 14:57:44.638] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[02May2025 14:57:44.639] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1703 advancements
+[02May2025 14:57:45.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
+[02May2025 14:57:45.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02May2025 14:57:45.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02May2025 14:57:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02May2025 14:57:45.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02May2025 14:57:45.883] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02May2025 14:57:46.027] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02May2025 14:57:46.029] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02May2025 14:57:46.030] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02May2025 14:57:46.032] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02May2025 14:57:46.076] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/advancednetherite-server.toml is not correct. Correcting
+[02May2025 14:57:46.079] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[02May2025 14:57:46.080] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[02May2025 14:57:46.081] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[02May2025 14:57:46.082] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers.ironBreakingSpeedMultiplier was corrected from null to its default, 12. 
+[02May2025 14:57:46.084] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers.goldBreakingSpeedMultiplier was corrected from null to its default, 20. 
+[02May2025 14:57:46.085] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers.emeraldBreakingSpeedMultiplier was corrected from null to its default, 29. 
+[02May2025 14:57:46.086] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers.diamondBreakingSpeedMultiplier was corrected from null to its default, 39. 
+[02May2025 14:57:46.090] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[02May2025 14:57:46.091] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[02May2025 14:57:46.092] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances.additionalWheatDropChance was corrected from null to its default, 0.3. 
+[02May2025 14:57:46.096] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances.additionalCarrotsDropChance was corrected from null to its default, 0.3. 
+[02May2025 14:57:46.096] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances.additionalPotatoesDropChance was corrected from null to its default, 0.3. 
+[02May2025 14:57:46.097] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances.additionalBeetrootsDropChance was corrected from null to its default, 0.2. 
+[02May2025 14:57:46.098] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[02May2025 14:57:46.100] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances.additionalPhantomDropChance was corrected from null to its default, 0.5. 
+[02May2025 14:57:46.103] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances.additionalZombifiedPiglinDropChance was corrected from null to its default, 0.5. 
+[02May2025 14:57:46.104] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances.additionalPiglinDropChance was corrected from null to its default, 0.15. 
+[02May2025 14:57:46.104] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances.additionalEndermanDropChance was corrected from null to its default, 0.3. 
+[02May2025 14:57:46.106] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[02May2025 14:57:46.107] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalRawIronDropChance was corrected from null to its default, 0.2. 
+[02May2025 14:57:46.108] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalRawGoldChance was corrected from null to its default, 0.3. 
+[02May2025 14:57:46.110] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalEmeraldDropChance was corrected from null to its default, 0.4. 
+[02May2025 14:57:46.110] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalDiamondDropChance was corrected from null to its default, 0.25. 
+[02May2025 14:57:46.112] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalGoldNuggetDropChance was corrected from null to its default, 0.6. 
+[02May2025 14:57:46.123] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[02May2025 14:57:46.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[02May2025 14:57:46.126] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[02May2025 14:57:46.127] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[02May2025 14:57:46.129] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[02May2025 14:57:46.132] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[02May2025 14:57:46.133] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[02May2025 14:57:46.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02May2025 14:58:08.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02May2025 14:58:08.882] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:09.278] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:09.841] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:10.475] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:10.847] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:11.345] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:11.792] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:12.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.603] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[02May2025 14:58:18.652] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[02May2025 14:58:18.659] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.660] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.660] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.661] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.661] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.661] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.661] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.662] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.662] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.663] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.663] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.664] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:18.772] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:19.341] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:19.773] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:20.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:20.769] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:21.469] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:21.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:22.634] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:22.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:23.478] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:23.795] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:24.272] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:24.768] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02May2025 14:58:25.270] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
+[02May2025 14:58:25.872] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 17107 ms
+[02May2025 14:58:25.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (39.804s)! For help, type "help"
+[02May2025 14:58:25.895] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02May2025 14:58:33.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7850ms or 157 ticks behind
+[02May2025 15:00:33.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.6.212.106:59639] logged in with entity id 47 at (407.5, 67.0, 275.5)
+[02May2025 15:00:33.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[02May2025 15:00:45.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[02May2025 15:01:17.790] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[02May2025 15:01:19.720] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[02May2025 15:01:20.001] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[02May2025 15:01:21.363] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:stronghold took 5232 ms
+[02May2025 15:01:21.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5224ms or 104 ticks behind
+[02May2025 15:04:01.694] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-174, y=-51, z=-282}
+[02May2025 15:04:01.929] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[02May2025 15:04:02.040] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-177, y=-51, z=-283}
+[02May2025 15:04:04.892] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-235, y=-58, z=-188}
+[02May2025 15:04:04.920] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[02May2025 15:04:05.042] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-129, y=-58, z=-61}
+[02May2025 15:04:05.043] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-127, y=-58, z=-61}
+[02May2025 15:04:05.572] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[02May2025 15:04:05.691] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[02May2025 15:04:05.822] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[02May2025 15:04:05.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to 928.500000, 70.683136, -1103.500000]
+[02May2025 15:04:05.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10503ms or 210 ticks behind
+[02May2025 15:04:13.240] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[02May2025 15:04:13.295] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-136, y=-58, z=-70}
+[02May2025 15:04:13.298] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[02May2025 15:04:13.547] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[02May2025 15:04:13.588] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[02May2025 15:04:13.732] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-154, y=-38, z=-308}
+[02May2025 15:04:13.742] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[02May2025 15:04:14.052] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[02May2025 15:04:20.559] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[02May2025 15:04:20.571] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[02May2025 15:04:21.449] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-173, y=-50, z=-325}
+[02May2025 15:04:21.457] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-235, y=-58, z=-188}
+[02May2025 15:04:21.537] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-177, y=-51, z=-324}
+[02May2025 15:04:21.538] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-176, y=-51, z=-326}
+[02May2025 15:04:21.737] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[02May2025 15:04:21.765] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[02May2025 15:04:21.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
+[02May2025 15:04:22.764] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[02May2025 15:04:22.909] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[02May2025 15:04:22.970] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[02May2025 15:04:23.192] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-129, y=-58, z=-61}
+[02May2025 15:04:23.193] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-127, y=-58, z=-61}
+[02May2025 15:04:27.536] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[02May2025 15:04:30.940] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-235, y=-58, z=-188}
+[02May2025 15:04:31.573] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[02May2025 15:04:31.578] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[02May2025 15:04:33.976] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[02May2025 15:04:34.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[02May2025 15:04:43.885] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[02May2025 15:04:49.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[02May2025 15:04:56.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Eye Spy]
