@@ -41,9 +41,21 @@
     },
     "done": true
   },
+  "enchantplus:list": {
+    "criteria": {
+      "requirement": "2025-05-02 15:24:24 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/strengthened_by_fire": {
     "criteria": {
       "criteria": "2025-05-02 15:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-02 15:24:37 +0000"
     },
     "done": true
   },
@@ -59,11 +71,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-02 15:26:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-05-02 15:13:46 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:phantom": "2025-05-02 15:31:54 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
@@ -113,6 +137,12 @@
     },
     "done": true
   },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-05-02 15:31:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-05-02 15:20:47 +0000"
@@ -125,9 +155,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-02 15:24:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-05-02 15:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-02 15:31:54 +0000"
     },
     "done": true
   },
@@ -140,6 +182,12 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-05-02 15:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:phantom": "2025-05-02 15:31:54 +0000"
     },
     "done": true
   },
