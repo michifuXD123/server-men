@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "enchantplus:weapons/sword/base": {
+    "criteria": {
+      "critical": "2025-05-02 15:38:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-05-02 15:13:46 +0000"
@@ -134,6 +140,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-05-02 15:20:47 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:weapons/sword/critical": {
+    "criteria": {
+      "requirement": "2025-05-02 15:38:30 +0000"
     },
     "done": true
   },
@@ -239,6 +251,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-05-02 15:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-05-02 15:35:43 +0000"
     },
     "done": true
   },
