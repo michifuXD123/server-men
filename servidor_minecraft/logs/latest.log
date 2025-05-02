@@ -198,3 +198,15 @@
 [02May2025 14:18:59.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
 [02May2025 14:19:57.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
 [02May2025 14:19:57.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[02May2025 14:51:23.982] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e1abbe7[id=440519aa-b504-3d33-a29d-8bfbe2066cf3,name=davixelpro123,properties={}] lost connection: Disconnected
+[02May2025 14:51:32.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02May2025 14:51:33.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02May2025 14:51:33.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02May2025 14:51:33.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02May2025 14:51:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02May2025 14:51:33.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02May2025 14:51:33.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02May2025 14:51:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02May2025 14:51:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02May2025 14:51:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02May2025 14:51:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
