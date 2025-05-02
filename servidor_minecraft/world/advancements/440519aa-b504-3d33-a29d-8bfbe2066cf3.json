@@ -1,0 +1,21 @@
+{
+  "end_cit_leg:technical/first_join": {
+    "criteria": {
+      "requirement": "2025-05-02 14:17:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-02 14:17:46 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-05-02 14:17:46 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}
