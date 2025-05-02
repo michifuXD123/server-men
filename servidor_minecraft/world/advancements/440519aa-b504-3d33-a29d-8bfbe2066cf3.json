@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "stellarity:recipes/gunpowder_from_popped_chorus_blasting": {
+    "criteria": {
+      "has_item": "2025-05-02 16:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:phantom": "2025-05-02 15:31:54 +0000",
@@ -168,6 +174,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-02 15:59:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-05-02 15:13:46 +0000"
@@ -192,6 +204,12 @@
     },
     "done": true
   },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-05-02 15:59:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-05-02 15:44:26 +0000"
@@ -207,6 +225,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-02 15:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-05-02 16:04:47 +0000"
     },
     "done": true
   },
@@ -259,6 +283,12 @@
     },
     "done": true
   },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2025-05-02 15:58:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-02 15:44:32 +0000"
@@ -268,6 +298,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-02 15:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-05-02 16:04:47 +0000"
     },
     "done": true
   },
@@ -313,6 +349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 15:59:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-05-02 15:44:24 +0000"
@@ -351,6 +393,12 @@
       "has_planks": "2025-05-02 15:44:32 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-05-02 15:59:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
@@ -415,6 +463,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-05-02 15:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-02 15:59:02 +0000"
     },
     "done": true
   },
