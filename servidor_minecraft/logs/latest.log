@@ -178,3 +178,13 @@
 [02May2025 15:04:43.885] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
 [02May2025 15:04:49.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
 [02May2025 15:04:56.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Eye Spy]
+[02May2025 15:09:08.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
+[02May2025 15:09:39.220] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
+[02May2025 15:10:48.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[02May2025 15:11:20.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
+[02May2025 15:12:30.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[02May2025 15:12:46.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> davixelpro123
+[02May2025 15:15:43.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has reached the goal [Strengthened by Fire]
+[02May2025 15:16:05.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has reached the goal [Journey's End]
+[02May2025 15:16:43.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[02May2025 15:17:20.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
