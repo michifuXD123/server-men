@@ -524,6 +524,7 @@
     "criteria": {
       "minecraft:blaze": "2025-05-03 02:22:42 +0000",
       "minecraft:skeleton": "2025-05-02 23:58:36 +0000",
+      "minecraft:piglin": "2025-05-03 02:45:25 +0000",
       "minecraft:enderman": "2025-05-03 02:20:04 +0000",
       "minecraft:spider": "2025-05-02 23:51:59 +0000",
       "minecraft:wither_skeleton": "2025-05-03 02:27:46 +0000",
@@ -1765,6 +1766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-03 02:32:52 +0000"
@@ -1809,6 +1816,12 @@
       "minecraft:warped_forest": "2025-05-03 02:19:10 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-05-03 02:46:34 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
@@ -1861,6 +1874,24 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 02:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-05-03 02:46:34 +0000"
     },
     "done": true
   },
@@ -1918,6 +1949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-05-03 02:42:23 +0000"
@@ -1942,9 +1979,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
+    },
+    "done": true
+  },
   "enchantplus:armor/life_plus": {
     "criteria": {
       "requirement": "2025-05-03 01:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
     },
     "done": true
   },
@@ -2008,6 +2069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-05-03 02:18:17 +0000"
@@ -2038,9 +2105,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-05-03 02:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
     },
     "done": true
   },
@@ -2059,6 +2138,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-03 02:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
     },
     "done": true
   },
@@ -2101,6 +2186,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 02:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
     },
     "done": true
   },
@@ -2155,6 +2246,18 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-05-03 02:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-05-03 02:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-03 02:50:45 +0000"
     },
     "done": true
   },
@@ -2215,6 +2318,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 02:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-03 02:49:54 +0000"
     },
     "done": true
   },

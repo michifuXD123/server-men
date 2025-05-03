@@ -1368,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-03 02:53:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-03 02:18:09 +0000"
@@ -1389,6 +1395,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 02:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-03 02:53:20 +0000"
     },
     "done": true
   },
@@ -1415,6 +1427,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 02:16:43 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:root": {
+    "criteria": {
+      "requirement": "2025-05-03 02:52:57 +0000"
     },
     "done": true
   },
@@ -1589,6 +1607,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-03 01:46:45 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/leggings/leaping": {
+    "criteria": {
+      "requirement": "2025-05-03 02:46:01 +0000"
     },
     "done": true
   },
@@ -1789,6 +1813,12 @@
       "has_glowstone_dust": "2025-05-03 02:16:44 +0000"
     },
     "done": true
+  },
+  "enchantplus:armor/leggings/base": {
+    "criteria": {
+      "leaping": "2025-05-03 02:46:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
