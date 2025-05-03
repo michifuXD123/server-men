@@ -1142,3 +1142,77 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03May2025 01:07:46.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
 [03May2025 01:08:11.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-382, y=-32, z=106} BlockPos{x=-383, y=-33, z=106}
 [03May2025 01:08:14.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-381, y=-31, z=107} BlockPos{x=-380, y=-31, z=108}
+[03May2025 01:09:41.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[03May2025 01:09:55.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 01:09:55.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 01:10:01.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[03May2025 01:10:35.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> deja de hablar peruano
+[03May2025 01:13:20.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> perdon
+[03May2025 01:13:26.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tienen que desperuanizarme
+[03May2025 01:13:30.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[03May2025 01:14:15.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 fell from a high place
+[03May2025 01:14:20.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> fuck
+[03May2025 01:14:24.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[03May2025 01:14:32.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> igual no me quedaba mucho por sacar
+[03May2025 01:14:42.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> el fate tiene el net de la patata
+[03May2025 01:14:43.223] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/4120, l='ServerLevel[world]', x=-517.38, y=110.00, z=132.86] died, message: 'Nitwit was slain by Zombie'
+[03May2025 01:14:51.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[03May2025 01:14:55.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 01:14:55.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 01:14:58.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ya perdio 20 mil fotogramas en el stream
+[03May2025 01:15:09.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> davi podes romper todas las camitas de los aldeanitos
+[03May2025 01:15:29.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tas en la home ?
+[03May2025 01:15:32.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> yes
+[03May2025 01:15:39.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[03May2025 01:15:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> bueno una orda
+[03May2025 01:15:49.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a el fate se le pausa cada2 segundos el stream xd
+[03May2025 01:15:54.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Zombie
+[03May2025 01:16:11.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> fuaa
+[03May2025 01:16:36.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Zombie
+[03May2025 01:16:41.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Zombie
+[03May2025 01:17:09.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[03May2025 01:17:17.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> poquitos zombies te perseguian xd
+[03May2025 01:17:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> casi te matan al golem
+[03May2025 01:17:35.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y que
+[03May2025 01:17:57.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> se le cayo el stream a el fate XD
+[03May2025 01:18:05.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[03May2025 01:18:27.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> fua mano vite el del libro
+[03May2025 01:18:56.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[03May2025 01:19:05.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> davi no es hora de cantar
+[03May2025 01:19:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> se le volvio a caer el stream
+[03May2025 01:19:54.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xdw
+[03May2025 01:19:55.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 01:19:55.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 01:20:03.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> el fate anda con el net de la nza
+[03May2025 01:20:13.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[03May2025 01:21:14.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> desperuanizenme pe causa
+[03May2025 01:21:34.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> alabad sea el señor desperuanizado
+[03May2025 01:21:49.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Iron Golem
+[03May2025 01:21:57.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[03May2025 01:22:39.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Iron Golem
+[03May2025 01:22:43.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[03May2025 01:22:52.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Iron Golem
+[03May2025 01:22:55.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[03May2025 01:23:08.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Iron Golem
+[03May2025 01:24:55.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 01:24:55.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 01:24:56.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> davi deja de mirar al sol se te quemaran los ojos
+[03May2025 01:26:25.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> que dijiste ?
+[03May2025 01:26:33.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> donde estan los aldeanos no los veo
+[03May2025 01:26:38.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que deji de mirar al sol que se te quemaran los ojos
+[03May2025 01:27:24.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> whats
+[03May2025 01:27:27.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mouse de mrd
+[03May2025 01:27:28.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que
+[03May2025 01:27:39.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> le di click derecho al aldeano pa tradear y le pego
+[03May2025 01:27:47.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que asia
+[03May2025 01:27:56.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> boton equivocao
+[03May2025 01:28:06.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> nooooo
+[03May2025 01:28:12.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que hiciste
+[03May2025 01:28:13.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ahora me pide 35 esmeraldas
+[03May2025 01:28:17.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mouse de mrd
+[03May2025 01:28:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> cual aldeano
+[03May2025 01:28:30.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> el del libro
+[03May2025 01:28:31.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> el de life 5
+[03May2025 01:28:48.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> davi te guta el penne
+[03May2025 01:29:16.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe el pichulas nunca se unio XD
+[03May2025 01:29:22.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> meno mal que ya le compre el libro
