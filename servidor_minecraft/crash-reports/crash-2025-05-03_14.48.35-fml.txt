@@ -1,0 +1,252 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 2025-05-03 14:48:35
+Description: Mod loading error has occurred
+
+java.lang.Exception: Mod Loading has failed
+	at TRANSFORMER/forge@51.0.33/net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:49) ~[forge-1.21-51.0.33-universal.jar:?] {re:classloading}
+	at TRANSFORMER/forge@51.0.33/net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:37) ~[forge-1.21-51.0.33-universal.jar:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21/net.minecraft.server.Main.main(Main.java:127) ~[forge-1.21-51.0.33-server.jar:?] {re:classloading}
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?] {}
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?] {}
+	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21-51.0.33/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:91) ~[fmlloader-1.21-51.0.33.jar!/:?] {}
+	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21-51.0.33/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.lambda$makeService$0(CommonLaunchHandler.java:75) ~[fmlloader-1.21-51.0.33.jar!/:?] {}
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:77) [modlauncher-10.2.1.jar!/:?] {}
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:97) [modlauncher-10.2.1.jar!/:?] {}
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.Launcher.run(Launcher.java:116) [modlauncher-10.2.1.jar!/:?] {}
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.Launcher.main(Launcher.java:75) [modlauncher-10.2.1.jar!/:?] {}
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.BootstrapEntry.main(BootstrapEntry.java:17) [modlauncher-10.2.1.jar!/:?] {}
+	at net.minecraftforge.bootstrap@2.1.3/net.minecraftforge.bootstrap.Bootstrap.moduleMain(Bootstrap.java:188) [bootstrap-2.1.3.jar!/:?] {}
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?] {}
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?] {}
+	at net.minecraftforge.bootstrap.Bootstrap.bootstrapMain(Bootstrap.java:133) [bootstrap-2.1.3.jar:2.1.3] {}
+	at net.minecraftforge.bootstrap.Bootstrap.start(Bootstrap.java:53) [bootstrap-2.1.3.jar:2.1.3] {}
+	at net.minecraftforge.bootstrap.ForgeBootstrap.main(ForgeBootstrap.java:19) [bootstrap-2.1.3.jar:2.1.3] {}
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?] {}
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?] {}
+	at net.minecraftforge.bootstrap.shim.Main.main(Main.java:97) [forge-1.21-51.0.33-shim.jar:2.1.3] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: main
+Suspected Mods: NONE
+Stacktrace:
+	at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.loadClass(SecureModuleClassLoader.java:454) ~[securemodules-2.2.19.jar!/:?] {}
+-- MOD genshinstrument --
+Details:
+	Caused by 0: java.lang.NoClassDefFoundError: net/minecraft/client/gui/components/Renderable
+		at java.base/java.lang.ClassLoader.defineClass1(Native Method) ~[?:?] {}
+		at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027) ~[?:?] {}
+		at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?] {}
+		at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.readerToClass(SecureModuleClassLoader.java:491) ~[securemodules-2.2.19.jar!/:?] {}
+		at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.findClass(SecureModuleClassLoader.java:406) ~[securemodules-2.2.19.jar!/:?] {}
+		at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.loadClass(SecureModuleClassLoader.java:422) ~[securemodules-2.2.19.jar!/:?] {}
+		at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?] {}
+		at java.base/java.lang.ClassLoader.defineClass1(Native Method) ~[?:?] {}
+		at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027) ~[?:?] {}
+		at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?] {}
+		at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.readerToClass(SecureModuleClassLoader.java:491) ~[securemodules-2.2.19.jar!/:?] {}
+		at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.findClass(SecureModuleClassLoader.java:406) ~[securemodules-2.2.19.jar!/:?] {}
+		at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.loadClass(SecureModuleClassLoader.java:422) ~[securemodules-2.2.19.jar!/:?] {}
+		at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?] {}
+		at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:75) ~[eventbus-6.2.8.jar:?] {}
+		at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:31) ~[eventbus-6.2.8.jar:?] {}
+		at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:30) ~[eventbus-6.2.8.jar:?] {}
+		at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:36) ~[eventbus-6.2.8.jar:6.2.8] {}
+		at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:91) ~[modlauncher-10.2.1.jar:?] {}
+		at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:107) ~[modlauncher-10.2.1.jar:?] {}
+		at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:44) ~[modlauncher-10.2.1.jar:?] {}
+		at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.readerToClass(SecureModuleClassLoader.java:480) ~[securemodules-2.2.19.jar!/:?] {}
+		at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.findClass(SecureModuleClassLoader.java:406) ~[securemodules-2.2.19.jar!/:?] {}
+		at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.loadClass(SecureModuleClassLoader.java:422) ~[securemodules-2.2.19.jar!/:?] {}
+		at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?] {}
+		at java.base/java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?] {}
+		at java.base/java.lang.Class.privateGetDeclaredConstructors(Class.java:3549) ~[?:?] {}
+		at java.base/java.lang.Class.getConstructor0(Class.java:3754) ~[?:?] {}
+		at java.base/java.lang.Class.getDeclaredConstructor(Class.java:2930) ~[?:?] {}
+		at TRANSFORMER/genshinstrument@5.0/com.cstav.genshinstrument.util.ServerUtil.registerModPackets(ServerUtil.java:23) ~[genshinstrument-1.21-1.21.1-5.0.jar!/:1.21-1.21.1-5.0] {re:classloading}
+		at TRANSFORMER/genshinstrument@5.0/com.cstav.genshinstrument.networking.GIPacketHandler.registerPackets(GIPacketHandler.java:37) ~[genshinstrument-1.21-1.21.1-5.0.jar!/:1.21-1.21.1-5.0] {re:classloading}
+		at TRANSFORMER/genshinstrument@5.0/com.cstav.genshinstrument.GInstrumentMod.<init>(GInstrumentMod.java:38) ~[genshinstrument-1.21-1.21.1-5.0.jar!/:1.21-1.21.1-5.0] {re:classloading}
+		at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?] {}
+		at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?] {}
+		at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?] {}
+		at LAYER PLUGIN/net.minecraftforge.javafmlmod@1.21-51.0.33/net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:66) ~[javafmllanguage-1.21-51.0.33.jar!/:51.0.33] {}
+		at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21-51.0.33/net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:125) ~[fmlcore-1.21-51.0.33.jar!/:1.0] {}
+		at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?] {}
+		at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?] {}
+		at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?] {}
+		at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?] {}
+		at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?] {re:computing_frames}
+		at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?] {re:computing_frames}
+		at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?] {}
+
+	Mod File: /workspaces/server-men/servidor_minecraft/mods/genshinstrument-1.21-1.21.1-5.0.jar
+	Failure message: Genshin Instruments (genshinstrument) has failed to load correctly
+		java.lang.NoClassDefFoundError: net/minecraft/client/gui/components/Renderable
+	Mod Version: 5.0
+	Mod Issue URL: https://github.com/StavWasPlayZ/Genshin-Instruments/issues/
+	Exception message: java.lang.ClassNotFoundException: net.minecraft.client.gui.components.Renderable
+Stacktrace:
+	at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.loadClass(SecureModuleClassLoader.java:454) ~[securemodules-2.2.19.jar!/:?] {}
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?] {}
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method) ~[?:?] {}
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027) ~[?:?] {}
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?] {}
+	at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.readerToClass(SecureModuleClassLoader.java:491) ~[securemodules-2.2.19.jar!/:?] {}
+	at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.findClass(SecureModuleClassLoader.java:406) ~[securemodules-2.2.19.jar!/:?] {}
+	at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.loadClass(SecureModuleClassLoader.java:422) ~[securemodules-2.2.19.jar!/:?] {}
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?] {}
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method) ~[?:?] {}
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027) ~[?:?] {}
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?] {}
+	at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.readerToClass(SecureModuleClassLoader.java:491) ~[securemodules-2.2.19.jar!/:?] {}
+	at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.findClass(SecureModuleClassLoader.java:406) ~[securemodules-2.2.19.jar!/:?] {}
+	at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.loadClass(SecureModuleClassLoader.java:422) ~[securemodules-2.2.19.jar!/:?] {}
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?] {}
+	at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:75) ~[eventbus-6.2.8.jar:?] {}
+	at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:31) ~[eventbus-6.2.8.jar:?] {}
+	at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:30) ~[eventbus-6.2.8.jar:?] {}
+	at SECURE-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:36) ~[eventbus-6.2.8.jar:6.2.8] {}
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:91) ~[modlauncher-10.2.1.jar:?] {}
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:107) ~[modlauncher-10.2.1.jar:?] {}
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:44) ~[modlauncher-10.2.1.jar:?] {}
+	at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.readerToClass(SecureModuleClassLoader.java:480) ~[securemodules-2.2.19.jar!/:?] {}
+	at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.findClass(SecureModuleClassLoader.java:406) ~[securemodules-2.2.19.jar!/:?] {}
+	at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.loadClass(SecureModuleClassLoader.java:422) ~[securemodules-2.2.19.jar!/:?] {}
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?] {}
+	at java.base/java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?] {}
+	at java.base/java.lang.Class.privateGetDeclaredConstructors(Class.java:3549) ~[?:?] {}
+	at java.base/java.lang.Class.getConstructor0(Class.java:3754) ~[?:?] {}
+	at java.base/java.lang.Class.getDeclaredConstructor(Class.java:2930) ~[?:?] {}
+	at TRANSFORMER/genshinstrument@5.0/com.cstav.genshinstrument.util.ServerUtil.registerModPackets(ServerUtil.java:23) ~[genshinstrument-1.21-1.21.1-5.0.jar!/:1.21-1.21.1-5.0] {re:classloading}
+	at TRANSFORMER/genshinstrument@5.0/com.cstav.genshinstrument.networking.GIPacketHandler.registerPackets(GIPacketHandler.java:37) ~[genshinstrument-1.21-1.21.1-5.0.jar!/:1.21-1.21.1-5.0] {re:classloading}
+	at TRANSFORMER/genshinstrument@5.0/com.cstav.genshinstrument.GInstrumentMod.<init>(GInstrumentMod.java:38) ~[genshinstrument-1.21-1.21.1-5.0.jar!/:1.21-1.21.1-5.0] {re:classloading}
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?] {}
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?] {}
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?] {}
+	at LAYER PLUGIN/net.minecraftforge.javafmlmod@1.21-51.0.33/net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:66) ~[javafmllanguage-1.21-51.0.33.jar!/:51.0.33] {}
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21-51.0.33/net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:125) ~[fmlcore-1.21-51.0.33.jar!/:1.0] {}
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?] {}
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?] {}
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?] {}
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?] {}
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?] {re:computing_frames}
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?] {re:computing_frames}
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?] {}
+
+
+-- MOD evenmoreinstruments --
+Details:
+	Mod File: /workspaces/server-men/servidor_minecraft/mods/evenmoreinstruments-1.21-1.21.1-6.1.3.jar
+	Failure message: Even More Instruments! (evenmoreinstruments) has failed to load correctly
+		java.lang.NoSuchMethodError: 'net.minecraft.resources.ResourceLocation net.minecraft.resources.ResourceLocation.m_339182_(java.lang.String, java.lang.String)'
+	Mod Version: 6.1.3
+	Mod Issue URL: https://github.com/StavWasPlayZ/Even-More-Instruments/issues
+	Exception message: java.lang.NoSuchMethodError: 'net.minecraft.resources.ResourceLocation net.minecraft.resources.ResourceLocation.m_339182_(java.lang.String, java.lang.String)'
+Stacktrace:
+	at TRANSFORMER/evenmoreinstruments@6.1.3/com.cstav.evenmoreinstruments.EMIMain.loc(EMIMain.java:35) ~[evenmoreinstruments-1.21-1.21.1-6.1.3.jar!/:1.21-1.21.1-6.1.3] {re:classloading}
+	at TRANSFORMER/evenmoreinstruments@6.1.3/com.cstav.evenmoreinstruments.networking.EMIPacketHandler.<clinit>(EMIPacketHandler.java:43) ~[evenmoreinstruments-1.21-1.21.1-6.1.3.jar!/:1.21-1.21.1-6.1.3] {re:classloading}
+	at TRANSFORMER/evenmoreinstruments@6.1.3/com.cstav.evenmoreinstruments.EMIMain.<init>(EMIMain.java:58) ~[evenmoreinstruments-1.21-1.21.1-6.1.3.jar!/:1.21-1.21.1-6.1.3] {re:classloading}
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?] {}
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?] {}
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?] {}
+	at LAYER PLUGIN/net.minecraftforge.javafmlmod@1.21-51.0.33/net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:66) ~[javafmllanguage-1.21-51.0.33.jar!/:51.0.33] {}
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21-51.0.33/net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:125) ~[fmlcore-1.21-51.0.33.jar!/:1.0] {}
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?] {}
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?] {}
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?] {}
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?] {}
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?] {re:computing_frames}
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?] {re:computing_frames}
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21
+	Minecraft Version ID: 1.21
+	Operating System: Linux (amd64) version 6.8.0-1026-azure
+	Java Version: 21.0.6, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1732247552 bytes (1652 MiB) / 2147483648 bytes (2048 MiB) up to 8589934592 bytes (8192 MiB)
+	CPUs: 2
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 1
+	Number of logical CPUs: 2
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MiB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MiB): 3969.35
+	Virtual memory used (MiB): 2898.21
+	Swap memory total (MiB): 0.00
+	Swap memory used (MiB): 0.00
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 21829.38, total: 45046.83
+	Space in storage for workdir (MiB): available: 16701.29, total: 32077.81
+	JVM Flags: 2 total; -Xms2G -Xmx8G
+	ModLauncher: 10.2.1
+	ModLauncher launch target: forge_server
+	ModLauncher naming: mcp
+	ModLauncher services: 
+		/ slf4jfixer PLUGINSERVICE 
+		/ runtimedistcleaner PLUGINSERVICE 
+		/ runtime_enum_extender PLUGINSERVICE 
+		/ object_holder_definalize PLUGINSERVICE 
+		/ capability_token_subclass PLUGINSERVICE 
+		/ accesstransformer PLUGINSERVICE 
+		/ eventbus PLUGINSERVICE 
+		/ mixin PLUGINSERVICE 
+		/ fml TRANSFORMATIONSERVICE 
+		/ mixin TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		lowcodefml@51
+		minecraft@1.0
+		javafml@51.0.33
+	Mod List: 
+		forge-1.21-51.0.33-server.jar                     |Minecraft                     |minecraft                     |1.21                |COMMON_SET|Manifest: NOSIGNATURE
+		limbo-dimension-datapack-3.0.4.1.21.1.jar         |LIMBO Dimension Datapack      |mr_limbo_dimensiondatapack    |3.0.4.1.21.1        |COMMON_SET|Manifest: NOSIGNATURE
+		beyondenchant-1.5.0.jar                           |BeyondEnchant                 |mr_beyondenchant              |1.5.0               |COMMON_SET|Manifest: NOSIGNATURE
+		geckolib-forge-1.21-4.5.8.jar                     |GeckoLib 4                    |geckolib                      |4.5.8               |COMMON_SET|Manifest: NOSIGNATURE
+		desert-scourge-1.2.jar                            |Desert Scourge                |mr_desert_scourge             |1.2                 |COMMON_SET|Manifest: NOSIGNATURE
+		edf-remastered-5.0-beta4.jar                      |Ender Dragon Fight Remastered |mr_edf_remastered             |5.0-beta4           |COMMON_SET|Manifest: NOSIGNATURE
+		Chunky-Forge-1.4.23.jar                           |Chunky                        |chunky                        |1.4.23              |COMMON_SET|Manifest: NOSIGNATURE
+		mob-heads-v.3.2.2.jar                             |Mob Heads                     |mr_mob_heads                  |1-v.3.2.2           |COMMON_SET|Manifest: NOSIGNATURE
+		enchantments-encore-1.8.jar                       |Enchantments Encore           |mr_enchantments_encore        |1.8                 |COMMON_SET|Manifest: NOSIGNATURE
+		blossom-blade-1.3.jar                             |Blossom Blade                 |mr_blossom_blade              |1.3                 |COMMON_SET|Manifest: NOSIGNATURE
+		collective-1.21.1-8.3.jar                         |Collective                    |collective                    |8.3                 |COMMON_SET|Manifest: NOSIGNATURE
+		CerbonsAPI-Forge-1.21-1.3.0.jar                   |Cerbons API                   |cerbons_api                   |1.3.0               |COMMON_SET|Manifest: NOSIGNATURE
+		advancednetherite-forge-2.1.6-1.21.jar            |Advanced Netherite            |advancednetherite             |2.1.6               |COMMON_SET|Manifest: NOSIGNATURE
+		mine-treasure-1.4.6.jar                           |Mine Treasure                 |mr_mine_treasure              |1.4.6               |COMMON_SET|Manifest: NOSIGNATURE
+		dungeons-and-taverns-v4.4.4.jar                   |Dungeons and Taverns          |mr_dungeons_andtaverns        |1-v4.4.4            |COMMON_SET|Manifest: NOSIGNATURE
+		YungsApi-1.21.1-Forge-5.1.4.jar                   |YUNG's API                    |yungsapi                      |1.21.1-Forge-5.1.4  |COMMON_SET|Manifest: NOSIGNATURE
+		health-indicator-4.jar                            |Health Indicator              |mr_health_indicator           |4                   |COMMON_SET|Manifest: NOSIGNATURE
+		mixinextras-forge-0.3.5.jar                       |MixinExtras                   |mixinextras                   |0.3.5               |COMMON_SET|Manifest: NOSIGNATURE
+		moreenchantments-1.2.1.jar                        |More Enchants                 |mr_moreenchantments           |1.2.1               |COMMON_SET|Manifest: NOSIGNATURE
+		forge_medieval_buildings_end_edition-1.0.2-1.21.ja|Medieval Buildings [The End Ed|medievalend                   |1.0.2               |COMMON_SET|Manifest: NOSIGNATURE
+		YungsBetterDesertTemples-1.21.1-Forge-4.1.5.jar   |YUNG's Better Desert Temples  |betterdeserttemples           |1.21.1-Forge-4.1.5  |COMMON_SET|Manifest: NOSIGNATURE
+		medieval_buildings-1.21-1.1.0-forge.jar           |Medieval Buildings            |medieval_buildings            |1.1.0               |COMMON_SET|Manifest: NOSIGNATURE
+		genshinstrument-1.21-1.21.1-5.0.jar               |Genshin Instruments           |genshinstrument               |5.0                 |ERROR     |Manifest: NOSIGNATURE
+		evenmoreinstruments-1.21-1.21.1-6.1.3.jar         |Even More Instruments!        |evenmoreinstruments           |6.1.3               |ERROR     |Manifest: NOSIGNATURE
+		cloth-config-15.0.140-forge.jar                   |Cloth Config v14 API          |cloth_config                  |15.0.140            |COMMON_SET|Manifest: NOSIGNATURE
+		YungsBetterNetherFortresses-1.21.1-Forge-3.1.4.jar|YUNG's Better Nether Fortresse|betterfortresses              |1.21.1-Forge-3.1.4  |COMMON_SET|Manifest: NOSIGNATURE
+		forge-1.21-51.0.33-universal.jar                  |Forge                         |forge                         |51.0.33             |COMMON_SET|Manifest: NOSIGNATURE
+		Stellarity-3.0.6.jar                              |Stellarity                    |stellarity                    |3.0.6               |COMMON_SET|Manifest: NOSIGNATURE
+		infinitetrading-1.21.1-4.6.jar                    |Infinite Trading              |infinitetrading               |4.6                 |COMMON_SET|Manifest: NOSIGNATURE
+		neoenchant-5.10.jar                               |Neo Enchant+                  |mr_neoenchant                 |5.10                |COMMON_SET|Manifest: NOSIGNATURE
+		YungsBetterMineshafts-1.21.1-Forge-5.1.1.jar      |YUNG's Better Mineshafts      |bettermineshafts              |1.21.1-Forge-5.1.1  |COMMON_SET|Manifest: NOSIGNATURE
+	Crash Report UUID: a7d53e2b-b84d-4d4d-97c9-e03796833a0a
+	FML: 0.0
+	Forge: net.minecraftforge:51.0.33
