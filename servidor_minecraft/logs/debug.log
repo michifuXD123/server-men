@@ -1555,3 +1555,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7:
 [03May2025 20:07:18.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
 [03May2025 20:07:18.789] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of davixelpro123
 [03May2025 20:07:18.792] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[03May2025 20:07:48.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 20:07:48.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 20:12:48.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 20:12:48.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
