@@ -1855,3 +1855,59 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03May2025 03:45:46.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03May2025 03:45:46.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved wrongly!
 [03May2025 03:46:18.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=58, z=112} BlockPos{x=-143, y=55, z=113}
+[03May2025 03:48:28.705] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37301, l='ServerLevel[world]', x=-856.77, y=75.00, z=387.59] died, message: 'Villager was slain by Zombie'
+[03May2025 03:48:38.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=32, z=118} BlockPos{x=-177, y=33, z=118}
+[03May2025 03:49:04.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Spider
+[03May2025 03:49:59.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=14, z=131} BlockPos{x=-188, y=15, z=131}
+[03May2025 03:50:40.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=12, z=152} BlockPos{x=-190, y=11, z=152}
+[03May2025 03:50:40.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=12, z=152} BlockPos{x=-190, y=12, z=152}
+[03May2025 03:50:40.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=11, z=152} BlockPos{x=-190, y=12, z=152}
+[03May2025 03:50:41.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=11, z=152} BlockPos{x=-190, y=12, z=152}
+[03May2025 03:50:41.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=12, z=152} BlockPos{x=-190, y=12, z=152}
+[03May2025 03:50:41.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=12, z=152} BlockPos{x=-190, y=12, z=152}
+[03May2025 03:50:41.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=12, z=152} BlockPos{x=-190, y=12, z=152}
+[03May2025 03:50:46.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 03:50:46.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 03:50:53.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> fuck
+[03May2025 03:51:12.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que te paso
+[03May2025 03:51:13.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me dan efi 4 a 30 niveles a que se lo pongo ?
+[03May2025 03:51:20.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no
+[03May2025 03:51:23.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no que
+[03May2025 03:51:31.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> hasted es mejor
+[03May2025 03:51:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> literalmente la grava la pico como si tubiera una pala
+[03May2025 03:51:45.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> fuaaaaa
+[03May2025 03:51:46.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
+[03May2025 03:51:48.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y hastes lo tengo en el pico
+[03May2025 03:52:03.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que
+[03May2025 03:52:08.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> le di al efi 4 y ahora tengo efi 4 haste 3 y haste 2 en un pico mira tepeate
+[03May2025 03:52:09.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[03May2025 03:52:20.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pera
+[03May2025 03:52:47.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
+[03May2025 03:52:47.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
+[03May2025 03:53:26.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> antes de venir ami traeme tierra de mi cofre
+[03May2025 03:53:28.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> porfa
+[03May2025 03:53:42.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> putamadre
+[03May2025 03:53:47.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no ya no
+[03May2025 03:53:51.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> se salio el aliansa con el fuego
+[03May2025 03:54:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
+[03May2025 03:54:19.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ay
+[03May2025 03:54:21.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> la pala
+[03May2025 03:54:22.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> otia puta
+[03May2025 03:54:37.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[03May2025 03:54:47.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ??????????????????????????????????????????????????????????????????????
+[03May2025 03:54:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ?
+[03May2025 03:54:55.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> que mrd
+[03May2025 03:55:08.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> se me cayo el teclao al suelo y se me cambio a crea xd
+[03May2025 03:55:14.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[03May2025 03:55:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[03May2025 03:55:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> sisi claro
+[03May2025 03:55:24.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no encerio
+[03May2025 03:55:26.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[03May2025 03:55:34.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ni yo me habia dado cuenta
+[03May2025 03:55:46.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 03:55:46.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 03:55:52.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Set own game mode to Creative Mode]
+[03May2025 03:55:57.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> uy se me cayo la compu
+[03May2025 03:56:03.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y se coloco en creativo solo
+[03May2025 03:56:10.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[03May2025 03:56:11.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Set own game mode to Survival Mode]
