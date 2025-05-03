@@ -115,3 +115,7 @@
 [03May2025 06:05:39.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Applied enchantment Mending V to davixelpro123's item]
 [03May2025 06:06:45.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Glow and Behold!]
 [03May2025 06:10:33.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[03May2025 06:15:05.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-882, y=70, z=417} BlockPos{x=-882, y=68, z=416}
+[03May2025 06:17:25.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-840, y=74, z=404} BlockPos{x=-841, y=70, z=403}
+[03May2025 06:23:28.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-881, y=77, z=440} BlockPos{x=-819, y=70, z=432}
+[03May2025 06:23:48.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Spider
