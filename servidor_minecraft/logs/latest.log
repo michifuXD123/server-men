@@ -208,3 +208,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7:
 [03May2025 16:09:12.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was shot by Skeleton
 [03May2025 16:11:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> aaaaaaaa
 [03May2025 16:14:33.528] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/90, l='ServerLevel[world]', x=-830.54, y=69.00, z=447.15] died, message: 'Fletcher was slain by davixelpro123'
+[03May2025 16:19:51.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Running function backpacks:bp/open/main]
+[03May2025 16:23:47.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [advancements.backpacks.adventurer]
