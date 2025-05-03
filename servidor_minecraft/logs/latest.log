@@ -109,3 +109,6 @@
 [03May2025 05:52:36.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
 [03May2025 05:54:24.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
 [03May2025 05:54:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[03May2025 05:55:07.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.153.48.251:38099] logged in with entity id 9079 at (-852.8409713090616, 69.0, 432.74544152930775)
+[03May2025 05:55:07.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[03May2025 06:00:08.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set the time to 1000]
