@@ -293,11 +293,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-03 02:32:06 +0000",
       "minecraft:skeleton": "2025-05-02 23:16:57 +0000",
       "minecraft:piglin": "2025-05-03 02:16:19 +0000",
       "minecraft:enderman": "2025-05-03 02:18:43 +0000",
       "minecraft:magma_cube": "2025-05-03 02:26:16 +0000",
       "minecraft:piglin_brute": "2025-05-03 02:16:34 +0000",
+      "minecraft:wither_skeleton": "2025-05-03 02:35:30 +0000",
       "minecraft:zombie": "2025-05-02 23:10:29 +0000"
     },
     "done": false
@@ -1336,6 +1338,30 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-03 02:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-03 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-03 02:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-03 02:36:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-03 02:07:00 +0000"
@@ -1446,9 +1472,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-03 02:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-03 01:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-03 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-03 02:31:43 +0000"
     },
     "done": true
   },
@@ -1554,6 +1598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-03 02:36:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-03 01:57:01 +0000"
@@ -1578,6 +1628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-03 02:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 02:16:43 +0000"
@@ -1593,6 +1649,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-05-03 02:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-03 02:31:43 +0000"
     },
     "done": true
   },
@@ -1620,6 +1682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-03 02:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-05-03 01:57:01 +0000"
@@ -1635,6 +1703,18 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-05-03 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-03 02:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-03 02:36:18 +0000"
     },
     "done": true
   },
@@ -1728,6 +1808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-03 02:36:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 02:16:43 +0000"
@@ -1743,6 +1829,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-03 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-03 02:31:43 +0000"
     },
     "done": true
   },

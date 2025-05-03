@@ -1759,6 +1759,36 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-03 02:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-03 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 02:22:37 +0000"
@@ -1779,6 +1809,18 @@
       "minecraft:warped_forest": "2025-05-03 02:19:10 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-03 02:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-03 02:42:23 +0000"
+    },
+    "done": true
   },
   "enchantplus:armor/boots/agility": {
     "criteria": {
@@ -1822,6 +1864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-05-03 02:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 02:22:37 +0000"
@@ -1831,6 +1879,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-05-03 02:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-03 02:32:52 +0000"
     },
     "done": true
   },
@@ -1846,6 +1900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-03 02:28:27 +0000"
@@ -1855,6 +1915,18 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-05-03 02:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-03 02:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:00 +0000"
     },
     "done": true
   },
@@ -1876,6 +1948,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-03 02:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-05-03 02:18:17 +0000"
@@ -1891,6 +1969,24 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-05-03 02:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-03 02:32:52 +0000"
     },
     "done": true
   },
@@ -1924,6 +2020,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-03 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:weapons/sword/base": {
+    "criteria": {
+      "xp_boost": "2025-05-03 02:44:58 +0000"
+    },
+    "done": false
+  },
   "enchantplus:armor/boots/base": {
     "criteria": {
       "got_agility": "2025-05-03 02:29:29 +0000"
@@ -1942,9 +2050,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-03 02:32:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-03 02:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-03 02:44:22 +0000"
     },
     "done": true
   },
@@ -1960,15 +2080,45 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-03 02:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-03 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-03 02:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 02:22:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 02:22:37 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:weapons/sword/xp_boost": {
+    "criteria": {
+      "requirement": "2025-05-03 02:44:58 +0000"
     },
     "done": true
   },
@@ -1984,9 +2134,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-03 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-05-03 02:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-03 02:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-03 02:41:31 +0000"
     },
     "done": true
   },
@@ -2005,6 +2173,18 @@
   "enchantplus:durability/curse_of_breaking": {
     "criteria": {
       "requirement": "2025-05-03 02:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-03 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-03 02:44:25 +0000"
     },
     "done": true
   },
