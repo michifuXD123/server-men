@@ -174,3 +174,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7:
 [03May2025 23:07:55.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
 [03May2025 23:07:55.953] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
 [03May2025 23:07:55.962] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[03May2025 23:12:02.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[03May2025 23:12:21.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind

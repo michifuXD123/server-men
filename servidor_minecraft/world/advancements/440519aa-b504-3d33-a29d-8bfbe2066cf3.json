@@ -2962,45 +2962,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-03 22:10:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-03 22:02:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-05-03 22:24:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-03 22:10:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-05-03 22:03:31 +0000"
-    },
-    "done": true
-  },
-  "enchantplus:armor/venom_protection": {
-    "criteria": {
-      "requirement": "2025-05-03 22:38:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-05-03 22:03:39 +0000"
     },
     "done": true
   },
@@ -3010,27 +2974,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "has_planks": "2025-05-03 22:24:20 +0000"
-    },
-    "done": true
-  },
-  "mt:technical/armor/boots_durability": {
-    "criteria": {
-      "requirement": "2025-05-03 22:44:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-05-03 22:24:20 +0000"
-    },
-    "done": true
-  },
-  "stellarity:story/strengthened_by_fire": {
-    "criteria": {
-      "criteria": "2025-05-03 22:03:39 +0000"
+      "has_potato": "2025-05-03 22:02:00 +0000"
     },
     "done": true
   },
@@ -3040,21 +2986,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_button": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_planks": "2025-05-03 22:10:42 +0000"
+      "has_blaze_rod": "2025-05-03 22:03:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_sign": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_planks": "2025-05-03 22:24:20 +0000"
+      "has_blaze_rod": "2025-05-03 22:03:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_fence_gate": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_planks": "2025-05-03 22:24:20 +0000"
+      "has_blaze_powder": "2025-05-03 22:03:31 +0000"
     },
     "done": true
   },
@@ -3064,9 +3010,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_slab": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "has_planks": "2025-05-03 22:24:20 +0000"
+      "has_ender_eye": "2025-05-03 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-05-03 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-05-03 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-03 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-03 22:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-03 22:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 22:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:10:42 +0000"
     },
     "done": true
   },
@@ -3082,12 +3082,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-03 22:24:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-05-03 22:10:42 +0000"
@@ -3100,69 +3094,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-05-03 22:10:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-05-03 22:10:42 +0000"
-    },
-    "done": true
-  },
-  "stellarity:recipes/slime_ball_from_ender_eye": {
-    "criteria": {
-      "has_item": "2025-05-03 22:03:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-03 22:06:06 +0000"
-    },
-    "done": true
-  },
-  "mt:technical/armor/legs_durability": {
-    "criteria": {
-      "requirement": "2025-05-03 22:26:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-03 22:10:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-05-03 22:02:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-03 22:24:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-05-03 22:03:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-03 22:24:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-05-03 22:03:39 +0000"
     },
     "done": true
   },
@@ -3172,9 +3106,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "has_blaze_rod": "2025-05-03 22:03:02 +0000"
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/legs_durability": {
+    "criteria": {
+      "requirement": "2025-05-03 22:26:18 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/venom_protection": {
+    "criteria": {
+      "requirement": "2025-05-03 22:38:24 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/boots_durability": {
+    "criteria": {
+      "requirement": "2025-05-03 22:44:41 +0000"
     },
     "done": true
   },
