@@ -105,3 +105,7 @@
 [03May2025 05:13:47.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
 [03May2025 05:13:50.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was doomed to fall by crisrob
 [03May2025 05:40:24.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Zombie
+[03May2025 05:52:31.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set the weather to clear]
+[03May2025 05:52:36.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[03May2025 05:54:24.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[03May2025 05:54:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
