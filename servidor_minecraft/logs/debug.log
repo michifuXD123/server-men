@@ -1240,3 +1240,70 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03May2025 04:29:25.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> eso ase
 [03May2025 04:29:30.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> atrastuyo
 [03May2025 04:29:35.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y eso spawnea
+[03May2025 04:29:58.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> aaa?a
+[03May2025 04:30:06.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por que ay dos aldeanos ay adentros
+[03May2025 04:30:12.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que se yo
+[03May2025 04:30:21.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> se multiplican xd
+[03May2025 04:30:39.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> el aldeano: hoy es noche de sexo
+[03May2025 04:30:56.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:30:56.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:31:39.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> camo
+[03May2025 04:31:45.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> 20 de hilo por 1 emeralda
+[03May2025 04:31:55.368] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-837, y=69, z=443}
+[03May2025 04:33:11.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> faltan aldeanos no ?
+[03May2025 04:33:18.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no se
+[03May2025 04:33:49.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved too quickly! 9.046404421742182,-1.3099237991128945,4.608121450112435
+[03May2025 04:33:57.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que te pasa
+[03May2025 04:34:32.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe vas a compra la repa o lo saco por que otro aldeano tomo el este ay 2 aldeanos en una sola mesa y el otro lo necesito
+[03May2025 04:34:47.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> compra
+[03May2025 04:35:00.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> como asi ;v
+[03May2025 04:35:03.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> como que compre
+[03May2025 04:35:08.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si coca
+[03May2025 04:35:28.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ya pero encerio que hago
+[03May2025 04:35:37.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> compra
+[03May2025 04:35:40.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pero que nvl es
+[03May2025 04:35:50.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> el aldeano ?
+[03May2025 04:35:54.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> es repa 1
+[03May2025 04:35:56.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:35:56.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:36:05.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pues si cambia
+[03May2025 04:39:36.951] [Worker-Main-1/DEBUG] [mixin/]: Mixing NoiseChunkMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[03May2025 04:39:36.954] [Worker-Main-1/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[03May2025 04:39:36.955] [Worker-Main-1/DEBUG] [mixin/]: Renaming synthetic method lambda$yungsapi_dontFillMarkedPositions$0()Lcom/yungnickyoung/minecraft/yungsapi/world/structure/terrainadaptation/aquiferoverride/AquiferOverrideMask; to mdb5ea15$yungsapi$lambda$yungsapi_dontFillMarkedPositions$0$0 in yungsapi.mixins.json:NoiseChunkMixin
+[03May2025 04:39:37.003] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.NoiseChunkAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[03May2025 04:39:37.004] [Worker-Main-1/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.NoiseChunkAccessor: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[03May2025 04:39:37.059] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[03May2025 04:39:37.060] [Worker-Main-1/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[03May2025 04:39:37.077] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[03May2025 04:39:37.077] [Worker-Main-1/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.BeardifierAccessor: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[03May2025 04:40:56.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:40:56.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:41:31.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob burned to death
+[03May2025 04:41:42.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
+[03May2025 04:41:59.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> guarda spawn en tu cama la saque
+[03May2025 04:42:55.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ddame esa mesa
+[03May2025 04:43:14.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mejor que chambees
+[03May2025 04:43:24.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ay vecez que no accepta
+[03May2025 04:43:28.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> vecez
+[03May2025 04:43:37.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
+[03May2025 04:43:40.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que
+[03May2025 04:43:40.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me falta una mesa
+[03May2025 04:44:26.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> cuando aras lo de la granja de hilo
+[03May2025 04:44:42.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> fury
+[03May2025 04:44:47.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> fury 3
+[03May2025 04:44:51.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> 2
+[03May2025 04:44:52.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> e 2
+[03May2025 04:44:56.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> es bueno
+[03May2025 04:45:04.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> hace creo que el doble de daño
+[03May2025 04:45:12.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> lo compro
+[03May2025 04:45:19.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> como quieras
+[03May2025 04:45:56.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:45:56.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:47:04.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Iron Golem
+[03May2025 04:47:08.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[03May2025 04:47:09.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> jajaj
+[03May2025 04:47:20.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Iron Golem
+[03May2025 04:47:23.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> dx
+[03May2025 04:49:36.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Take Aim]
+[03May2025 04:49:38.955] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36, l='ServerLevel[world]', x=-820.11, y=69.19, z=429.09] died, message: 'Villager suffocated in a wall'
+[03May2025 04:49:42.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ptmr
