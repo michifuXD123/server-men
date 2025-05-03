@@ -2950,5 +2950,11 @@
     },
     "done": true
   },
+  "h-nigh:core/recipes/primed_diamond": {
+    "criteria": {
+      "h-nigh:primed_diamond_recipe_diamond": "2025-05-03 21:00:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
