@@ -1,149 +1,83 @@
-[03May2025 04:19:55.031] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[03May2025 04:19:55.033] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[03May2025 04:19:55.034] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[03May2025 04:19:56.600] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[03May2025 04:19:57.010] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-men/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[03May2025 04:19:57.629] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[03May2025 04:20:00.977] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03May2025 04:20:01.090] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[03May2025 04:20:01.223] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 04:20:01.481] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
-[03May2025 04:20:01.490] [main/WARN] [mixin/]: Reference map 'betterdeserttemples.refmap.json' for betterdeserttemples.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 04:20:01.508] [main/WARN] [mixin/]: Reference map 'betterfortresses.refmap.json' for betterfortresses.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 04:20:01.516] [main/WARN] [mixin/]: Reference map 'bettermineshafts.refmap.json' for bettermineshafts.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 04:20:04.386] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[03May2025 04:20:04.632] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[03May2025 04:20:04.680] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[03May2025 04:20:20.952] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
-[03May2025 04:20:20.953] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
-[03May2025 04:20:21.027] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[03May2025 04:20:21.080] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[03May2025 04:20:25.948] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[03May2025 04:20:27.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
-[03May2025 04:20:27.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Starting version check at https://api.modrinth.com/updates/LbDPuvYD/forge_updates.json
-[03May2025 04:20:27.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Found status: OUTDATED Current: 1.2.1 Target: 1.2.1+mod
-[03May2025 04:20:27.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Starting version check at https://api.modrinth.com/updates/t2pMCVgG/forge_updates.json
-[03May2025 04:20:27.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Found status: OUTDATED Current: 1.5.0 Target: 1.5.0+mod
-[03May2025 04:20:27.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Starting version check at https://api.modrinth.com/updates/HQsBdHGd/forge_updates.json
-[03May2025 04:20:27.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Found status: BETA_OUTDATED Current: 5.0-beta4 Target: 5.0-beta4+mod
-[03May2025 04:20:27.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Starting version check at https://api.modrinth.com/updates/GD1QoExk/forge_updates.json
-[03May2025 04:20:27.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Found status: OUTDATED Current: 1.8 Target: 1.8+mod
-[03May2025 04:20:27.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03May2025 04:20:27.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
-[03May2025 04:20:27.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
-[03May2025 04:20:27.884] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Found status: OUTDATED Current: 3.0.6 Target: 3.0.6+mod
-[03May2025 04:20:27.886] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Starting version check at https://api.modrinth.com/updates/BynmO8IO/forge_updates.json
-[03May2025 04:20:27.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Found status: OUTDATED Current: 5.10 Target: 5.10+mod
-[03May2025 04:20:27.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Starting version check at https://api.modrinth.com/updates/UMmSTwE0/forge_updates.json
-[03May2025 04:20:28.005] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Found status: OUTDATED Current: 1.3 Target: 1.3+mod
-[03May2025 04:20:28.005] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[03May2025 04:20:28.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.6 Target: 2.1.6
-[03May2025 04:20:28.762] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03May2025 04:20:38.416] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1358 recipes
-[03May2025 04:20:38.970] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[03May2025 04:20:38.970] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1702 advancements
-[03May2025 04:20:40.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
-[03May2025 04:20:40.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03May2025 04:20:40.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03May2025 04:20:40.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03May2025 04:20:40.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03May2025 04:20:40.863] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03May2025 04:20:41.091] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03May2025 04:20:41.092] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03May2025 04:20:41.095] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03May2025 04:20:41.095] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03May2025 04:20:41.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03May2025 04:20:53.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03May2025 04:20:55.590] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:20:55.593] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:20:55.594] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:20:55.595] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:20:55.596] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:20:55.956] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 04:20:56.182] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2750 ms
-[03May2025 04:20:56.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.016s)! For help, type "help"
-[03May2025 04:20:56.203] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03May2025 04:21:31.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/127.7.183.72:54403] logged in with entity id 67 at (-831.3869656269284, 70.0, 436.13082411777003)
-[03May2025 04:21:31.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
-[03May2025 04:24:16.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.153.48.251:42263] logged in with entity id 719 at (-828.9018569359869, 69.0, 390.43434400460546)
-[03May2025 04:24:16.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
-[03May2025 04:24:16.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
-[03May2025 04:24:16.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
-[03May2025 04:25:27.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.153.48.251:58343] logged in with entity id 880 at (-828.9018569359869, 69.0, 390.43434400460546)
-[03May2025 04:25:27.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
-[03May2025 04:25:31.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> bro dos coras mas
-[03May2025 04:25:38.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> como asi ?
-[03May2025 04:26:37.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
-[03May2025 04:26:37.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
-[03May2025 04:26:39.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> davis
-[03May2025 04:27:09.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.153.48.251:50857] logged in with entity id 1141 at (-821.0614418991485, 69.0, 428.11474721618464)
-[03May2025 04:27:09.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
-[03May2025 04:27:13.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
-[03May2025 04:27:16.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ahora si
-[03May2025 04:27:21.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira
-[03May2025 04:27:39.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
-[03May2025 04:27:39.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
-[03May2025 04:27:39.653] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03May2025 04:28:26.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.153.48.251:56473] logged in with entity id 1318 at (-829.3347327072188, 70.98249998688698, 437.62480317955465)
-[03May2025 04:28:26.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
-[03May2025 04:28:35.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ahora si ?+
-[03May2025 04:28:38.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> oe
-[03May2025 04:28:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> as la granjita de hilo
-[03May2025 04:28:44.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me desconecto el internet de mi pc xd
-[03May2025 04:28:51.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira
-[03May2025 04:28:54.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> eso oy a ahacer
-[03May2025 04:29:01.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 04:29:14.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ta buena
-[03May2025 04:29:25.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> eso ase
-[03May2025 04:29:30.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> atrastuyo
-[03May2025 04:29:35.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y eso spawnea
-[03May2025 04:29:58.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> aaa?a
-[03May2025 04:30:06.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por que ay dos aldeanos ay adentros
-[03May2025 04:30:12.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que se yo
-[03May2025 04:30:21.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> se multiplican xd
-[03May2025 04:30:39.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> el aldeano: hoy es noche de sexo
-[03May2025 04:31:39.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> camo
-[03May2025 04:31:45.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> 20 de hilo por 1 emeralda
-[03May2025 04:31:55.368] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-837, y=69, z=443}
-[03May2025 04:33:11.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> faltan aldeanos no ?
-[03May2025 04:33:18.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no se
-[03May2025 04:33:49.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved too quickly! 9.046404421742182,-1.3099237991128945,4.608121450112435
-[03May2025 04:33:57.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que te pasa
-[03May2025 04:34:32.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe vas a compra la repa o lo saco por que otro aldeano tomo el este ay 2 aldeanos en una sola mesa y el otro lo necesito
-[03May2025 04:34:47.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> compra
-[03May2025 04:35:00.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> como asi ;v
-[03May2025 04:35:03.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> como que compre
-[03May2025 04:35:08.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si coca
-[03May2025 04:35:28.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ya pero encerio que hago
-[03May2025 04:35:37.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> compra
-[03May2025 04:35:40.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pero que nvl es
-[03May2025 04:35:50.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> el aldeano ?
-[03May2025 04:35:54.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> es repa 1
-[03May2025 04:36:05.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pues si cambia
-[03May2025 04:41:31.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob burned to death
-[03May2025 04:41:42.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
-[03May2025 04:41:59.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> guarda spawn en tu cama la saque
-[03May2025 04:42:55.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ddame esa mesa
-[03May2025 04:43:14.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mejor que chambees
-[03May2025 04:43:24.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ay vecez que no accepta
-[03May2025 04:43:28.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> vecez
-[03May2025 04:43:37.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
-[03May2025 04:43:40.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que
-[03May2025 04:43:40.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me falta una mesa
-[03May2025 04:44:26.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> cuando aras lo de la granja de hilo
-[03May2025 04:44:42.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> fury
-[03May2025 04:44:47.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> fury 3
-[03May2025 04:44:51.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> 2
-[03May2025 04:44:52.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> e 2
-[03May2025 04:44:56.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> es bueno
-[03May2025 04:45:04.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> hace creo que el doble de daño
-[03May2025 04:45:12.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> lo compro
-[03May2025 04:45:19.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> como quieras
-[03May2025 04:47:04.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Iron Golem
-[03May2025 04:47:08.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 04:47:09.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> jajaj
-[03May2025 04:47:20.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Iron Golem
-[03May2025 04:47:23.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> dx
-[03May2025 04:49:36.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Take Aim]
-[03May2025 04:49:38.955] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36, l='ServerLevel[world]', x=-820.11, y=69.19, z=429.09] died, message: 'Villager suffocated in a wall'
-[03May2025 04:49:42.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ptmr
+[03May2025 04:54:07.595] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[03May2025 04:54:07.602] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[03May2025 04:54:07.609] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[03May2025 04:54:08.521] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[03May2025 04:54:08.875] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-men/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[03May2025 04:54:09.874] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[03May2025 04:54:12.757] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03May2025 04:54:12.904] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[03May2025 04:54:13.002] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[03May2025 04:54:13.245] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
+[03May2025 04:54:13.256] [main/WARN] [mixin/]: Reference map 'betterdeserttemples.refmap.json' for betterdeserttemples.mixins.json could not be read. If this is a development environment you can ignore this message
+[03May2025 04:54:13.266] [main/WARN] [mixin/]: Reference map 'betterfortresses.refmap.json' for betterfortresses.mixins.json could not be read. If this is a development environment you can ignore this message
+[03May2025 04:54:13.270] [main/WARN] [mixin/]: Reference map 'bettermineshafts.refmap.json' for bettermineshafts.mixins.json could not be read. If this is a development environment you can ignore this message
+[03May2025 04:54:15.873] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[03May2025 04:54:16.083] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[03May2025 04:54:16.161] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[03May2025 04:54:33.546] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[03May2025 04:54:33.548] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[03May2025 04:54:33.580] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[03May2025 04:54:33.608] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[03May2025 04:54:36.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[03May2025 04:54:37.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
+[03May2025 04:54:37.532] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Starting version check at https://api.modrinth.com/updates/LbDPuvYD/forge_updates.json
+[03May2025 04:54:37.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Found status: OUTDATED Current: 1.2.1 Target: 1.2.1+mod
+[03May2025 04:54:37.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Starting version check at https://api.modrinth.com/updates/t2pMCVgG/forge_updates.json
+[03May2025 04:54:37.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Found status: OUTDATED Current: 1.5.0 Target: 1.5.0+mod
+[03May2025 04:54:37.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Starting version check at https://api.modrinth.com/updates/HQsBdHGd/forge_updates.json
+[03May2025 04:54:37.657] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Found status: BETA_OUTDATED Current: 5.0-beta4 Target: 5.0-beta4+mod
+[03May2025 04:54:37.657] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Starting version check at https://api.modrinth.com/updates/GD1QoExk/forge_updates.json
+[03May2025 04:54:37.702] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Found status: OUTDATED Current: 1.8 Target: 1.8+mod
+[03May2025 04:54:37.702] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03May2025 04:54:38.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
+[03May2025 04:54:38.037] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[03May2025 04:54:38.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Found status: OUTDATED Current: 3.0.6 Target: 3.0.6+mod
+[03May2025 04:54:38.103] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Starting version check at https://api.modrinth.com/updates/BynmO8IO/forge_updates.json
+[03May2025 04:54:38.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Found status: OUTDATED Current: 5.10 Target: 5.10+mod
+[03May2025 04:54:38.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Starting version check at https://api.modrinth.com/updates/UMmSTwE0/forge_updates.json
+[03May2025 04:54:38.186] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Found status: OUTDATED Current: 1.3 Target: 1.3+mod
+[03May2025 04:54:38.186] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[03May2025 04:54:38.310] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.6 Target: 2.1.6
+[03May2025 04:54:39.514] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03May2025 04:54:50.044] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1358 recipes
+[03May2025 04:54:50.845] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[03May2025 04:54:50.849] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1702 advancements
+[03May2025 04:54:52.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
+[03May2025 04:54:52.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03May2025 04:54:52.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03May2025 04:54:52.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03May2025 04:54:52.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03May2025 04:54:52.743] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03May2025 04:54:52.986] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03May2025 04:54:52.988] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03May2025 04:54:52.989] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03May2025 04:54:52.990] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03May2025 04:54:53.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03May2025 04:55:18.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03May2025 04:55:21.194] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:55:21.196] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:55:21.197] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:55:21.199] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:55:21.199] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:55:21.200] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:55:21.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:55:21.828] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3754 ms
+[03May2025 04:55:21.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (28.791s)! For help, type "help"
+[03May2025 04:55:21.881] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03May2025 04:56:20.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.153.48.251:45951] logged in with entity id 78 at (-833.0733505368904, 75.0, 431.631586083358)
+[03May2025 04:56:20.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[03May2025 04:56:59.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Gave 40 experience points to davixelpro123]
+[03May2025 04:57:09.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Gave 2000 experience points to davixelpro123]
+[03May2025 04:57:13.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/127.7.183.72:40751] logged in with entity id 443 at (-830.1374157233571, 69.0, 447.0710244794151)
+[03May2025 04:57:13.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[03May2025 04:57:13.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-854, y=71, z=387} BlockPos{x=-854, y=72, z=386}
+[03May2025 04:59:47.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe creo que ay una forma de duplicar cosas xd
+[03May2025 04:59:48.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pene pene pene pene pene
+[03May2025 04:59:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> se me duplico el barco
+[03May2025 04:59:58.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[03May2025 05:00:00.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> y esto mira
+[03May2025 05:00:11.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> los hornos
+[03May2025 05:00:21.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> antes de que se apage puse uno y se duplico
+[03May2025 05:00:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> devio ser porque no se guardo el proseso
+[03May2025 05:00:34.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> as la granja mejor
+[03May2025 05:00:39.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> la de hilos

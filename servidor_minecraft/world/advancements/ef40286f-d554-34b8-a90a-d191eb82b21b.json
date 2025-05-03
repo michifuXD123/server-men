@@ -2700,6 +2700,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-03 04:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-03 04:33:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-03 04:45:42 +0000"
@@ -2709,12 +2721,6 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-03 04:45:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-05-03 04:33:11 +0000"
     },
     "done": true
   },
@@ -2808,9 +2814,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_bone_meal": "2025-05-03 04:33:11 +0000"
+      "shot_arrow": "2025-05-03 04:49:36 +0000"
     },
     "done": true
   },
