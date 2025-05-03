@@ -21,10 +21,12 @@
       "minecraft:forest": "2025-05-02 22:57:09 +0000",
       "minecraft:river": "2025-05-02 23:41:24 +0000",
       "minecraft:stony_shore": "2025-05-02 23:41:09 +0000",
+      "minecraft:lush_caves": "2025-05-03 22:37:43 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-03 22:08:35 +0000",
       "minecraft:deep_dark": "2025-05-03 00:02:21 +0000",
       "minecraft:sunflower_plains": "2025-05-03 22:04:57 +0000",
       "minecraft:meadow": "2025-05-02 23:50:19 +0000",
+      "minecraft:birch_forest": "2025-05-03 22:13:18 +0000",
       "minecraft:plains": "2025-05-02 23:02:08 +0000",
       "minecraft:jagged_peaks": "2025-05-02 23:53:59 +0000"
     },
@@ -308,7 +310,8 @@
       "minecraft:piglin_brute": "2025-05-03 02:16:34 +0000",
       "minecraft:spider": "2025-05-03 03:34:38 +0000",
       "minecraft:zombie": "2025-05-02 23:10:29 +0000",
-      "minecraft:creeper": "2025-05-03 03:50:43 +0000"
+      "minecraft:creeper": "2025-05-03 03:50:43 +0000",
+      "minecraft:drowned": "2025-05-03 22:15:57 +0000"
     },
     "done": false
   },
@@ -2959,15 +2962,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-03 22:02:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-05-03 22:03:31 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/venom_protection": {
+    "criteria": {
+      "requirement": "2025-05-03 22:38:24 +0000"
     },
     "done": true
   },
@@ -2983,6 +3010,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/boots_durability": {
+    "criteria": {
+      "requirement": "2025-05-03 22:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/strengthened_by_fire": {
     "criteria": {
       "criteria": "2025-05-03 22:03:39 +0000"
@@ -2995,9 +3040,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-05-03 22:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-03 22:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:10:42 +0000"
     },
     "done": true
   },
@@ -3013,9 +3124,27 @@
     },
     "done": true
   },
+  "mt:technical/armor/legs_durability": {
+    "criteria": {
+      "requirement": "2025-05-03 22:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 22:10:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-03 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
     },
     "done": true
   },
@@ -3025,9 +3154,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:24:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-05-03 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:10:42 +0000"
     },
     "done": true
   },

@@ -1670,3 +1670,160 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7:
 [03May2025 22:10:29.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03May2025 22:12:02.747] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=202, y=47, z=211}
 [03May2025 22:14:39.473] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=202, y=47, z=211}
+[03May2025 22:15:31.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 22:15:31.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 22:15:31.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[03May2025 22:16:55.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[03May2025 22:18:13.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[03May2025 22:20:32.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 22:20:32.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 22:21:29.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of davixelpro123) moved too quickly! -2.9467805891633816,-1.2615077906826428,-9.719242692549415
+[03May2025 22:21:29.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of davixelpro123) moved too quickly! -3.0076087258930784,-1.2615077906826428,-10.12192896575948
+[03May2025 22:21:29.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of davixelpro123) moved too quickly! -3.069196122977928,-1.2615077906826428,-10.524743283751832
+[03May2025 22:21:29.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of davixelpro123) moved too quickly! -3.131189785140805,-1.2615077906826428,-10.927626115954354
+[03May2025 22:21:29.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of davixelpro123) moved too quickly! -3.193400831647068,-1.2615077906826428,-11.330545608744615
+[03May2025 22:21:29.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[03May2025 22:25:29.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1356, y=35, z=1871} BlockPos{x=-1356, y=33, z=1871}
+[03May2025 22:25:31.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 22:25:31.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 22:26:16.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1357, y=33, z=1871} BlockPos{x=-1356, y=34, z=1871}
+[03May2025 22:26:30.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1358, y=33, z=1872} BlockPos{x=-1357, y=33, z=1871}
+[03May2025 22:26:30.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1358, y=33, z=1872} BlockPos{x=-1357, y=33, z=1871}
+[03May2025 22:26:30.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1358, y=33, z=1872} BlockPos{x=-1357, y=33, z=1871}
+[03May2025 22:26:31.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1358, y=33, z=1872} BlockPos{x=-1357, y=33, z=1871}
+[03May2025 22:26:31.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1358, y=33, z=1872} BlockPos{x=-1357, y=33, z=1871}
+[03May2025 22:26:49.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was doomed to fall by Skeleton
+[03May2025 22:28:35.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[03May2025 22:29:27.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Whitelist is now turned on]
+[03May2025 22:30:31.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 22:30:31.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 22:31:13.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 289 chunks (6.84%), ETA: 0:01:32, Rate: 42.5 cps, Current: 3, 20
+[03May2025 22:31:14.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 316 chunks (7.48%), ETA: 0:01:36, Rate: 40.5 cps, Current: 0, 25
+[03May2025 22:31:15.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 330 chunks (7.81%), ETA: 0:01:46, Rate: 36.6 cps, Current: 7, 23
+[03May2025 22:31:17.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 345 chunks (8.17%), ETA: 0:02:02, Rate: 31.6 cps, Current: 2, 28
+[03May2025 22:31:18.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 355 chunks (8.40%), ETA: 0:02:09, Rate: 29.8 cps, Current: 5, 26
+[03May2025 22:31:19.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 381 chunks (9.02%), ETA: 0:02:14, Rate: 28.6 cps, Current: 5, 30
+[03May2025 22:31:21.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 395 chunks (9.35%), ETA: 0:02:27, Rate: 25.9 cps, Current: 8, 25
+[03May2025 22:31:22.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 404 chunks (9.56%), ETA: 0:02:35, Rate: 24.5 cps, Current: 8, 24
+[03May2025 22:31:23.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 476 chunks (11.27%), ETA: 0:02:17, Rate: 27.3 cps, Current: 13, 23
+[03May2025 22:31:24.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 492 chunks (11.64%), ETA: 0:02:20, Rate: 26.6 cps, Current: 15, 25
+[03May2025 22:31:30.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 524 chunks (12.40%), ETA: 0:02:54, Rate: 21.2 cps, Current: 19, 16
+[03May2025 22:31:31.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 536 chunks (12.69%), ETA: 0:02:57, Rate: 20.8 cps, Current: 17, 20
+[03May2025 22:31:32.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 736 chunks (17.42%), ETA: 0:02:43, Rate: 21.3 cps, Current: 21, 23
+[03May2025 22:31:34.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 749 chunks (17.73%), ETA: 0:02:52, Rate: 20.1 cps, Current: 24, 18
+[03May2025 22:31:36.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 753 chunks (17.82%), ETA: 0:02:58, Rate: 19.4 cps, Current: 18, 26
+[03May2025 22:31:41.352] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[03May2025 22:31:41.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 757 chunks (17.92%), ETA: 0:05:33, Rate: 10.4 cps, Current: 24, 20
+[03May2025 22:31:47.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 783 chunks (18.53%), ETA: 0:06:28, Rate: 8.9 cps, Current: 27, 10
+[03May2025 22:31:48.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 811 chunks (19.20%), ETA: 0:06:01, Rate: 9.5 cps, Current: 30, 8
+[03May2025 22:31:49.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 844 chunks (19.98%), ETA: 0:05:37, Rate: 10.0 cps, Current: 23, 15
+[03May2025 22:31:50.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 861 chunks (20.38%), ETA: 0:05:23, Rate: 10.4 cps, Current: 17, 14
+[03May2025 22:31:51.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 886 chunks (20.97%), ETA: 0:05:02, Rate: 11.0 cps, Current: 19, 9
+[03May2025 22:31:52.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 909 chunks (21.51%), ETA: 0:04:50, Rate: 11.4 cps, Current: 23, 7
+[03May2025 22:31:54.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 937 chunks (22.18%), ETA: 0:05:19, Rate: 10.3 cps, Current: 19, 2
+[03May2025 22:31:55.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 953 chunks (22.56%), ETA: 0:05:12, Rate: 10.5 cps, Current: 22, 1
+[03May2025 22:31:58.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1053 chunks (24.92%), ETA: 0:04:43, Rate: 11.2 cps, Current: 29, 4
+[03May2025 22:31:59.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1059 chunks (25.07%), ETA: 0:04:48, Rate: 11.0 cps, Current: 28, 3
+[03May2025 22:32:00.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1063 chunks (25.16%), ETA: 0:04:54, Rate: 10.7 cps, Current: 29, 3
+[03May2025 22:32:04.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1072 chunks (25.37%), ETA: 0:05:40, Rate: 9.2 cps, Current: 31, 0
+[03May2025 22:32:06.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1079 chunks (25.54%), ETA: 0:05:43, Rate: 9.2 cps, Current: 32, 3
+[03May2025 22:32:10.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1089 chunks (25.78%), ETA: 0:05:25, Rate: 9.6 cps, Current: 0, -32
+[03May2025 22:32:11.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1107 chunks (26.20%), ETA: 0:04:44, Rate: 11.0 cps, Current: 2, -29
+[03May2025 22:32:13.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1136 chunks (26.89%), ETA: 0:04:46, Rate: 10.8 cps, Current: 3, -32
+[03May2025 22:32:15.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1148 chunks (27.17%), ETA: 0:04:57, Rate: 10.3 cps, Current: 5, -30
+[03May2025 22:32:17.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1157 chunks (27.38%), ETA: 0:05:28, Rate: 9.3 cps, Current: 7, -29
+[03May2025 22:32:18.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1159 chunks (27.43%), ETA: 0:06:12, Rate: 8.2 cps, Current: 4, -25
+[03May2025 22:32:20.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1165 chunks (27.57%), ETA: 0:06:35, Rate: 7.7 cps, Current: 4, -32
+[03May2025 22:32:21.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1179 chunks (27.91%), ETA: 0:07:34, Rate: 6.7 cps, Current: 11, -29
+[03May2025 22:32:23.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1189 chunks (28.14%), ETA: 0:07:55, Rate: 6.4 cps, Current: 12, -27
+[03May2025 22:32:24.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1243 chunks (29.42%), ETA: 0:06:12, Rate: 8.0 cps, Current: 13, -24
+[03May2025 22:32:25.063] [IO-Worker-7/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1395 chunks (33.02%), ETA: 0:03:42, Rate: 12.7 cps, Current: 5, -3
+[03May2025 22:32:26.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1469 chunks (34.77%), ETA: 0:03:11, Rate: 14.4 cps, Current: 15, -3
+[03May2025 22:32:27.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1557 chunks (36.85%), ETA: 0:02:37, Rate: 16.9 cps, Current: 2, -20
+[03May2025 22:32:28.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1569 chunks (37.14%), ETA: 0:02:38, Rate: 16.7 cps, Current: 6, -19
+[03May2025 22:32:29.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1574 chunks (37.25%), ETA: 0:02:39, Rate: 16.7 cps, Current: 0, -23
+[03May2025 22:32:30.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1584 chunks (37.49%), ETA: 0:02:37, Rate: 16.8 cps, Current: 3, -23
+[03May2025 22:32:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1586 chunks (37.54%), ETA: 0:02:26, Rate: 18.0 cps, Current: 4, -24
+[03May2025 22:32:33.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1589 chunks (37.61%), ETA: 0:02:31, Rate: 17.4 cps, Current: 6, -24
+[03May2025 22:32:34.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1600 chunks (37.87%), ETA: 0:02:32, Rate: 17.2 cps, Current: 0, -20
+[03May2025 22:32:37.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1601 chunks (37.89%), ETA: 0:02:21, Rate: 18.5 cps, Current: 16, -16
+[03May2025 22:32:38.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1634 chunks (38.67%), ETA: 0:02:16, Rate: 19.0 cps, Current: 21, -13
+[03May2025 22:32:39.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1656 chunks (39.20%), ETA: 0:02:14, Rate: 19.1 cps, Current: 20, -9
+[03May2025 22:32:40.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1704 chunks (40.33%), ETA: 0:02:05, Rate: 20.0 cps, Current: 21, -2
+[03May2025 22:32:41.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1707 chunks (40.40%), ETA: 0:02:08, Rate: 19.6 cps, Current: 22, -1
+[03May2025 22:32:42.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1711 chunks (40.50%), ETA: 0:02:07, Rate: 19.7 cps, Current: 23, -1
+[03May2025 22:32:43.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1718 chunks (40.66%), ETA: 0:02:03, Rate: 20.3 cps, Current: 22, -6
+[03May2025 22:32:44.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1730 chunks (40.95%), ETA: 0:02:05, Rate: 19.9 cps, Current: 24, -8
+[03May2025 22:32:45.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1749 chunks (41.40%), ETA: 0:01:58, Rate: 20.8 cps, Current: 26, -3
+[03May2025 22:32:47.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1758 chunks (41.61%), ETA: 0:02:02, Rate: 20.2 cps, Current: 27, -8
+[03May2025 22:32:48.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1763 chunks (41.73%), ETA: 0:02:01, Rate: 20.3 cps, Current: 27, -3
+[03May2025 22:32:49.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1772 chunks (41.94%), ETA: 0:01:59, Rate: 20.5 cps, Current: 30, -2
+[03May2025 22:32:50.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1784 chunks (42.22%), ETA: 0:01:56, Rate: 20.9 cps, Current: 31, -6
+[03May2025 22:32:51.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1854 chunks (43.88%), ETA: 0:01:54, Rate: 20.6 cps, Current: 28, -10
+[03May2025 22:32:53.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1872 chunks (44.31%), ETA: 0:02:00, Rate: 19.5 cps, Current: 24, -11
+[03May2025 22:32:54.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1875 chunks (44.38%), ETA: 0:02:43, Rate: 14.4 cps, Current: 26, -10
+[03May2025 22:32:55.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1881 chunks (44.52%), ETA: 0:03:14, Rate: 12.1 cps, Current: 25, -12
+[03May2025 22:32:57.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1884 chunks (44.59%), ETA: 0:04:30, Rate: 8.7 cps, Current: 27, -12
+[03May2025 22:32:58.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1894 chunks (44.83%), ETA: 0:04:24, Rate: 8.8 cps, Current: 24, -15
+[03May2025 22:32:59.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1902 chunks (45.02%), ETA: 0:04:27, Rate: 8.7 cps, Current: 28, -14
+[03May2025 22:33:01.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1905 chunks (45.09%), ETA: 0:04:26, Rate: 8.7 cps, Current: 29, -14
+[03May2025 22:33:04.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1906 chunks (45.11%), ETA: 0:04:40, Rate: 8.3 cps, Current: 29, -13
+[03May2025 22:33:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1920 chunks (45.44%), ETA: 0:04:10, Rate: 9.2 cps, Current: 27, -17
+[03May2025 22:33:06.941] [Chunky-minecraft:overworld Thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2172 chunks (51.41%), ETA: 0:03:32, Rate: 9.7 cps, Current: -20, -26
+[03May2025 22:33:19.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2200 chunks (52.07%), ETA: 0:08:34, Rate: 3.9 cps, Current: 18, -21
+[03May2025 22:33:20.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2213 chunks (52.38%), ETA: 0:08:37, Rate: 3.9 cps, Current: 18, -24
+[03May2025 22:33:21.988] [IO-Worker-38/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2488 chunks (58.89%), ETA: 0:02:49, Rate: 10.2 cps, Current: -20, -2
+[03May2025 22:33:22.994] [IO-Worker-37/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2860 chunks (67.69%), ETA: 0:01:01, Rate: 22.3 cps, Current: -2, -16
+[03May2025 22:33:25.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2870 chunks (67.93%), ETA: 0:00:56, Rate: 23.9 cps, Current: -21, -22
+[03May2025 22:33:26.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2873 chunks (68.00%), ETA: 0:00:58, Rate: 22.9 cps, Current: -20, -24
+[03May2025 22:33:27.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2878 chunks (68.12%), ETA: 0:00:59, Rate: 22.7 cps, Current: -18, -24
+[03May2025 22:33:28.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2926 chunks (69.25%), ETA: 0:00:53, Rate: 24.2 cps, Current: -3, -21
+[03May2025 22:33:29.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2954 chunks (69.92%), ETA: 0:00:48, Rate: 26.0 cps, Current: -8, -19
+[03May2025 22:33:32.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2967 chunks (70.22%), ETA: 0:00:48, Rate: 26.0 cps, Current: -16, -19
+[03May2025 22:33:33.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2972 chunks (70.34%), ETA: 0:00:49, Rate: 25.3 cps, Current: -13, -19
+[03May2025 22:33:34.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2986 chunks (70.67%), ETA: 0:00:49, Rate: 25.2 cps, Current: -16, -23
+[03May2025 22:33:35.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3033 chunks (71.79%), ETA: 0:00:47, Rate: 24.9 cps, Current: -10, -26
+[03May2025 22:33:37.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -2.5971408371894995,0.0,10.57463136965464
+[03May2025 22:33:37.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3037 chunks (71.88%), ETA: 0:00:48, Rate: 24.7 cps, Current: -10, -27
+[03May2025 22:33:38.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3068 chunks (72.62%), ETA: 0:00:28, Rate: 40.6 cps, Current: -14, -29
+[03May2025 22:33:43.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3768 chunks (89.18%), ETA: 0:00:08, Rate: 54.0 cps, Current: -6, 26
+[03May2025 22:33:45.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4215 chunks (99.76%), ETA: 0:00:00, Rate: 65.8 cps, Current: -5, 32
+[03May2025 22:33:45.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 4225 chunks (100.00%), Total time: 0:02:38
+[03May2025 22:35:31.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 22:35:31.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 22:37:25.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[03May2025 22:37:38.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Whitelist is now turned off]
+[03May2025 22:38:11.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1356, y=-21, z=1871} BlockPos{x=-1356, y=-23, z=1871}
+[03May2025 22:38:58.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
+[03May2025 22:39:15.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[03May2025 22:40:31.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 22:40:31.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 22:42:04.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1336, y=-28, z=1843} BlockPos{x=-1336, y=-29, z=1844}
+[03May2025 22:42:05.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1336, y=-27, z=1843} BlockPos{x=-1334, y=-27, z=1842}
+[03May2025 22:42:05.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1336, y=-27, z=1843} BlockPos{x=-1334, y=-27, z=1842}
+[03May2025 22:42:05.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1336, y=-27, z=1843} BlockPos{x=-1334, y=-27, z=1842}
+[03May2025 22:42:05.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1336, y=-27, z=1843} BlockPos{x=-1334, y=-27, z=1842}
+[03May2025 22:42:05.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1336, y=-27, z=1843} BlockPos{x=-1334, y=-27, z=1842}
+[03May2025 22:42:05.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1336, y=-27, z=1843} BlockPos{x=-1334, y=-27, z=1842}
+[03May2025 22:42:05.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1336, y=-27, z=1843} BlockPos{x=-1334, y=-27, z=1842}
+[03May2025 22:44:51.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was shot by Skeleton
+[03May2025 22:45:31.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 22:45:31.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 22:47:36.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
+[03May2025 22:48:14.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -8.623989604472058,0.0,5.9587642213374465
+[03May2025 22:49:12.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[03May2025 22:49:39.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -1.2224923417668379,0.0,10.819558911765625
+[03May2025 22:49:47.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd{{
+[03May2025 22:50:31.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 22:50:31.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 22:52:54.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> d
+[03May2025 22:53:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[03May2025 22:54:24.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[03May2025 22:54:28.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -0.3594762755026295,-10.576131449419023,0.2426458961112985
+[03May2025 22:55:31.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 22:55:31.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 22:55:40.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
+[03May2025 22:55:40.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[03May2025 22:55:40.816] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of davixelpro123
+[03May2025 22:55:40.822] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[03May2025 22:55:40.858] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
