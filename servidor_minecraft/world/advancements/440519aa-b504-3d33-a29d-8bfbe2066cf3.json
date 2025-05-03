@@ -17,11 +17,14 @@
       "minecraft:flower_forest": "2025-05-03 01:15:39 +0000",
       "minecraft:snowy_slopes": "2025-05-02 23:53:32 +0000",
       "minecraft:beach": "2025-05-02 23:42:02 +0000",
+      "minecraft:dark_forest": "2025-05-03 22:09:27 +0000",
       "minecraft:forest": "2025-05-02 22:57:09 +0000",
-      "minecraft:deep_dark": "2025-05-03 00:02:21 +0000",
       "minecraft:river": "2025-05-02 23:41:24 +0000",
-      "minecraft:meadow": "2025-05-02 23:50:19 +0000",
       "minecraft:stony_shore": "2025-05-02 23:41:09 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-03 22:08:35 +0000",
+      "minecraft:deep_dark": "2025-05-03 00:02:21 +0000",
+      "minecraft:sunflower_plains": "2025-05-03 22:04:57 +0000",
+      "minecraft:meadow": "2025-05-02 23:50:19 +0000",
       "minecraft:plains": "2025-05-02 23:02:08 +0000",
       "minecraft:jagged_peaks": "2025-05-02 23:53:59 +0000"
     },
@@ -2953,6 +2956,84 @@
   "h-nigh:core/recipes/primed_diamond": {
     "criteria": {
       "h-nigh:primed_diamond_recipe_diamond": "2025-05-03 21:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-03 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-03 22:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-03 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-03 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-05-03 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-03 22:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-03 22:03:31 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-05-03 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-03 22:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-03 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-03 22:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-03 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-03 22:03:02 +0000"
     },
     "done": true
   },
