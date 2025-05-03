@@ -176,3 +176,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7:
 [03May2025 23:07:55.962] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
 [03May2025 23:12:02.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
 [03May2025 23:12:21.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind
+[03May2025 23:28:40.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[03May2025 23:30:35.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1268, y=26, z=1747} BlockPos{x=-1268, y=24, z=1747}
+[03May2025 23:30:35.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1268, y=26, z=1747} BlockPos{x=-1268, y=24, z=1747}
+[03May2025 23:30:35.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has reached the goal [Common Lads!]
+[03May2025 23:31:05.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Eye Spy]
+[03May2025 23:31:05.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 fell from a high place
+[03May2025 23:32:02.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[03May2025 23:32:25.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[03May2025 23:32:52.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -1.512521662026984,2.8181688159839524,9.68112932633187
+[03May2025 23:32:56.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -1.6930160369731766,0.0,10.73321685006863
+[03May2025 23:36:50.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[03May2025 23:37:29.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
+[03May2025 23:37:29.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[03May2025 23:37:29.097] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[03May2025 23:37:29.155] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03May2025 23:37:57.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.122.159.96:41459] logged in with entity id 7921 at (-1265.446915577642, 21.0, 1749.6051584292188)
+[03May2025 23:37:57.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[03May2025 23:37:58.292] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[03May2025 23:37:58.294] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[03May2025 23:39:39.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vindicator

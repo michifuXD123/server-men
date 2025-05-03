@@ -3160,12 +3160,6 @@
     },
     "done": true
   },
-  "mt:technical/armor/legs_durability": {
-    "criteria": {
-      "requirement": "2025-05-03 22:26:18 +0000"
-    },
-    "done": true
-  },
   "enchantplus:armor/venom_protection": {
     "criteria": {
       "requirement": "2025-05-03 22:38:24 +0000"
@@ -3175,6 +3169,18 @@
   "mt:technical/armor/boots_durability": {
     "criteria": {
       "requirement": "2025-05-03 22:44:41 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/50_common_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-03 23:31:05 +0000"
     },
     "done": true
   },

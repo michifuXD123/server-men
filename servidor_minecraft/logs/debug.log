@@ -1538,3 +1538,87 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7:
 [03May2025 23:12:56.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03May2025 23:17:55.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03May2025 23:17:55.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:22:55.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:22:55.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:27:55.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:27:55.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:28:40.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[03May2025 23:30:35.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1268, y=26, z=1747} BlockPos{x=-1268, y=24, z=1747}
+[03May2025 23:30:35.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1268, y=26, z=1747} BlockPos{x=-1268, y=24, z=1747}
+[03May2025 23:30:35.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has reached the goal [Common Lads!]
+[03May2025 23:31:05.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Eye Spy]
+[03May2025 23:31:05.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 fell from a high place
+[03May2025 23:32:02.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[03May2025 23:32:25.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[03May2025 23:32:45.519] [Worker-Main-2/DEBUG] [mixin/]: Mixing NoiseChunkMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[03May2025 23:32:45.525] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[03May2025 23:32:45.529] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$yungsapi_dontFillMarkedPositions$0()Lcom/yungnickyoung/minecraft/yungsapi/world/structure/terrainadaptation/aquiferoverride/AquiferOverrideMask; to md6d39df$yungsapi$lambda$yungsapi_dontFillMarkedPositions$0$0 in yungsapi.mixins.json:NoiseChunkMixin
+[03May2025 23:32:45.606] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.NoiseChunkAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[03May2025 23:32:45.606] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.NoiseChunkAccessor: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[03May2025 23:32:45.676] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[03May2025 23:32:45.678] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[03May2025 23:32:45.715] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[03May2025 23:32:45.717] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.BeardifierAccessor: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[03May2025 23:32:52.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -1.512521662026984,2.8181688159839524,9.68112932633187
+[03May2025 23:32:55.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:32:55.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:32:56.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -1.6930160369731766,0.0,10.73321685006863
+[03May2025 23:36:50.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[03May2025 23:37:29.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
+[03May2025 23:37:29.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[03May2025 23:37:29.090] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of davixelpro123
+[03May2025 23:37:29.097] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[03May2025 23:37:29.155] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03May2025 23:37:47.016] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [advancednetherite, chunky, forge, jei, medieval_buildings, medievalend, minecraft, mixinextras, mr_beyondenchant, mr_blood_moon, mr_enchantments_encore, mr_moreenchantments, mr_neoenchant, mr_vanilla_backpacks, nullscape, spark, stellarity, tlskincape, voicechat, yungsapi]
+[03May2025 23:37:47.537] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login, jei:channel, voicechat:add_category, voicechat:add_group, voicechat:create_group, voicechat:joined_group, voicechat:leave_group, voicechat:player_state, voicechat:player_states, voicechat:remove_category, voicechat:remove_group, voicechat:request_secret, voicechat:secret, voicechat:set_group, voicechat:update_state]
+[03May2025 23:37:47.539] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.539] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.539] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.539] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.539] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[03May2025 23:37:47.539] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[03May2025 23:37:47.539] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.539] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[03May2025 23:37:47.540] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.541] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:multipart_entity_interaction' : Version test of 'MISSING 0' from client : ACCEPTED
+[03May2025 23:37:47.541] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.542] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.542] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.543] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.543] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.543] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.543] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:37:47.543] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'MISSING 0' from client : ACCEPTED
+[03May2025 23:37:47.544] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[03May2025 23:37:47.734] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[03May2025 23:37:47.918] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[03May2025 23:37:48.099] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[03May2025 23:37:48.470] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[03May2025 23:37:48.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[03May2025 23:37:48.839] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[03May2025 23:37:49.202] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[03May2025 23:37:49.395] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[03May2025 23:37:49.580] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[03May2025 23:37:49.767] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[03May2025 23:37:49.958] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[03May2025 23:37:50.164] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[03May2025 23:37:50.536] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[03May2025 23:37:50.715] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[03May2025 23:37:50.892] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[03May2025 23:37:51.079] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[03May2025 23:37:51.257] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[03May2025 23:37:51.436] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[03May2025 23:37:53.255] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[03May2025 23:37:55.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:37:55.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:37:57.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.122.159.96:41459] logged in with entity id 7921 at (-1265.446915577642, 21.0, 1749.6051584292188)
+[03May2025 23:37:57.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[03May2025 23:37:57.723] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of davixelpro123: {disabled=false, disconnected=true, uuid=440519aa-b504-3d33-a29d-8bfbe2066cf3, name=davixelpro123, group=null}
+[03May2025 23:37:58.292] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[03May2025 23:37:58.293] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to davixelpro123
+[03May2025 23:37:58.293] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with davixelpro123
+[03May2025 23:37:58.293] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with davixelpro123
+[03May2025 23:37:58.294] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[03May2025 23:39:39.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vindicator
+[03May2025 23:42:55.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:42:55.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
