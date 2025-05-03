@@ -512,7 +512,8 @@
     "criteria": {
       "bread": "2025-05-02 23:40:51 +0000",
       "rotten_flesh": "2025-05-02 23:13:35 +0000",
-      "cooked_mutton": "2025-05-02 23:40:38 +0000"
+      "cooked_mutton": "2025-05-02 23:40:38 +0000",
+      "golden_carrot": "2025-05-03 02:55:45 +0000"
     },
     "done": false
   },
@@ -1356,6 +1357,12 @@
     },
     "done": true
   },
+  "minecraft:wander_add_map": {
+    "criteria": {
+      "wandering": "2025-05-03 03:09:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-03 02:36:18 +0000"
@@ -1460,6 +1467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-05-03 03:11:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 02:16:43 +0000"
@@ -1505,6 +1518,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-03 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-03 03:10:27 +0000"
     },
     "done": true
   },
@@ -1562,6 +1581,24 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-03 02:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-03 03:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-03 03:01:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-03 02:04:23 +0000"
@@ -1586,6 +1623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-03 03:04:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-05-03 02:28:39 +0000"
@@ -1601,6 +1644,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-05-03 02:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-03 03:04:12 +0000"
     },
     "done": true
   },
@@ -1682,6 +1731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-03 03:11:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-05-03 02:28:12 +0000"
@@ -1694,6 +1749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-03 03:02:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-03 01:57:01 +0000"
@@ -1703,6 +1764,18 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-05-03 02:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-03 03:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-03 03:02:17 +0000"
     },
     "done": true
   },
@@ -1802,6 +1875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-03 03:10:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-03 02:25:44 +0000"
@@ -1819,6 +1898,12 @@
       "leaping": "2025-05-03 02:46:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-03 03:01:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
@@ -1841,6 +1926,18 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-03 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-03 03:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-03 03:11:56 +0000"
     },
     "done": true
   },
@@ -1901,6 +1998,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-05-03 02:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-03 03:02:17 +0000"
     },
     "done": true
   },
