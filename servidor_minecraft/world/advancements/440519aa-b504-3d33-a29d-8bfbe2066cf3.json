@@ -2648,6 +2648,12 @@
     },
     "done": true
   },
+  "mt:technical/armor/chest_durability": {
+    "criteria": {
+      "requirement": "2025-05-03 16:05:14 +0000"
+    },
+    "done": true
+  },
   "mt:guarantee": {
     "criteria": {
       "requirement": "2025-05-03 16:01:54 +0000"
@@ -2702,6 +2708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 16:08:59 +0000"
+    },
+    "done": true
+  },
   "mt:item_related_advancements/jungle_shoes": {
     "criteria": {
       "requirement": "2025-05-03 15:59:11 +0000"
@@ -2714,15 +2726,39 @@
     },
     "done": true
   },
+  "mt:technical/hit_match/entity_hurt_player": {
+    "criteria": {
+      "requirement": "2025-05-03 16:08:45 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check": {
+    "criteria": {
+      "killed_mob": "2025-05-03 16:08:06 +0000"
+    },
+    "done": true
+  },
   "mt:mechanics/step_height/timer": {
     "criteria": {
       "requirement": "2025-05-03 15:59:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-03 16:08:59 +0000"
+    },
+    "done": true
+  },
   "mt:mechanics/reach/timer": {
     "criteria": {
       "requirement": "2025-05-03 15:59:10 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/helmet_durability": {
+    "criteria": {
+      "requirement": "2025-05-03 16:05:14 +0000"
     },
     "done": true
   },
