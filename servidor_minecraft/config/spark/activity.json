@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "davixelpro123",
+      "uniqueId": "440519aa-b504-3d33-a29d-8bfbe2066cf3"
+    },
+    "time": 1746305866788,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/uwNCnooGXF"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "davixelpro123",
+      "uniqueId": "440519aa-b504-3d33-a29d-8bfbe2066cf3"
+    },
+    "time": 1746305864920,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/k69e8A3ZMv"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "davixelpro123",
+      "uniqueId": "440519aa-b504-3d33-a29d-8bfbe2066cf3"
+    },
+    "time": 1746305800994,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/0YEyji8NL3"
+    }
+  }
+]
