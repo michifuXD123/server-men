@@ -588,6 +588,7 @@
       "cooked_porkchop": "2025-05-03 03:10:25 +0000",
       "apple": "2025-05-02 23:15:52 +0000",
       "bread": "2025-05-02 23:39:42 +0000",
+      "golden_apple": "2025-05-03 17:58:21 +0000",
       "honey_bottle": "2025-05-03 04:06:17 +0000",
       "rotten_flesh": "2025-05-02 23:06:44 +0000",
       "potato": "2025-05-03 04:35:55 +0000",
@@ -2901,7 +2902,7 @@
   },
   "senti:tick": {
     "criteria": {
-      "requirement": "2025-05-03 17:14:39 +0000"
+      "requirement": "2025-05-03 17:50:05 +0000"
     },
     "done": true
   },
@@ -2965,15 +2966,123 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_epic_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 17:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-03 17:44:27 +0000"
+    },
+    "done": true
+  },
+  "mt:guarantee": {
+    "criteria": {
+      "requirement": "2025-05-03 17:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-03 17:57:07 +0000"
+    },
+    "done": true
+  },
   "backpacks:tree/adventurer": {
     "criteria": {
       "requirement": "2025-05-03 17:14:34 +0000"
     },
     "done": true
   },
+  "mt:treasure_advancements/first_common_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 17:26:41 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/25_common_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 17:57:47 +0000"
+    },
+    "done": true
+  },
+  "h-nigh:core/recipes/primed_diamond": {
+    "criteria": {
+      "h-nigh:primed_diamond_recipe_diamond": "2025-05-03 17:29:08 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_common_default_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 17:26:43 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/10_common_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/root": {
+    "criteria": {
+      "obtainchest": "2025-05-03 17:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-03 17:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-03 17:57:04 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_rare_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 17:36:42 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_rare_nether_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 17:54:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-03 17:06:52 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_rare_default_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 17:36:52 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_common_nether_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 17:54:30 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_epic_default_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 17:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-03 17:44:30 +0000"
     },
     "done": true
   },
