@@ -1174,3 +1174,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03May2025 05:13:47.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Disconnected
 [03May2025 05:13:47.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
 [03May2025 05:13:50.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was doomed to fall by crisrob
+[03May2025 05:15:21.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 05:15:21.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 05:20:21.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 05:20:21.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
