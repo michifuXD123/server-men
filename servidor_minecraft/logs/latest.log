@@ -1,712 +1,99 @@
-[03May2025 01:44:35.229] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[03May2025 01:44:35.233] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[03May2025 01:44:35.235] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[03May2025 01:44:35.543] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[03May2025 01:44:35.723] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-men/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[03May2025 01:44:36.362] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[03May2025 01:44:37.927] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03May2025 01:44:37.988] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[03May2025 01:44:38.056] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 01:44:38.185] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
-[03May2025 01:44:38.186] [main/WARN] [mixin/]: Reference map 'betterdeserttemples.refmap.json' for betterdeserttemples.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 01:44:38.189] [main/WARN] [mixin/]: Reference map 'betterfortresses.refmap.json' for betterfortresses.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 01:44:38.190] [main/WARN] [mixin/]: Reference map 'bettermineshafts.refmap.json' for bettermineshafts.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 01:44:39.924] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[03May2025 01:44:40.091] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[03May2025 01:44:40.125] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[03May2025 01:44:49.615] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
-[03May2025 01:44:49.618] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
-[03May2025 01:44:49.645] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[03May2025 01:44:49.668] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[03May2025 01:44:50.956] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[03May2025 01:44:51.713] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
-[03May2025 01:44:51.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Starting version check at https://api.modrinth.com/updates/LbDPuvYD/forge_updates.json
-[03May2025 01:44:51.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Found status: OUTDATED Current: 1.2.1 Target: 1.2.1+mod
-[03May2025 01:44:51.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Starting version check at https://api.modrinth.com/updates/t2pMCVgG/forge_updates.json
-[03May2025 01:44:51.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Found status: OUTDATED Current: 1.5.0 Target: 1.5.0+mod
-[03May2025 01:44:51.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Starting version check at https://api.modrinth.com/updates/HQsBdHGd/forge_updates.json
-[03May2025 01:44:51.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Found status: BETA_OUTDATED Current: 5.0-beta4 Target: 5.0-beta4+mod
-[03May2025 01:44:51.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Starting version check at https://api.modrinth.com/updates/GD1QoExk/forge_updates.json
-[03May2025 01:44:51.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Found status: OUTDATED Current: 1.8 Target: 1.8+mod
-[03May2025 01:44:51.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03May2025 01:44:52.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
-[03May2025 01:44:52.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
-[03May2025 01:44:52.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Found status: OUTDATED Current: 3.0.6 Target: 3.0.6+mod
-[03May2025 01:44:52.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Starting version check at https://api.modrinth.com/updates/BynmO8IO/forge_updates.json
-[03May2025 01:44:52.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Found status: OUTDATED Current: 5.10 Target: 5.10+mod
-[03May2025 01:44:52.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Starting version check at https://api.modrinth.com/updates/UMmSTwE0/forge_updates.json
-[03May2025 01:44:52.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Found status: OUTDATED Current: 1.3 Target: 1.3+mod
-[03May2025 01:44:52.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[03May2025 01:44:52.345] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.6 Target: 2.1.6
-[03May2025 01:44:52.969] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03May2025 01:44:58.119] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1358 recipes
-[03May2025 01:44:58.514] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[03May2025 01:44:58.516] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1702 advancements
-[03May2025 01:44:59.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
-[03May2025 01:44:59.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03May2025 01:44:59.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03May2025 01:44:59.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03May2025 01:44:59.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03May2025 01:44:59.696] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03May2025 01:44:59.785] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03May2025 01:44:59.786] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03May2025 01:44:59.787] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03May2025 01:44:59.787] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03May2025 01:44:59.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03May2025 01:45:03.123] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.7.183.72:37443] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
-[03May2025 01:45:10.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03May2025 01:45:12.109] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 01:45:12.110] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 01:45:12.111] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 01:45:12.111] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 01:45:12.217] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 01:45:12.593] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2379 ms
-[03May2025 01:45:12.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.779s)! For help, type "help"
-[03May2025 01:45:12.612] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03May2025 01:45:45.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/127.7.183.72:43845] logged in with entity id 89 at (-945.3000000119209, 42.0, 581.5802940926068)
-[03May2025 01:45:45.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
-[03May2025 01:45:56.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.153.48.251:37387] logged in with entity id 309 at (-830.4751420866168, 70.0, 437.24788666186595)
-[03May2025 01:45:56.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
-[03May2025 01:45:59.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
-[03May2025 01:46:07.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> directamente el mundo no se cargo xd
-[03May2025 01:46:15.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 01:46:33.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> literal en la consola dice preparing spawn area y sale 0 y despues sale que prendio altiro XD
-[03May2025 01:46:48.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 01:47:31.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> perame le voy a preguntar al julin se se va a unir si se me sale e por que lo llame por dc
-[03May2025 01:47:47.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> el hijo de perra dijo que ta cansao
-[03May2025 01:48:15.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
-[03May2025 01:48:15.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
-[03May2025 01:48:52.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> volvi
-[03May2025 01:48:59.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a
-[03May2025 01:49:01.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> dijo que si se va a unir pero
-[03May2025 01:49:08.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no hoy sino que mañana se va a unir
-[03May2025 01:49:14.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si lose
-[03May2025 01:49:17.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a
-[03May2025 01:49:23.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> y por que no me dijiste ? :v
-[03May2025 01:49:32.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pero si te dije
-[03May2025 01:49:42.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> dije que estaba cansao la perra
-[03May2025 01:49:49.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> seguro fue cuando yo no taba o me sacaba del serv por el net
-[03May2025 01:50:44.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que rico media barra de vida +
-[03May2025 01:50:47.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> el fate al final termino stream
-[03May2025 01:50:58.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 01:51:02.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> pero resuklto que no fue su net era el OBS
-[03May2025 01:51:05.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> era obvio
-[03May2025 01:51:10.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 01:51:12.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> y twitch que andaban mal
-[03May2025 01:51:31.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> hay que tradear con el de los palitos
-[03May2025 01:51:36.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> para la emeralda
-[03May2025 01:51:43.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a
-[03May2025 01:51:54.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe onde tay
-[03May2025 01:52:01.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a ya te vi
-[03May2025 01:52:09.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> colocaste que los encantamientos sean asi como de nivel 5 a 6 y de 6 7 asi susesibamente
-[03May2025 01:52:12.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> y esa hacha ? xd
-[03May2025 01:52:17.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no tienes esmeralda ?
-[03May2025 01:52:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> perdon me equivoque
-[03May2025 01:52:22.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tengo 14
-[03May2025 01:52:24.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> diamante
-[03May2025 01:52:26.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 01:52:30.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> aa
-[03May2025 01:52:33.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si tengo
-[03May2025 01:52:38.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> y por que esa hacha ?
-[03May2025 01:52:51.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> para que literalmente gasto esta y depue hago otra
-[03May2025 01:52:55.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a
-[03May2025 01:52:56.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 01:53:11.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pero ta ese mod
-[03May2025 01:53:15.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> cual ?
-[03May2025 01:53:25.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> el advanced ?
-[03May2025 01:53:26.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> de los encantamientos del 5 a 6 del 6 al 7 asi susesibamente
-[03May2025 01:53:29.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a
-[03May2025 01:53:40.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> esta si o no
-[03May2025 01:53:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> depende de que encantamiento me hablas ?
-[03May2025 01:54:03.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> cualquiera
-[03May2025 01:54:27.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a no por que el mod que agruege solamente hace que los encantamientos vanilla tengan el doble de nivel
-[03May2025 01:54:38.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a
-[03May2025 01:54:46.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por ejemplo en vanilla la efi su maximo level es 5 ahora con el mod va a hacer 10
-[03May2025 01:54:58.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> para la prote creo que es 4 ahora va a hacer 8
-[03May2025 01:55:10.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a
-[03May2025 01:56:27.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por que on sacas la madera que ay en las esquinas de las casas?
-[03May2025 01:56:44.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> porque me da palo
-[03May2025 01:56:49.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 01:57:59.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que wea porque veo un cofre abierto
-[03May2025 01:58:02.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a cuantos chunks lo tienes ?
-[03May2025 01:58:05.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> abierto ?
-[03May2025 01:58:06.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 01:58:18.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a lo defecto
-[03May2025 01:58:29.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> y cual es el por defecto ?
-[03May2025 01:58:36.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> 10 +2
-[03May2025 01:58:48.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a porsia el maximo para ver es 15
-[03May2025 01:58:57.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a
-[03May2025 01:59:31.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> uy que rico 2 barras de corazone
-[03May2025 01:59:36.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> soy literalmente un enderman
-[03May2025 01:59:37.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Ice Bucket Challenge]
-[03May2025 01:59:39.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> poquito
-[03May2025 01:59:52.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si mejoro las zapas con el casco ya son 3
-[03May2025 02:00:15.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> uy se me re lageo recien xd
-[03May2025 02:00:20.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 02:00:29.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> uff 1 barrita
-[03May2025 02:00:31.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> porque no le dices al dylan si quiere jugar
-[03May2025 02:00:34.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> nose
-[03May2025 02:00:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> dile tu XD ami capa que ni me conteste
-[03May2025 02:00:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si claro yo siemore todo
-[03May2025 02:01:11.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> esque tu eres mi manager
-[03May2025 02:01:18.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> chupame el picoooooo
-[03May2025 02:01:23.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 02:01:28.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> oe hay que hacer la granja
-[03May2025 02:01:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> de hilos
-[03May2025 02:01:42.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> pense que ya la habias echo
-[03May2025 02:02:00.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> me dices a mi ami que nisiquiera se hacer una granja de xp
-[03May2025 02:02:13.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> e re facil hacerla literal
-[03May2025 02:02:27.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Hot Stuff]
-[03May2025 02:02:57.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tenes hilo
-[03May2025 02:03:01.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> solo con tres
-[03May2025 02:03:09.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tevisa mi cofre
-[03May2025 02:03:13.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> nose si tengo
-[03May2025 02:03:20.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no tenes
-[03May2025 02:03:24.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> bruh
-[03May2025 02:03:26.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 02:03:26.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tenes que matar a spiderman
-[03May2025 02:03:31.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 02:05:18.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
-[03May2025 02:07:13.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
-[03May2025 02:07:23.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
-[03May2025 02:07:30.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 02:07:39.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [We Need to Go Deeper]
-[03May2025 02:07:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
-[03May2025 02:07:43.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7544ms or 150 ticks behind
-[03May2025 02:07:50.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> se lagueo todo
-[03May2025 02:07:58.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> siempre e asi xd
-[03May2025 02:08:15.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
-[03May2025 02:08:25.031] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:08:27.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me voy a poner en crea para precargar chunks en el nether
-[03May2025 02:08:32.731] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:08:39.536] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:08:39.553] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:08:43.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por que si lo hago en surv me van a re contra follar
-[03May2025 02:08:54.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 02:09:57.110] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:57.112] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:58.221] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:58.234] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:58.234] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:58.616] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:58.635] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:59.565] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:59.568] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:59.569] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:59.580] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:59.673] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:59.676] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:09:59.677] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 7 chunks (0.17%), ETA: 0:43:32, Rate: 1.6 cps, Current: -32, 0
-[03May2025 02:10:01.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 185 chunks (4.38%), ETA: 0:01:56, Rate: 34.6 cps, Current: -31, 6
-[03May2025 02:10:02.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 222 chunks (5.25%), ETA: 0:01:54, Rate: 35.0 cps, Current: -28, 12
-[03May2025 02:10:03.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
-[03May2025 02:10:03.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 249 chunks (5.89%), ETA: 0:01:57, Rate: 33.8 cps, Current: -30, 12
-[03May2025 02:10:04.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 257 chunks (6.08%), ETA: 0:02:10, Rate: 30.4 cps, Current: -31, 14
-[03May2025 02:10:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 269 chunks (6.37%), ETA: 0:02:19, Rate: 28.4 cps, Current: -27, 16
-[03May2025 02:10:06.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 324 chunks (7.67%), ETA: 0:02:22, Rate: 27.4 cps, Current: -31, 19
-[03May2025 02:10:07.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 338 chunks (8.00%), ETA: 0:02:28, Rate: 26.3 cps, Current: -28, 22
-[03May2025 02:10:08.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 354 chunks (8.38%), ETA: 0:02:32, Rate: 25.4 cps, Current: -27, 26
-[03May2025 02:10:09.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 381 chunks (9.02%), ETA: 0:02:32, Rate: 25.3 cps, Current: -32, 23
-[03May2025 02:10:09.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a me auste pensando una raid
-[03May2025 02:10:11.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 421 chunks (9.96%), ETA: 0:02:26, Rate: 26.0 cps, Current: -21, 29
-[03May2025 02:10:12.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 544 chunks (12.88%), ETA: 0:01:54, Rate: 32.0 cps, Current: -18, 28
-[03May2025 02:10:13.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 572 chunks (13.54%), ETA: 0:01:55, Rate: 31.5 cps, Current: -15, 23
-[03May2025 02:10:14.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 601 chunks (14.22%), ETA: 0:01:57, Rate: 30.9 cps, Current: -16, 30
-[03May2025 02:10:15.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 653 chunks (15.46%), ETA: 0:01:54, Rate: 31.3 cps, Current: -8, 27
-[03May2025 02:10:16.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 679 chunks (16.07%), ETA: 0:01:54, Rate: 31.0 cps, Current: -4, 29
-[03May2025 02:10:17.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1065 chunks (25.21%), ETA: 0:01:06, Rate: 47.2 cps, Current: -3, 31
-[03May2025 02:10:18.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1257 chunks (29.75%), ETA: 0:00:55, Rate: 53.6 cps, Current: 3, 26
-[03May2025 02:10:19.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 02:10:20.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1263 chunks (29.89%), ETA: 0:00:57, Rate: 51.5 cps, Current: 4, 23
-[03May2025 02:10:21.255] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:21.256] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:22.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1288 chunks (30.49%), ETA: 0:01:00, Rate: 48.3 cps, Current: 4, 25
-[03May2025 02:10:23.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1331 chunks (31.50%), ETA: 0:01:00, Rate: 48.1 cps, Current: 7, 25
-[03May2025 02:10:24.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1365 chunks (32.31%), ETA: 0:01:00, Rate: 47.5 cps, Current: 9, 29
-[03May2025 02:10:25.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1403 chunks (33.21%), ETA: 0:00:59, Rate: 47.0 cps, Current: 11, 20
-[03May2025 02:10:26.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1426 chunks (33.75%), ETA: 0:00:52, Rate: 52.9 cps, Current: 12, 12
-[03May2025 02:10:27.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1468 chunks (34.75%), ETA: 0:00:52, Rate: 52.4 cps, Current: 13, 24
-[03May2025 02:10:28.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1500 chunks (35.50%), ETA: 0:00:53, Rate: 51.3 cps, Current: 14, 18
-[03May2025 02:10:29.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1537 chunks (36.38%), ETA: 0:00:53, Rate: 50.6 cps, Current: 15, 17
-[03May2025 02:10:30.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1555 chunks (36.80%), ETA: 0:00:59, Rate: 44.8 cps, Current: 15, 26
-[03May2025 02:10:31.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1559 chunks (36.90%), ETA: 0:01:01, Rate: 43.5 cps, Current: 16, 18
-[03May2025 02:10:33.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1569 chunks (37.14%), ETA: 0:01:03, Rate: 42.0 cps, Current: 17, 1
-[03May2025 02:10:34.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1631 chunks (38.60%), ETA: 0:00:59, Rate: 43.3 cps, Current: 18, 13
-[03May2025 02:10:35.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1659 chunks (39.27%), ETA: 0:00:58, Rate: 43.5 cps, Current: 19, 8
-[03May2025 02:10:36.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1712 chunks (40.52%), ETA: 0:00:57, Rate: 43.5 cps, Current: 20, 11
-[03May2025 02:10:37.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1775 chunks (42.01%), ETA: 0:00:55, Rate: 43.9 cps, Current: 22, 1
-[03May2025 02:10:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1819 chunks (43.05%), ETA: 0:00:54, Rate: 44.0 cps, Current: 22, 16
-[03May2025 02:10:41.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1869 chunks (44.24%), ETA: 0:00:58, Rate: 40.0 cps, Current: 23, 12
-[03May2025 02:10:43.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1876 chunks (44.40%), ETA: 0:01:01, Rate: 38.4 cps, Current: 24, 0
-[03May2025 02:10:44.476] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:44.478] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:44.510] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:44.512] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:44.524] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:45.198] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:45.202] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:45.204] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:45.260] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:45.282] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:45.283] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:45.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1878 chunks (44.45%), ETA: 0:01:04, Rate: 36.2 cps, Current: 0, -27
-[03May2025 02:10:46.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1909 chunks (45.18%), ETA: 0:01:03, Rate: 36.3 cps, Current: 1, -22
-[03May2025 02:10:47.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1955 chunks (46.27%), ETA: 0:01:31, Rate: 24.8 cps, Current: 0, -16
-[03May2025 02:10:48.395] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:10:48.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 1989 chunks (47.08%), ETA: 0:01:55, Rate: 19.4 cps, Current: 2, -22
-[03May2025 02:10:50.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2020 chunks (47.81%), ETA: 0:01:49, Rate: 20.1 cps, Current: 3, -16
-[03May2025 02:10:51.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2053 chunks (48.59%), ETA: 0:01:43, Rate: 20.9 cps, Current: 4, -15
-[03May2025 02:10:52.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2115 chunks (50.06%), ETA: 0:01:38, Rate: 21.3 cps, Current: 10, -12
-[03May2025 02:10:53.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2169 chunks (51.34%), ETA: 0:01:34, Rate: 21.6 cps, Current: 9, -22
-[03May2025 02:10:54.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2202 chunks (52.12%), ETA: 0:01:35, Rate: 21.2 cps, Current: 11, -16
-[03May2025 02:10:55.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2239 chunks (52.99%), ETA: 0:01:30, Rate: 21.8 cps, Current: 12, -13
-[03May2025 02:10:56.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2295 chunks (54.32%), ETA: 0:01:26, Rate: 22.3 cps, Current: 14, -16
-[03May2025 02:10:57.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2347 chunks (55.55%), ETA: 0:01:25, Rate: 22.0 cps, Current: 15, -7
-[03May2025 02:10:58.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2409 chunks (57.02%), ETA: 0:01:21, Rate: 22.3 cps, Current: 17, -12
-[03May2025 02:10:59.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2464 chunks (58.32%), ETA: 0:01:20, Rate: 22.0 cps, Current: 18, -5
-[03May2025 02:10:59.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Iron Golem
-[03May2025 02:11:00.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2502 chunks (59.22%), ETA: 0:01:17, Rate: 22.1 cps, Current: 19, -3
-[03May2025 02:11:01.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> voy a precargar los mismos chunks que precaarge en el overworld que son 4225 creo que eran
-[03May2025 02:11:01.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2586 chunks (61.21%), ETA: 0:01:12, Rate: 22.7 cps, Current: 21, -9
-[03May2025 02:11:02.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2602 chunks (61.59%), ETA: 0:01:12, Rate: 22.5 cps, Current: 21, -1
-[03May2025 02:11:03.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2637 chunks (62.41%), ETA: 0:01:10, Rate: 22.4 cps, Current: 24, -2
-[03May2025 02:11:04.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2658 chunks (62.91%), ETA: 0:01:11, Rate: 22.0 cps, Current: -32, -12
-[03May2025 02:11:05.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2661 chunks (62.98%), ETA: 0:01:13, Rate: 21.3 cps, Current: -31, -14
-[03May2025 02:11:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2670 chunks (63.20%), ETA: 0:01:15, Rate: 20.7 cps, Current: -31, -3
-[03May2025 02:11:08.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2732 chunks (64.66%), ETA: 0:01:09, Rate: 21.6 cps, Current: -29, -19
-[03May2025 02:11:09.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2777 chunks (65.73%), ETA: 0:01:04, Rate: 22.4 cps, Current: -27, -3
-[03May2025 02:11:10.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2837 chunks (67.15%), ETA: 0:00:59, Rate: 23.4 cps, Current: -26, -9
-[03May2025 02:11:11.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2891 chunks (68.43%), ETA: 0:00:55, Rate: 24.1 cps, Current: -25, -24
-[03May2025 02:11:12.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2923 chunks (69.18%), ETA: 0:00:50, Rate: 26.0 cps, Current: -24, -18
-[03May2025 02:11:13.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> el golem me mato y yo lo mate a el a la vez
-[03May2025 02:11:13.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2949 chunks (69.80%), ETA: 0:00:49, Rate: 25.9 cps, Current: -23, -19
-[03May2025 02:11:14.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 2981 chunks (70.56%), ETA: 0:00:45, Rate: 27.6 cps, Current: -22, -16
-[03May2025 02:11:15.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3037 chunks (71.88%), ETA: 0:00:41, Rate: 28.4 cps, Current: -19, -26
-[03May2025 02:11:16.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> para que sea mas rapido en precargar chunks para que no se demora medio año
-[03May2025 02:11:17.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3115 chunks (73.73%), ETA: 0:00:38, Rate: 28.9 cps, Current: -17, -24
-[03May2025 02:11:17.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-832, y=70, z=422} BlockPos{x=-831, y=68, z=422}
-[03May2025 02:11:18.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3150 chunks (74.56%), ETA: 0:00:37, Rate: 29.0 cps, Current: -15, -17
-[03May2025 02:11:19.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3185 chunks (75.38%), ETA: 0:00:35, Rate: 29.3 cps, Current: -14, -21
-[03May2025 02:11:20.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3243 chunks (76.76%), ETA: 0:00:32, Rate: 30.3 cps, Current: -12, -19
-[03May2025 02:11:21.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 02:11:21.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3320 chunks (78.58%), ETA: 0:00:29, Rate: 31.1 cps, Current: -9, -23
-[03May2025 02:11:22.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3382 chunks (80.05%), ETA: 0:00:26, Rate: 31.9 cps, Current: -7, -15
-[03May2025 02:11:23.222] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:11:23.222] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:11:23.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3412 chunks (80.76%), ETA: 0:00:25, Rate: 32.0 cps, Current: -6, -20
-[03May2025 02:11:24.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3568 chunks (84.45%), ETA: 0:00:19, Rate: 34.2 cps, Current: -4, -20
-[03May2025 02:11:25.713] [Chunky-minecraft:the_nether Thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3575 chunks (84.62%), ETA: 0:00:19, Rate: 32.9 cps, Current: -36, -29
-[03May2025 02:11:26.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3625 chunks (85.80%), ETA: 0:00:18, Rate: 32.2 cps, Current: -2, -18
-[03May2025 02:11:27.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3686 chunks (87.24%), ETA: 0:00:16, Rate: 32.1 cps, Current: -36, -4
-[03May2025 02:11:28.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3724 chunks (88.14%), ETA: 0:00:15, Rate: 31.9 cps, Current: -36, -11
-[03May2025 02:11:29.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3756 chunks (88.90%), ETA: 0:00:14, Rate: 32.0 cps, Current: -34, -6
-[03May2025 02:11:30.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3770 chunks (89.23%), ETA: 0:00:14, Rate: 31.7 cps, Current: -35, -1
-[03May2025 02:11:31.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3798 chunks (89.89%), ETA: 0:00:13, Rate: 32.0 cps, Current: -33, -14
-[03May2025 02:11:32.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3822 chunks (90.46%), ETA: 0:00:12, Rate: 31.6 cps, Current: -38, 4
-[03May2025 02:11:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3831 chunks (90.67%), ETA: 0:00:12, Rate: 31.5 cps, Current: -39, 8
-[03May2025 02:11:34.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3864 chunks (91.46%), ETA: 0:00:11, Rate: 32.2 cps, Current: -37, 12
-[03May2025 02:11:35.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> falta poco
-[03May2025 02:11:35.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 3898 chunks (92.26%), ETA: 0:00:10, Rate: 32.0 cps, Current: -35, 6
-[03May2025 02:11:36.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 4012 chunks (94.96%), ETA: 0:00:06, Rate: 32.4 cps, Current: -34, 6
-[03May2025 02:11:37.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 4034 chunks (95.48%), ETA: 0:00:06, Rate: 31.5 cps, Current: -34, 20
-[03May2025 02:11:39.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 4057 chunks (96.02%), ETA: 0:00:05, Rate: 31.1 cps, Current: -20, 32
-[03May2025 02:11:40.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 4080 chunks (96.57%), ETA: 0:00:04, Rate: 30.1 cps, Current: -11, 32
-[03May2025 02:11:41.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 4177 chunks (98.86%), ETA: 0:00:01, Rate: 28.9 cps, Current: -12, 35
-[03May2025 02:11:42.130] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:11:42.133] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:11:42.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 4182 chunks (98.98%), ETA: 0:00:01, Rate: 28.1 cps, Current: -7, 33
-[03May2025 02:11:42.196] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 02:11:42.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> 1
-[03May2025 02:11:43.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:the_nether. Processed: 4190 chunks (99.17%), ETA: 0:00:01, Rate: 27.6 cps, Current: -6, 34
-[03May2025 02:11:43.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:the_nether. Processed: 4225 chunks (100.00%), Total time: 0:01:47
-[03May2025 02:11:44.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> listo
-[03May2025 02:11:52.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> 4225 chunks cargados
-[03May2025 02:12:06.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ahora si no deberia ir mal a menos que alguien se valla mas alla de 4225 chunks
-[03May2025 02:12:18.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
-[03May2025 02:13:01.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> que rico bioma azul
-[03May2025 02:13:07.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ??????????????
-[03May2025 02:13:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> el del nether
-[03May2025 02:13:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ???????????????????????????????????????????????
-[03May2025 02:13:33.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ????????????????????????????????????????????????????????????????????????????????????????????
-[03May2025 02:13:33.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> el barraza reference
-[03May2025 02:13:37.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> XD
-[03May2025 02:14:05.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que rico tener 3 barras de vida
-[03May2025 02:14:11.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> fua
-[03May2025 02:14:12.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 02:14:22.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> eso diria si tubiera tres barras de visa
-[03May2025 02:16:35.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> fua ahora si 3 barritas de vida
-[03May2025 02:16:41.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[03May2025 02:17:00.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe tengo un mapa de una oustlin piglin
-[03May2025 02:17:06.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> outstation
-[03May2025 02:17:24.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> qur hablai fumao
-[03May2025 02:17:39.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tengo 5 de hilo
-[03May2025 02:17:43.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [We Need to Go Deeper]
-[03May2025 02:17:56.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a
-[03May2025 02:18:09.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Not Today, Thank You]
-[03May2025 02:18:27.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [It's Rude to Stare!]
-[03May2025 02:18:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has reached the goal [Eye of Darkness]
-[03May2025 02:19:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
-[03May2025 02:19:12.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> hola
-[03May2025 02:19:17.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira
-[03May2025 02:19:18.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> literal estaba alado
-[03May2025 02:19:19.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pontelo
-[03May2025 02:19:27.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> todp
-[03May2025 02:19:36.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> poquito
-[03May2025 02:19:53.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> rico verdad
-[03May2025 02:20:35.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
-[03May2025 02:20:37.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> salto de fe
-[03May2025 02:20:53.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> soy el negro morales
-[03May2025 02:21:11.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que rica la carne de peruano
-[03May2025 02:21:14.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 02:21:27.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> fortres
-[03May2025 02:21:39.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> chicken jockey
-[03May2025 02:21:42.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> rico
-[03May2025 02:21:50.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
-[03May2025 02:21:50.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> fortres es
-[03May2025 02:21:58.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si ya lo vi
-[03May2025 02:22:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> yo tanqueo
-[03May2025 02:22:12.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [A Terrible Fortress]
-[03May2025 02:22:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [A Terrible Fortress]
-[03May2025 02:22:21.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> se me ta lagueando un monton xd
-[03May2025 02:22:54.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ni una bara
-[03May2025 02:23:55.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Into Fire]
-[03May2025 02:24:13.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> una bara recien
-[03May2025 02:24:45.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pon aqui
-[03May2025 02:24:50.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
-[03May2025 02:24:58.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ahi si
-[03May2025 02:25:21.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mano atravese el proyectil
-[03May2025 02:25:28.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 02:26:55.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> falto lo de los ascesorios
-[03May2025 02:26:57.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> uuuu
-[03May2025 02:27:01.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> como el de mas vida
-[03May2025 02:27:04.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Wither Skeleton
-[03May2025 02:27:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server tepeate si esque puedes encontre algo que se ve que parece una sala de boss
-[03May2025 02:27:35.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
-[03May2025 02:27:42.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
-[03May2025 02:27:45.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 fell from a high place
-[03May2025 02:27:49.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 02:27:52.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
-[03May2025 02:27:59.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> te iso compañia el wither
-[03May2025 02:28:01.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> lo viste ?
-[03May2025 02:28:09.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que te crees doc tops
-[03May2025 02:29:58.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob fell from a high place
-[03May2025 02:30:49.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Who is Cutting Onions?]
-[03May2025 02:31:02.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
-[03May2025 02:31:12.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> oe lo de la mesa
-[03May2025 02:31:18.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> rompe cuatro de onsi
-[03May2025 02:31:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tengo 18 se obsi
-[03May2025 02:31:34.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a
-[03May2025 02:36:23.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> otra fortres
-[03May2025 02:36:24.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> creo
-[03May2025 02:36:29.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 02:37:38.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no no es otra es la misma
-[03May2025 02:37:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> lo suponi`a
-[03May2025 02:41:31.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Those Were the Days]
-[03May2025 02:41:35.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ooo
-[03May2025 02:41:39.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
-[03May2025 02:41:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> otia
-[03May2025 02:42:06.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [War Pigs]
-[03May2025 02:42:23.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Hidden in the Depths]
-[03May2025 02:44:22.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Who is Cutting Onions?]
-[03May2025 02:44:25.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Ice Bucket Challenge]
-[03May2025 02:44:59.658] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
-[03May2025 02:45:04.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> gg
-[03May2025 02:45:46.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> davis
-[03May2025 02:45:50.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a
-[03May2025 02:45:56.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tengo mejora de netherite
-[03May2025 02:46:06.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> gg
-[03May2025 02:46:27.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> encontre esta wea de los piglins
-[03May2025 02:47:12.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was burned to a crisp while fighting Blaze
-[03May2025 02:47:17.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob burned to death
-[03May2025 02:47:32.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
-[03May2025 02:47:39.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe necesito mostrarte alo
-[03May2025 02:47:42.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> algo*
-[03May2025 02:47:45.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
-[03May2025 02:47:53.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 02:48:00.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tienes que terminar esa llamada
-[03May2025 02:48:05.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 02:48:14.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> eso no
-[03May2025 02:48:15.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 02:48:37.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> como se asia esa wea de afiladora
-[03May2025 02:48:50.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> en la otra aldea creo que hay una
-[03May2025 02:49:03.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
-[03May2025 02:49:10.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tengo escombro ansenstral
-[03May2025 02:49:12.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> hiciste la mesa cuando yo ya tenia pa hacerla :C
-[03May2025 02:49:14.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> :v*
-[03May2025 02:49:22.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y que
-[03May2025 02:49:35.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> pasa la mesa
-[03May2025 02:49:36.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> yel carbon
-[03May2025 02:50:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tan alto pero poca vida
-[03May2025 02:50:47.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tengo una bara con 4 corazones
-[03May2025 02:51:02.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 02:51:07.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> muy poco
-[03May2025 02:51:47.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
-[03May2025 02:51:58.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pico de mierda
-[03May2025 02:52:07.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> solo me quitaste un cora
-[03May2025 02:52:14.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y tres con lo del whiter
-[03May2025 02:52:28.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira
-[03May2025 02:52:34.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> intenta descantarlo
-[03May2025 02:52:38.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> con la afiladora
-[03May2025 02:52:48.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no te paso nada ?
-[03May2025 02:52:51.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no
-[03May2025 02:52:57.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [NeoEnchant+]
-[03May2025 02:53:03.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y que queri que haga con esta espada
-[03May2025 02:53:17.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tengo una espada con reparacion
-[03May2025 02:54:04.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> hago librerias con los libros que tenes ?
-[03May2025 02:54:59.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no puedo ni pasar por las puertas de lo grande que soy
-[03May2025 02:55:21.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ?
-[03May2025 02:55:22.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que te hizo
-[03May2025 02:55:26.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> nada
-[03May2025 02:55:30.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> puta madre
-[03May2025 02:55:34.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me dejaste a medio cora
-[03May2025 02:55:35.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> esque tengo sacriface
-[03May2025 02:55:35.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> dame comida
-[03May2025 02:55:39.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> enserio
-[03May2025 02:55:41.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> si
-[03May2025 02:55:49.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> aldeano judio ven aqui
-[03May2025 02:55:53.152] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/51, l='ServerLevel[world]', x=-833.94, y=69.00, z=425.21] died, message: 'Nitwit was slain by crisrob'
-[03May2025 02:56:00.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no hizo ni mierda
-[03May2025 02:56:19.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tas chiquitp
-[03May2025 02:56:44.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> valla mierda
-[03May2025 02:57:46.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> FORTUNA 2 me da la mesa
-[03May2025 02:58:00.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> rico
-[03May2025 02:58:17.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a 30 de exp re caro
-[03May2025 02:58:21.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 02:58:23.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Enchanter]
-[03May2025 02:58:27.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> :ooo
-[03May2025 02:58:35.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> haste 3 y fortuna 2
-[03May2025 02:58:36.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que te di
-[03May2025 02:58:45.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> rico
-[03May2025 02:58:47.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ver dejame picar este carbon
-[03May2025 02:58:58.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> 3 de carbon en uno solo
-[03May2025 02:58:59.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pa se laguea el ser
-[03May2025 02:59:01.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-824, y=68, z=422} BlockPos{x=-823, y=68, z=421}
-[03May2025 02:59:01.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-824, y=68, z=422} BlockPos{x=-824, y=68, z=421}
-[03May2025 02:59:01.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-824, y=68, z=422} BlockPos{x=-824, y=68, z=421}
-[03May2025 02:59:01.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-824, y=68, z=422} BlockPos{x=-824, y=68, z=421}
-[03May2025 02:59:01.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-824, y=68, z=420} BlockPos{x=-824, y=68, z=421}
-[03May2025 02:59:02.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-821, y=68, z=420} BlockPos{x=-822, y=68, z=421}
-[03May2025 02:59:02.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-821, y=68, z=420} BlockPos{x=-822, y=68, z=421}
-[03May2025 02:59:02.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-821, y=68, z=420} BlockPos{x=-822, y=68, z=421}
-[03May2025 02:59:02.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-821, y=68, z=420} BlockPos{x=-822, y=68, z=421}
-[03May2025 02:59:02.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-821, y=68, z=420} BlockPos{x=-822, y=68, z=421}
-[03May2025 02:59:25.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> onde anday ?
-[03May2025 02:59:33.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> nether
-[03May2025 02:59:37.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a ya
-[03May2025 02:59:57.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-820, y=68, z=422} BlockPos{x=-820, y=68, z=423}
-[03May2025 03:01:35.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tambien ay un encatamiento que te da un exp boost que va en la espada esta asta nivel 3 y e una locura el nivel de exp que llegas a tener si matas a 15 endermans
-[03May2025 03:02:04.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> aaaaaaaaa me da un infarto mucho textooooooooo AAAAAAAAAAAAA
-[03May2025 03:02:19.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tengo xp boos en el picaxe
-[03May2025 03:02:44.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a
-[03May2025 03:02:51.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> entonces tienes que matar con el pico
-[03May2025 03:03:18.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> esque tengo un pico espada
-[03May2025 03:03:24.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 03:03:36.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ni que fuera el tiburon espada
-[03May2025 03:03:42.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 03:03:50.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> soy el tiburon martillo
-[03May2025 03:05:42.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> lo malo que al minar super rapido se rompe rapido le hace falta repa y irrompibilidad
-[03May2025 03:05:51.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 03:05:54.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tay en home ?
-[03May2025 03:06:30.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
-[03May2025 03:06:43.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was killed
-[03May2025 03:06:43.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Killed davixelpro123]
-[03May2025 03:06:48.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 03:06:59.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
-[03May2025 03:07:05.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> uyyyyyyyyyyyyyy
-[03May2025 03:07:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> davis y ese creativo
-[03May2025 03:08:08.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> esque yo guarde spwan en la otra aldea y pues re pajero ir ala de nosotros y por eso me puse crea pa ir volando y poner spawn
-[03May2025 03:08:24.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ??????
-[03May2025 03:08:34.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
-[03May2025 03:10:04.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-858, y=69, z=400} BlockPos{x=-858, y=70, z=400}
-[03May2025 03:10:05.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que rico diseño de armadura hocico
-[03May2025 03:10:11.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 03:10:55.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-850, y=73, z=397} BlockPos{x=-852, y=70, z=402}
-[03May2025 03:10:55.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-850, y=73, z=397} BlockPos{x=-852, y=70, z=402}
-[03May2025 03:10:55.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-850, y=73, z=397} BlockPos{x=-852, y=70, z=402}
-[03May2025 03:10:55.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-850, y=73, z=397} BlockPos{x=-852, y=70, z=402}
-[03May2025 03:10:55.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-850, y=73, z=397} BlockPos{x=-852, y=70, z=402}
-[03May2025 03:10:55.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-850, y=73, z=397} BlockPos{x=-852, y=70, z=402}
-[03May2025 03:11:51.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tu hermano ya voy con tres
-[03May2025 03:12:04.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a no es la misma
-[03May2025 03:12:09.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has completed the challenge [Hot Tourist Destinations]
-[03May2025 03:14:21.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por un momento pense que estaba temblando XD
-[03May2025 03:14:27.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 03:14:34.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> llegue a la bedrock
-[03May2025 03:14:37.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> en el nether
-[03May2025 03:14:41.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 03:15:27.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=69, z=420} BlockPos{x=-837, y=69, z=420}
-[03May2025 03:15:42.834] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 03:15:59.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ya vengo
-[03May2025 03:16:14.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ya vengo}
-[03May2025 03:19:46.366] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 03:19:46.367] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 03:19:46.368] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 03:19:46.674] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 03:19:46.675] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 03:19:46.675] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 03:19:51.299] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 03:19:51.497] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[03May2025 03:20:03.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> volvi
-[03May2025 03:20:08.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no
-[03May2025 03:20:12.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 03:20:19.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob tried to swim in lava
-[03May2025 03:20:19.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no quiero morir
-[03May2025 03:20:24.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> XD
-[03May2025 03:20:30.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> poquito aplane xd
-[03May2025 03:20:36.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tan cerca oeri tan lejos
-[03May2025 03:20:42.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que cuchca
-[03May2025 03:20:47.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> y con esta pala
-[03May2025 03:21:01.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ahi teni mas
-[03May2025 03:21:09.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me salio 3 de experiencia noma y necesitaba 30
-[03May2025 03:21:35.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> efi 4 una mrd
-[03May2025 03:21:55.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tengo glotoneria 1
-[03May2025 03:21:59.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 03:22:34.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que es fire halloy
-[03May2025 03:22:39.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> nose
-[03May2025 03:22:41.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 03:22:45.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 03:22:54.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe me acorde de algo
-[03May2025 03:23:07.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> esque ay un mod que tiene una pagina la cosa esque en esa pagina
-[03May2025 03:23:37.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> yo puedo pescar el archivo de los encantamientos y ponerlo en la pagina y modificar los encatnamientos como el maximo de niveles
-[03May2025 03:23:42.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> de un encantamiento
-[03May2025 03:23:53.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a
-[03May2025 03:23:57.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> puedo hacer que la prote llegue a nivel 1000 o mas creo xd
-[03May2025 03:24:19.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> es aleacion de fuego
-[03May2025 03:24:23.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> y que en la mesa noma necesiti 1 de exp pra poder obtenerlo xd
-[03May2025 03:24:29.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 03:25:21.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe puedes encerrar alos aldeanos en una zona ? como lo haciamos antes en los servers del fate
-[03May2025 03:25:29.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> okey
-[03May2025 03:26:03.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> igual no nos chetemos tanto haci pa el el julin no se sienta miserable xd
-[03May2025 03:26:15.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que se joda
-[03May2025 03:26:20.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por que capas que se meta y alvernos tan avanzados ni quiera jugar despues
-[03May2025 03:27:02.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! 0.11000262782738446,0.0,10.26032015943241
-[03May2025 03:27:21.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
-[03May2025 03:27:21.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
-[03May2025 03:27:21.297] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03May2025 03:27:59.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.153.48.251:42727] logged in with entity id 31392 at (-883.5773745863437, 69.0, 408.98957526451227)
-[03May2025 03:27:59.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
-[03May2025 03:28:08.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 03:28:12.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
-[03May2025 03:28:26.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> pense que se habia lagueado el server pero fue mi net
-[03May2025 03:28:33.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 03:28:36.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por que ando miandno y sacando tierra como loco
-[03May2025 03:28:44.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-884, y=69, z=475} BlockPos{x=-884, y=69, z=473}
-[03May2025 03:29:21.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
-[03May2025 03:29:27.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-884, y=71, z=446} BlockPos{x=-884, y=71, z=445}
-[03May2025 03:29:29.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-884, y=71, z=442} BlockPos{x=-884, y=71, z=440}
-[03May2025 03:29:51.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
-[03May2025 03:29:54.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ptmr
-[03May2025 03:30:00.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me va a sacar de la pagina del serv
-[03May2025 03:30:10.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no mames
-[03May2025 03:30:26.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> que paso ?
-[03May2025 03:30:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> naa por
-[03May2025 03:30:45.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> pillagers
-[03May2025 03:30:50.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que
-[03May2025 03:30:54.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> en la home
-[03May2025 03:30:58.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 03:31:08.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> son 5
-[03May2025 03:31:12.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tenes 3 diamons
-[03May2025 03:31:14.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mentira
-[03May2025 03:31:15.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> son 3
-[03May2025 03:31:21.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me van a matar
-[03May2025 03:31:40.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Timed out
-[03May2025 03:31:40.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
-[03May2025 03:31:53.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Voluntary Exile]
-[03May2025 03:32:12.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-866, y=69, z=452} BlockPos{x=-867, y=69, z=452}
-[03May2025 03:33:36.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-883, y=69, z=471} BlockPos{x=-878, y=70, z=473}
-[03May2025 03:33:36.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-883, y=69, z=471} BlockPos{x=-876, y=70, z=471}
-[03May2025 03:33:37.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-883, y=69, z=471} BlockPos{x=-878, y=69, z=470}
-[03May2025 03:33:49.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was shot by Skeleton
-[03May2025 03:34:02.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: The game is sprinting]
-[03May2025 03:34:02.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sprint completed with 58 ticks per second, or 17.23 ms per tick
-[03May2025 03:34:45.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set the target tick rate to 1.0 per second]
-[03May2025 03:34:53.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set the target tick rate to 100.0 per second]
-[03May2025 03:35:02.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set the target tick rate to 10000.0 per second]
-[03May2025 03:35:02.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 1007ms or 10072 ticks behind
-[03May2025 03:35:57.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set the target tick rate to 20.0 per second]
-[03May2025 03:35:58.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 41036ms or 820 ticks behind
-[03May2025 03:37:26.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set 7 experience levels on davixelpro123]
-[03May2025 03:37:32.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/127.7.183.72:36177] logged in with entity id 36539 at (-51.97218734541047, 46.0, 21.69999998807907)
-[03May2025 03:37:32.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
-[03May2025 03:37:49.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-881, y=71, z=458} BlockPos{x=-881, y=74, z=451}
-[03May2025 03:37:49.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-881, y=71, z=458} BlockPos{x=-881, y=74, z=451}
-[03May2025 03:38:17.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tienes 3 diamons
-[03May2025 03:38:28.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> en mi cofre
-[03May2025 03:38:41.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ok
-[03May2025 03:38:51.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[03May2025 03:39:00.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-883, y=72, z=426} BlockPos{x=-883, y=73, z=426}
-[03May2025 03:39:09.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-882, y=70, z=399} BlockPos{x=-883, y=69, z=401}
-[03May2025 03:39:41.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a todo esto que te apso ?
-[03May2025 03:39:44.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> paso*
-[03May2025 03:40:22.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
-[03May2025 03:40:22.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
-[03May2025 03:41:06.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Enchanter]
-[03May2025 03:41:29.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked crisrob: you are not flying in server
-[03May2025 03:41:29.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: you are not flying in server
-[03May2025 03:41:29.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
-[03May2025 03:41:40.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Gave 26 experience points to davixelpro123]
-[03May2025 03:41:43.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Gave 26 experience levels to davixelpro123]
-[03May2025 03:41:51.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/127.7.183.72:44171] logged in with entity id 38694 at (-813.9866839692861, 70.17675927506424, 418.33344203688324)
-[03May2025 03:41:51.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
-[03May2025 03:42:05.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> que te paso ahora ?
-[03May2025 03:42:14.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> nose
-[03May2025 03:42:18.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> se salio por que si
-[03May2025 03:42:22.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 03:42:47.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-870, y=69, z=441} BlockPos{x=-867, y=71, z=442}
-[03May2025 03:44:38.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ya vengo
-[03May2025 03:45:06.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=65, z=111} BlockPos{x=-124, y=65, z=112}
-[03May2025 03:45:46.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob moved wrongly!
-[03May2025 03:46:18.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=58, z=112} BlockPos{x=-143, y=55, z=113}
-[03May2025 03:48:28.705] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37301, l='ServerLevel[world]', x=-856.77, y=75.00, z=387.59] died, message: 'Villager was slain by Zombie'
-[03May2025 03:48:38.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=32, z=118} BlockPos{x=-177, y=33, z=118}
-[03May2025 03:49:04.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Spider
-[03May2025 03:49:59.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=14, z=131} BlockPos{x=-188, y=15, z=131}
-[03May2025 03:50:40.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=12, z=152} BlockPos{x=-190, y=11, z=152}
-[03May2025 03:50:40.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=12, z=152} BlockPos{x=-190, y=12, z=152}
-[03May2025 03:50:40.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=11, z=152} BlockPos{x=-190, y=12, z=152}
-[03May2025 03:50:41.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=11, z=152} BlockPos{x=-190, y=12, z=152}
-[03May2025 03:50:41.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=12, z=152} BlockPos{x=-190, y=12, z=152}
-[03May2025 03:50:41.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=12, z=152} BlockPos{x=-190, y=12, z=152}
-[03May2025 03:50:41.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=12, z=152} BlockPos{x=-190, y=12, z=152}
-[03May2025 03:50:53.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> fuck
-[03May2025 03:51:12.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que te paso
-[03May2025 03:51:13.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me dan efi 4 a 30 niveles a que se lo pongo ?
-[03May2025 03:51:20.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no
-[03May2025 03:51:23.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no que
-[03May2025 03:51:31.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> hasted es mejor
-[03May2025 03:51:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> literalmente la grava la pico como si tubiera una pala
-[03May2025 03:51:45.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> fuaaaaa
-[03May2025 03:51:46.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
-[03May2025 03:51:48.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y hastes lo tengo en el pico
-[03May2025 03:52:03.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que
-[03May2025 03:52:08.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> le di al efi 4 y ahora tengo efi 4 haste 3 y haste 2 en un pico mira tepeate
-[03May2025 03:52:09.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 03:52:20.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pera
-[03May2025 03:52:47.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
-[03May2025 03:52:47.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
-[03May2025 03:53:26.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> antes de venir ami traeme tierra de mi cofre
-[03May2025 03:53:28.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> porfa
-[03May2025 03:53:42.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> putamadre
-[03May2025 03:53:47.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no ya no
-[03May2025 03:53:51.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> se salio el aliansa con el fuego
-[03May2025 03:54:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
-[03May2025 03:54:19.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ay
-[03May2025 03:54:21.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> la pala
-[03May2025 03:54:22.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> otia puta
-[03May2025 03:54:37.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
-[03May2025 03:54:47.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ??????????????????????????????????????????????????????????????????????
-[03May2025 03:54:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ?
-[03May2025 03:54:55.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> que mrd
-[03May2025 03:55:08.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> se me cayo el teclao al suelo y se me cambio a crea xd
-[03May2025 03:55:14.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
-[03May2025 03:55:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
-[03May2025 03:55:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> sisi claro
-[03May2025 03:55:24.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no encerio
-[03May2025 03:55:26.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 03:55:34.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ni yo me habia dado cuenta
-[03May2025 03:55:52.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Set own game mode to Creative Mode]
-[03May2025 03:55:57.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> uy se me cayo la compu
-[03May2025 03:56:03.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y se coloco en creativo solo
-[03May2025 03:56:10.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
-[03May2025 03:56:11.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Set own game mode to Survival Mode]
+[03May2025 04:19:55.031] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[03May2025 04:19:55.033] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[03May2025 04:19:55.034] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[03May2025 04:19:56.600] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[03May2025 04:19:57.010] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-men/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[03May2025 04:19:57.629] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[03May2025 04:20:00.977] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03May2025 04:20:01.090] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[03May2025 04:20:01.223] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[03May2025 04:20:01.481] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
+[03May2025 04:20:01.490] [main/WARN] [mixin/]: Reference map 'betterdeserttemples.refmap.json' for betterdeserttemples.mixins.json could not be read. If this is a development environment you can ignore this message
+[03May2025 04:20:01.508] [main/WARN] [mixin/]: Reference map 'betterfortresses.refmap.json' for betterfortresses.mixins.json could not be read. If this is a development environment you can ignore this message
+[03May2025 04:20:01.516] [main/WARN] [mixin/]: Reference map 'bettermineshafts.refmap.json' for bettermineshafts.mixins.json could not be read. If this is a development environment you can ignore this message
+[03May2025 04:20:04.386] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[03May2025 04:20:04.632] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[03May2025 04:20:04.680] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[03May2025 04:20:20.952] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[03May2025 04:20:20.953] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[03May2025 04:20:21.027] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[03May2025 04:20:21.080] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[03May2025 04:20:25.948] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[03May2025 04:20:27.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
+[03May2025 04:20:27.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Starting version check at https://api.modrinth.com/updates/LbDPuvYD/forge_updates.json
+[03May2025 04:20:27.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Found status: OUTDATED Current: 1.2.1 Target: 1.2.1+mod
+[03May2025 04:20:27.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Starting version check at https://api.modrinth.com/updates/t2pMCVgG/forge_updates.json
+[03May2025 04:20:27.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Found status: OUTDATED Current: 1.5.0 Target: 1.5.0+mod
+[03May2025 04:20:27.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Starting version check at https://api.modrinth.com/updates/HQsBdHGd/forge_updates.json
+[03May2025 04:20:27.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Found status: BETA_OUTDATED Current: 5.0-beta4 Target: 5.0-beta4+mod
+[03May2025 04:20:27.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Starting version check at https://api.modrinth.com/updates/GD1QoExk/forge_updates.json
+[03May2025 04:20:27.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Found status: OUTDATED Current: 1.8 Target: 1.8+mod
+[03May2025 04:20:27.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03May2025 04:20:27.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
+[03May2025 04:20:27.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[03May2025 04:20:27.884] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Found status: OUTDATED Current: 3.0.6 Target: 3.0.6+mod
+[03May2025 04:20:27.886] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Starting version check at https://api.modrinth.com/updates/BynmO8IO/forge_updates.json
+[03May2025 04:20:27.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Found status: OUTDATED Current: 5.10 Target: 5.10+mod
+[03May2025 04:20:27.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Starting version check at https://api.modrinth.com/updates/UMmSTwE0/forge_updates.json
+[03May2025 04:20:28.005] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Found status: OUTDATED Current: 1.3 Target: 1.3+mod
+[03May2025 04:20:28.005] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[03May2025 04:20:28.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.6 Target: 2.1.6
+[03May2025 04:20:28.762] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03May2025 04:20:38.416] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1358 recipes
+[03May2025 04:20:38.970] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[03May2025 04:20:38.970] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1702 advancements
+[03May2025 04:20:40.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
+[03May2025 04:20:40.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03May2025 04:20:40.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03May2025 04:20:40.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03May2025 04:20:40.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03May2025 04:20:40.863] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03May2025 04:20:41.091] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03May2025 04:20:41.092] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03May2025 04:20:41.095] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03May2025 04:20:41.095] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03May2025 04:20:41.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03May2025 04:20:53.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03May2025 04:20:55.590] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:20:55.593] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:20:55.594] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:20:55.595] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:20:55.596] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:20:55.956] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 04:20:56.182] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2750 ms
+[03May2025 04:20:56.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.016s)! For help, type "help"
+[03May2025 04:20:56.203] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03May2025 04:21:31.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/127.7.183.72:54403] logged in with entity id 67 at (-831.3869656269284, 70.0, 436.13082411777003)
+[03May2025 04:21:31.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[03May2025 04:24:16.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.153.48.251:42263] logged in with entity id 719 at (-828.9018569359869, 69.0, 390.43434400460546)
+[03May2025 04:24:16.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[03May2025 04:24:16.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[03May2025 04:24:16.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[03May2025 04:25:27.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.153.48.251:58343] logged in with entity id 880 at (-828.9018569359869, 69.0, 390.43434400460546)
+[03May2025 04:25:27.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[03May2025 04:25:31.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> bro dos coras mas
+[03May2025 04:25:38.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> como asi ?
+[03May2025 04:26:37.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[03May2025 04:26:37.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[03May2025 04:26:39.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> davis
+[03May2025 04:27:09.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.153.48.251:50857] logged in with entity id 1141 at (-821.0614418991485, 69.0, 428.11474721618464)
+[03May2025 04:27:09.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[03May2025 04:27:13.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
+[03May2025 04:27:16.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ahora si
+[03May2025 04:27:21.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira
+[03May2025 04:27:39.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
+[03May2025 04:27:39.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[03May2025 04:27:39.653] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03May2025 04:28:26.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.153.48.251:56473] logged in with entity id 1318 at (-829.3347327072188, 70.98249998688698, 437.62480317955465)
+[03May2025 04:28:26.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[03May2025 04:28:35.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ahora si ?+
+[03May2025 04:28:38.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> oe
+[03May2025 04:28:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> as la granjita de hilo
+[03May2025 04:28:44.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me desconecto el internet de mi pc xd
+[03May2025 04:28:51.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira
+[03May2025 04:28:54.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> eso oy a ahacer
+[03May2025 04:29:01.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[03May2025 04:29:14.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ta buena
+[03May2025 04:29:25.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> eso ase
+[03May2025 04:29:30.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> atrastuyo
+[03May2025 04:29:35.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y eso spawnea
