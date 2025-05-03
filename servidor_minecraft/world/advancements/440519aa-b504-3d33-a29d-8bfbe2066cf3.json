@@ -296,13 +296,14 @@
       "minecraft:blaze": "2025-05-03 02:32:06 +0000",
       "minecraft:pillager": "2025-05-03 03:31:50 +0000",
       "minecraft:skeleton": "2025-05-02 23:16:57 +0000",
-      "minecraft:piglin": "2025-05-03 02:16:19 +0000",
       "minecraft:zombified_piglin": "2025-05-03 03:50:36 +0000",
+      "minecraft:wither_skeleton": "2025-05-03 02:35:30 +0000",
+      "minecraft:piglin": "2025-05-03 02:16:19 +0000",
       "minecraft:enderman": "2025-05-03 02:18:43 +0000",
+      "minecraft:silverfish": "2025-05-03 17:15:17 +0000",
       "minecraft:magma_cube": "2025-05-03 02:26:16 +0000",
       "minecraft:piglin_brute": "2025-05-03 02:16:34 +0000",
       "minecraft:spider": "2025-05-03 03:34:38 +0000",
-      "minecraft:wither_skeleton": "2025-05-03 02:35:30 +0000",
       "minecraft:zombie": "2025-05-02 23:10:29 +0000",
       "minecraft:creeper": "2025-05-03 03:50:43 +0000"
     },
@@ -2649,39 +2650,9 @@
     },
     "done": true
   },
-  "mt:technical/armor/chest_durability": {
-    "criteria": {
-      "requirement": "2025-05-03 16:05:14 +0000"
-    },
-    "done": true
-  },
-  "mt:guarantee": {
-    "criteria": {
-      "requirement": "2025-05-03 16:01:54 +0000"
-    },
-    "done": true
-  },
   "jodek:mobs": {
     "criteria": {
       "tick": "2025-05-03 15:59:10 +0000"
-    },
-    "done": true
-  },
-  "mt:item_related_advancements/mountain_leggings": {
-    "criteria": {
-      "requirement": "2025-05-03 15:59:11 +0000"
-    },
-    "done": true
-  },
-  "mt:treasure_advancements/first_common_treasure": {
-    "criteria": {
-      "obtainchest": "2025-05-03 16:01:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-05-03 16:02:41 +0000"
     },
     "done": true
   },
@@ -2697,27 +2668,9 @@
     },
     "done": true
   },
-  "mt:treasure_advancements/root": {
-    "criteria": {
-      "obtainchest": "2025-05-03 16:01:54 +0000"
-    },
-    "done": true
-  },
   "mt:mechanics/small/timer": {
     "criteria": {
       "requirement": "2025-05-03 15:59:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-05-03 16:08:59 +0000"
-    },
-    "done": true
-  },
-  "mt:item_related_advancements/jungle_shoes": {
-    "criteria": {
-      "requirement": "2025-05-03 15:59:11 +0000"
     },
     "done": true
   },
@@ -2727,27 +2680,9 @@
     },
     "done": true
   },
-  "mt:technical/hit_match/entity_hurt_player": {
-    "criteria": {
-      "requirement": "2025-05-03 16:08:45 +0000"
-    },
-    "done": true
-  },
-  "mobheads:killed_mob_check": {
-    "criteria": {
-      "killed_mob": "2025-05-03 16:08:06 +0000"
-    },
-    "done": true
-  },
   "mt:mechanics/step_height/timer": {
     "criteria": {
       "requirement": "2025-05-03 15:59:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-05-03 16:08:59 +0000"
     },
     "done": true
   },
@@ -2757,21 +2692,9 @@
     },
     "done": true
   },
-  "mt:technical/armor/helmet_durability": {
-    "criteria": {
-      "requirement": "2025-05-03 16:05:14 +0000"
-    },
-    "done": true
-  },
   "rrc:root": {
     "criteria": {
       "rootcause": "2025-05-03 15:59:10 +0000"
-    },
-    "done": true
-  },
-  "mt:treasure_advancements/first_common_crimson_treasure": {
-    "criteria": {
-      "obtainchest": "2025-05-03 16:02:38 +0000"
     },
     "done": true
   },
@@ -2787,12 +2710,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-05-03 16:02:41 +0000"
-    },
-    "done": true
-  },
   "mt:load": {
     "criteria": {
       "requirement": "2025-05-03 15:59:10 +0000"
@@ -2805,15 +2722,21 @@
     },
     "done": true
   },
-  "senti:tick": {
+  "mt:mechanics/light/timer": {
     "criteria": {
       "requirement": "2025-05-03 15:59:10 +0000"
     },
     "done": true
   },
-  "mt:treasure_advancements/first_common_nether_treasure": {
+  "mt:item_related_advancements/mountain_leggings": {
     "criteria": {
-      "obtainchest": "2025-05-03 16:01:59 +0000"
+      "requirement": "2025-05-03 15:59:11 +0000"
+    },
+    "done": true
+  },
+  "mt:item_related_advancements/jungle_shoes": {
+    "criteria": {
+      "requirement": "2025-05-03 15:59:11 +0000"
     },
     "done": true
   },
@@ -2823,9 +2746,105 @@
     },
     "done": true
   },
-  "mt:mechanics/light/timer": {
+  "mt:guarantee": {
     "criteria": {
-      "requirement": "2025-05-03 15:59:10 +0000"
+      "requirement": "2025-05-03 16:01:54 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_common_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 16:01:54 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/root": {
+    "criteria": {
+      "obtainchest": "2025-05-03 16:01:54 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_common_nether_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 16:01:59 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_common_crimson_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 16:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-05-03 16:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-03 16:02:41 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/chest_durability": {
+    "criteria": {
+      "requirement": "2025-05-03 16:05:14 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/helmet_durability": {
+    "criteria": {
+      "requirement": "2025-05-03 16:05:14 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check": {
+    "criteria": {
+      "killed_mob": "2025-05-03 16:08:06 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/hit_match/entity_hurt_player": {
+    "criteria": {
+      "requirement": "2025-05-03 16:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 16:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-03 16:08:59 +0000"
+    },
+    "done": true
+  },
+  "backpacks:tree/adventurer": {
+    "criteria": {
+      "requirement": "2025-05-03 16:23:47 +0000"
+    },
+    "done": true
+  },
+  "senti:tick": {
+    "criteria": {
+      "requirement": "2025-05-03 17:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-03 17:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-03 17:13:26 +0000"
     },
     "done": true
   },

@@ -2821,5 +2821,161 @@
     },
     "done": true
   },
+  "rrc:h-nigh": {
+    "criteria": {
+      "rootcause": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "jodek:mobs": {
+    "criteria": {
+      "tick": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "senti:register": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "backpacks:tree/root": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/small/timer": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "jodek:mob_heads": {
+    "criteria": {
+      "tick": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/step_height/timer": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/reach/timer": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "rrc:root": {
+    "criteria": {
+      "rootcause": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/big/timer": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "mt:load": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "desertscourge:root": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "senti:tick": {
+    "criteria": {
+      "requirement": "2025-05-03 17:14:39 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/light/timer": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:46 +0000"
+    },
+    "done": true
+  },
+  "mt:item_related_advancements/mountain_leggings": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:47 +0000"
+    },
+    "done": true
+  },
+  "mt:item_related_advancements/jungle_shoes": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:47 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/charm/timer": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:47 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/chest_durability": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:55 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/boots_durability": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:55 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/hit_match/entity_hurt_player": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:55 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/legs_durability": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:55 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/helmet_durability": {
+    "criteria": {
+      "requirement": "2025-05-03 16:54:55 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check": {
+    "criteria": {
+      "killed_mob": "2025-05-03 16:57:19 +0000"
+    },
+    "done": true
+  },
+  "backpacks:tree/adventurer": {
+    "criteria": {
+      "requirement": "2025-05-03 17:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-03 17:06:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
