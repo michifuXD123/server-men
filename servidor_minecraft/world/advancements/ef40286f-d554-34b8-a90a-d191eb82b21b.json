@@ -581,7 +581,8 @@
     "criteria": {
       "apple": "2025-05-02 23:15:52 +0000",
       "bread": "2025-05-02 23:39:42 +0000",
-      "rotten_flesh": "2025-05-02 23:06:44 +0000"
+      "rotten_flesh": "2025-05-02 23:06:44 +0000",
+      "porkchop": "2025-05-03 01:57:49 +0000"
     },
     "done": false
   },
@@ -1752,6 +1753,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-03 01:27:02 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:armor/life_plus": {
+    "criteria": {
+      "requirement": "2025-05-03 01:50:31 +0000"
     },
     "done": true
   },
