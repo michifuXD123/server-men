@@ -593,6 +593,7 @@
       "golden_apple": "2025-05-03 17:58:21 +0000",
       "honey_bottle": "2025-05-03 04:06:17 +0000",
       "rotten_flesh": "2025-05-02 23:06:44 +0000",
+      "suspicious_stew": "2025-05-04 00:07:13 +0000",
       "potato": "2025-05-03 04:35:55 +0000",
       "baked_potato": "2025-05-03 05:09:46 +0000",
       "porkchop": "2025-05-03 01:57:49 +0000",
@@ -2926,18 +2927,6 @@
     },
     "done": true
   },
-  "mt:technical/armor/chest_durability": {
-    "criteria": {
-      "requirement": "2025-05-03 21:23:44 +0000"
-    },
-    "done": true
-  },
-  "mt:technical/armor/boots_durability": {
-    "criteria": {
-      "requirement": "2025-05-03 16:54:55 +0000"
-    },
-    "done": true
-  },
   "mt:technical/hit_match/entity_hurt_player": {
     "criteria": {
       "requirement": "2025-05-03 16:54:55 +0000"
@@ -2947,12 +2936,6 @@
   "mt:technical/armor/legs_durability": {
     "criteria": {
       "requirement": "2025-05-03 16:54:55 +0000"
-    },
-    "done": true
-  },
-  "mt:technical/armor/helmet_durability": {
-    "criteria": {
-      "requirement": "2025-05-03 21:23:44 +0000"
     },
     "done": true
   },
@@ -3046,12 +3029,6 @@
     },
     "done": true
   },
-  "senti:tick": {
-    "criteria": {
-      "requirement": "2025-05-03 21:23:03 +0000"
-    },
-    "done": true
-  },
   "mt:treasure_advancements/first_rare_nether_treasure": {
     "criteria": {
       "obtainchest": "2025-05-03 17:54:06 +0000"
@@ -3112,12 +3089,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-05-03 21:15:48 +0000"
-    },
-    "done": true
-  },
   "mobheads:killed_mob_check/sheep/pink": {
     "criteria": {
       "killed_mob": "2025-05-03 21:15:47 +0000"
@@ -3166,12 +3137,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-05-03 21:15:48 +0000"
-    },
-    "done": true
-  },
   "mobheads:killed_mob_check/sheep/cyan": {
     "criteria": {
       "killed_mob": "2025-05-03 21:15:47 +0000"
@@ -3190,27 +3155,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-05-03 21:15:48 +0000"
-    },
-    "done": true
-  },
-  "mt:treasure_advancements/first_common_crimson_treasure": {
-    "criteria": {
-      "obtainchest": "2025-05-03 21:37:30 +0000"
-    },
-    "done": true
-  },
   "mobheads:killed_mob_check/sheep/orange": {
     "criteria": {
       "killed_mob": "2025-05-03 21:15:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-05-03 21:15:48 +0000"
     },
     "done": true
   },
@@ -3235,6 +3182,270 @@
   "mobheads:killed_mob_check/sheep/light_gray": {
     "criteria": {
       "killed_mob": "2025-05-03 21:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-03 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "senti:tick": {
+    "criteria": {
+      "requirement": "2025-05-03 23:56:38 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/helmet_durability": {
+    "criteria": {
+      "requirement": "2025-05-04 00:01:08 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_common_crimson_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-03 21:37:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
+    "criteria": {
+      "has_advancednetherite:netherite_emerald_ingot": "2025-05-03 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/purple_dye_from_chorus_flower": {
+    "criteria": {
+      "has_item": "2025-05-04 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_common_flower_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-04 00:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-03 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-05-03 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_diamond_block": {
+    "criteria": {
+      "has_advancednetherite:netherite_diamond_ingot": "2025-05-03 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-04 00:07:00 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 00:13:53 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-04 00:07:03 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-05-03 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 00:13:53 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2025-05-04 00:07:03 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/sugar_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2025-05-04 00:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 00:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 00:13:53 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_epic_flower_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-04 00:06:57 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-04 00:07:13 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-03 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-05-03 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-04 00:13:53 +0000"
     },
     "done": true
   },

@@ -1626,3 +1626,163 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7:
 [03May2025 23:47:55.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03May2025 23:52:55.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03May2025 23:52:55.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:54:24.879] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [advancednetherite, chunky, forge, jei, medieval_buildings, medievalend, minecraft, mixinextras, mr_beyondenchant, mr_enchantments_encore, mr_moreenchantments, mr_neoenchant, nullscape, stellarity, tlskincape, voicechat, yungsapi]
+[03May2025 23:54:25.078] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login, jei:channel, voicechat:add_category, voicechat:add_group, voicechat:create_group, voicechat:joined_group, voicechat:leave_group, voicechat:player_state, voicechat:player_states, voicechat:remove_category, voicechat:remove_group, voicechat:request_secret, voicechat:secret, voicechat:set_group, voicechat:update_state]
+[03May2025 23:54:25.079] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.079] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.079] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.080] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.080] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[03May2025 23:54:25.080] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[03May2025 23:54:25.082] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.082] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[03May2025 23:54:25.082] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.082] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:multipart_entity_interaction' : Version test of 'MISSING 0' from client : ACCEPTED
+[03May2025 23:54:25.082] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.082] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.082] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.082] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.083] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.083] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'PRESENT 18' from client : ACCEPTED
+[03May2025 23:54:25.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'MISSING 0' from client : ACCEPTED
+[03May2025 23:54:25.085] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[03May2025 23:54:25.598] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[03May2025 23:54:25.798] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[03May2025 23:54:25.988] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[03May2025 23:54:26.370] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[03May2025 23:54:26.818] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[03May2025 23:54:27.008] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[03May2025 23:54:27.388] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[03May2025 23:54:27.878] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[03May2025 23:54:28.071] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[03May2025 23:54:28.379] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[03May2025 23:54:28.668] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[03May2025 23:54:28.839] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[03May2025 23:54:29.320] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[03May2025 23:54:29.488] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[03May2025 23:54:29.938] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[03May2025 23:54:30.279] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[03May2025 23:54:30.606] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[03May2025 23:54:30.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[03May2025 23:54:32.029] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[03May2025 23:54:35.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crisrob[/127.87.113.7:35613] logged in with entity id 11340 at (-884.6271647526578, 69.0, 460.1300802031465)
+[03May2025 23:54:35.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob joined the game
+[03May2025 23:54:35.108] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of crisrob: {disabled=false, disconnected=true, uuid=ef40286f-d554-34b8-a90a-d191eb82b21b, name=crisrob, group=null}
+[03May2025 23:54:35.860] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
+[03May2025 23:54:35.861] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to crisrob
+[03May2025 23:54:35.861] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with crisrob
+[03May2025 23:54:35.861] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with crisrob
+[03May2025 23:54:35.861] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
+[03May2025 23:54:46.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> adivina
+[03May2025 23:54:53.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> cuantas perlas necesitas
+[03May2025 23:55:44.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> estas
+[03May2025 23:56:23.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> volvi
+[03May2025 23:56:28.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> taba matando skibidi
+[03May2025 23:56:29.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> cuantas perlas necesitas
+[03May2025 23:56:36.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> yo creo que todsa xd
+[03May2025 23:56:50.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ahora voy a hacer un portal para conectar el portal con la home
+[03May2025 23:56:51.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pero para el portal cuantas perlas tiene
+[03May2025 23:57:13.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> son 12 pero se supone que por defecto siempre viene 1
+[03May2025 23:57:17.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> pero as 12
+[03May2025 23:57:19.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> toma
+[03May2025 23:57:27.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tengo tres
+[03May2025 23:57:35.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y ya tengo polvo de blaze
+[03May2025 23:57:36.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> pero yo tengo 6 mas el polvo
+[03May2025 23:57:39.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> XD
+[03May2025 23:57:40.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ya que como mino
+[03May2025 23:57:46.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a vale
+[03May2025 23:57:49.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> obsi ?
+[03May2025 23:57:49.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has reached the goal [Strengthened by Fire]
+[03May2025 23:57:55.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:57:55.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:58:13.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mecehro
+[03May2025 23:58:27.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> jaja
+[03May2025 23:58:37.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> me giro y veo a un davis gigante
+[03May2025 23:58:40.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ten
+[03May2025 23:58:59.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> toma pendejo
+[03May2025 23:59:07.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ncestiaba uno pero bueno
+[04May2025 00:00:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> oe
+[04May2025 00:00:15.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a
+[04May2025 00:00:18.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tengo la espada pa que los endermans suelten endeperls
+[04May2025 00:00:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> osea un porcentaje mas
+[04May2025 00:00:39.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a
+[04May2025 00:00:40.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 00:00:47.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> yo tengo botin 2
+[04May2025 00:00:51.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-831, y=71, z=438} BlockPos{x=-128, y=69, z=69}
+[04May2025 00:00:53.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> rico
+[04May2025 00:02:55.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:02:55.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 00:03:00.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[04May2025 00:03:34.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 fell from a high place
+[04May2025 00:03:34.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[04May2025 00:04:03.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04May2025 00:04:33.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> davi onde ta el lapiz lasuli
+[04May2025 00:04:55.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ni yo se hace rato la intente buscar y no esta literal desaparecio
+[04May2025 00:05:26.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Crimson Prism]
+[04May2025 00:05:42.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04May2025 00:06:00.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ue rico lagrima de ghasrt
+[04May2025 00:06:10.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pero si yo tengo 20
+[04May2025 00:06:12.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 00:06:16.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 00:06:56.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Flower Power!]
+[04May2025 00:06:57.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has reached the goal [Is It Spring Already?]
+[04May2025 00:07:34.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was blown up by Creeper
+[04May2025 00:07:36.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> asada de madera con filo 3
+[04May2025 00:07:39.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> creper de mrd
+[04May2025 00:07:41.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> uf demasiao potente
+[04May2025 00:07:53.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me destruyo el portal y me mato en el nether
+[04May2025 00:07:57.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y otra de madera con efi 4
+[04May2025 00:08:03.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> perdon 5
+[04May2025 00:08:03.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:08:03.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 00:08:04.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 00:08:08.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 00:08:52.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
+[04May2025 00:08:52.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
+[04May2025 00:09:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tomas
+[04May2025 00:10:00.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me gusta cuando me da tremenda bajada de fps avecez
+[04May2025 00:10:04.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 00:10:20.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira
+[04May2025 00:10:27.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> sube
+[04May2025 00:10:28.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> desaparecio
+[04May2025 00:10:48.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> me aparecio en un cofreciro
+[04May2025 00:11:15.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> metiste un piglin dentro
+[04May2025 00:11:18.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no
+[04May2025 00:11:22.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> sube
+[04May2025 00:11:37.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a
+[04May2025 00:11:51.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-834, y=74, z=427} BlockPos{x=-833, y=74, z=428}
+[04May2025 00:11:51.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ahora todo tiene sentido
+[04May2025 00:11:56.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-834, y=74, z=427} BlockPos{x=-834, y=72, z=428}
+[04May2025 00:13:03.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:13:03.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 00:13:16.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira
+[04May2025 00:13:24.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 00:13:28.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> poquitas
+[04May2025 00:13:31.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ven
+[04May2025 00:13:37.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira toma
+[04May2025 00:13:52.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ten
+[04May2025 00:13:59.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pendejo
+[04May2025 00:14:10.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> bueno depue te los doy
+[04May2025 00:15:36.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-834, y=74, z=429} BlockPos{x=-154, y=69, z=217}
+[04May2025 00:16:10.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was killed
+[04May2025 00:16:10.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Killed davixelpro123]
+[04May2025 00:16:16.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 00:17:31.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> damelo
+[04May2025 00:18:03.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:18:03.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 00:18:14.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe cuando estabamos en el nether te tire una vagoneta
+[04May2025 00:18:18.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> la recojiste ?
+[04May2025 00:18:22.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ta en el inicio
+[04May2025 00:18:43.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> onde
+[04May2025 00:18:52.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> puesta en el inicio
+[04May2025 00:19:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> donde en el inicio ?
+[04May2025 00:19:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no la recojiste ?
+[04May2025 00:19:12.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ya la vi
+[04May2025 00:19:33.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=68, z=65} BlockPos{x=-122, y=69, z=69}
+[04May2025 00:21:53.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=69, z=141} BlockPos{x=-158, y=69, z=186}
+[04May2025 00:21:55.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=69, z=141} BlockPos{x=-157, y=69, z=186}
+[04May2025 00:22:44.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-134, y=69, z=69} BlockPos{x=-139, y=69, z=69}
+[04May2025 00:23:04.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:23:04.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 00:23:53.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=69, z=69} BlockPos{x=-129, y=69, z=70}

@@ -1,198 +1,74 @@
-[03May2025 23:01:57.149] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[03May2025 23:01:57.152] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[03May2025 23:01:57.153] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[03May2025 23:01:57.642] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[03May2025 23:01:57.890] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-men/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[03May2025 23:01:58.509] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[03May2025 23:02:00.074] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03May2025 23:02:00.226] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[03May2025 23:02:00.321] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 23:02:00.344] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 23:02:00.494] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
-[03May2025 23:02:00.496] [main/WARN] [mixin/]: Reference map 'betterdeserttemples.refmap.json' for betterdeserttemples.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 23:02:00.504] [main/WARN] [mixin/]: Reference map 'voicechat.refmap.json' for voicechat.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 23:02:00.506] [main/WARN] [mixin/]: Reference map 'betterfortresses.refmap.json' for betterfortresses.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 23:02:00.510] [main/WARN] [mixin/]: Reference map 'bettermineshafts.refmap.json' for bettermineshafts.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 23:02:02.427] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[03May2025 23:02:02.604] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-men/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[03May2025 23:02:02.647] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[03May2025 23:02:13.543] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[03May2025 23:02:13.605] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[03May2025 23:02:13.812] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
-[03May2025 23:02:13.815] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
-[03May2025 23:02:13.840] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[03May2025 23:02:14.583] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[03May2025 23:02:14.685] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[03May2025 23:02:14.704] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[03May2025 23:02:14.706] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[03May2025 23:02:14.707] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[03May2025 23:02:15.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limbo_dimensiondatapack] Starting version check at https://api.modrinth.com/updates/KpbQh4CC/forge_updates.json
-[03May2025 23:02:16.140] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limbo_dimensiondatapack] Found status: OUTDATED Current: 3.0.4.1.21.1 Target: 3.0.4.1.21.1+mod
-[03May2025 23:02:16.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blood_moon] Starting version check at https://api.modrinth.com/updates/jGO2ac1X/forge_updates.json
-[03May2025 23:02:16.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blood_moon] Found status: OUTDATED Current: 1.3.3 Target: 1.3.3+mod
-[03May2025 23:02:16.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Starting version check at https://api.modrinth.com/updates/t2pMCVgG/forge_updates.json
-[03May2025 23:02:16.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_beyondenchant] Found status: OUTDATED Current: 1.5.0 Target: 1.5.0+mod
-[03May2025 23:02:16.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_desert_scourge] Starting version check at https://api.modrinth.com/updates/wseEf42M/forge_updates.json
-[03May2025 23:02:16.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_desert_scourge] Found status: UP_TO_DATE Current: 1.2 Target: null
-[03May2025 23:02:16.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Starting version check at https://api.modrinth.com/updates/HQsBdHGd/forge_updates.json
-[03May2025 23:02:16.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Found status: BETA_OUTDATED Current: 5.0-beta4 Target: 5.0-beta4+mod
-[03May2025 23:02:16.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_vanilla_backpacks] Starting version check at https://api.modrinth.com/updates/MGcd6kTf/forge_updates.json
-[03May2025 23:02:16.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_vanilla_backpacks] Found status: UP_TO_DATE Current: 1.3.1 Target: null
-[03May2025 23:02:16.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_mob_heads] Starting version check at https://api.modrinth.com/updates/82uI0waE/forge_updates.json
-[03May2025 23:02:16.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_mob_heads] Found status: AHEAD Current: 1-v.3.2.2 Target: null
-[03May2025 23:02:16.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Starting version check at https://api.modrinth.com/updates/GD1QoExk/forge_updates.json
-[03May2025 23:02:16.610] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_enchantments_encore] Found status: OUTDATED Current: 1.8 Target: 1.8+mod
-[03May2025 23:02:16.610] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Starting version check at https://api.modrinth.com/updates/UMmSTwE0/forge_updates.json
-[03May2025 23:02:16.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_blossom_blade] Found status: OUTDATED Current: 1.3 Target: 1.3+mod
-[03May2025 23:02:16.673] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[03May2025 23:02:16.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.6 Target: 2.1.6
-[03May2025 23:02:16.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_mine_treasure] Starting version check at https://api.modrinth.com/updates/5y2R1ofr/forge_updates.json
-[03May2025 23:02:16.807] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_mine_treasure] Found status: OUTDATED Current: 1.4.6 Target: 1.4.6+mod
-[03May2025 23:02:16.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[03May2025 23:02:16.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
-[03May2025 23:02:16.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_health_indicator] Starting version check at https://api.modrinth.com/updates/hxaUKE37/forge_updates.json
-[03May2025 23:02:16.896] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_health_indicator] Found status: BETA_OUTDATED Current: 4 Target: 4+mod
-[03May2025 23:02:16.896] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Starting version check at https://api.modrinth.com/updates/LbDPuvYD/forge_updates.json
-[03May2025 23:02:16.932] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_moreenchantments] Found status: OUTDATED Current: 1.2.1 Target: 1.2.1+mod
-[03May2025 23:02:16.933] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[03May2025 23:02:17.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: BETA Current: 1.21.1-2.5.30 Target: 1.21-2.5.20
-[03May2025 23:02:17.459] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03May2025 23:02:17.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
-[03May2025 23:02:17.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
-[03May2025 23:02:17.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stellarity] Found status: OUTDATED Current: 3.0.6 Target: 3.0.6+mod
-[03May2025 23:02:17.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Starting version check at https://api.modrinth.com/updates/BynmO8IO/forge_updates.json
-[03May2025 23:02:17.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_neoenchant] Found status: OUTDATED Current: 5.10 Target: 5.10+mod
-[03May2025 23:02:17.935] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03May2025 23:02:26.922] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1444 recipes
-[03May2025 23:02:26.925] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function h-nigh:ref/tick/events/bunk_blood_moon/horde_mobs/modded/creeper_overhaul
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Invalid or unknown entity type 'creeperoverhaul:badlands_creeper' at position 19: ...s @e[type=<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Invalid or unknown entity type 'creeperoverhaul:badlands_creeper' at position 19: ...s @e[type=<--[HERE]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:80) ~[forge-1.21-51.0.33-server.jar!/:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:89) ~[forge-1.21-51.0.33-server.jar!/:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 6 more
-[03May2025 23:02:26.929] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function h-nigh:ref/tick/events/super_moon/horde_mobs/modded/creeper_overhaul
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Invalid or unknown entity type 'creeperoverhaul:badlands_creeper' at position 19: ...s @e[type=<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Invalid or unknown entity type 'creeperoverhaul:badlands_creeper' at position 19: ...s @e[type=<--[HERE]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:80) ~[forge-1.21-51.0.33-server.jar!/:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:89) ~[forge-1.21-51.0.33-server.jar!/:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 6 more
-[03May2025 23:02:26.933] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function h-nigh:ref/tick/events/festive_moon/horde_mobs/modded/creeper_overhaul
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Invalid or unknown entity type 'creeperoverhaul:badlands_creeper' at position 19: ...s @e[type=<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Invalid or unknown entity type 'creeperoverhaul:badlands_creeper' at position 19: ...s @e[type=<--[HERE]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:80) ~[forge-1.21-51.0.33-server.jar!/:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:89) ~[forge-1.21-51.0.33-server.jar!/:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 6 more
-[03May2025 23:02:26.938] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function h-nigh:ref/tick/events/blood_moon/horde_mobs/modded/creeper_overhaul
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Invalid or unknown entity type 'creeperoverhaul:badlands_creeper' at position 19: ...s @e[type=<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Invalid or unknown entity type 'creeperoverhaul:badlands_creeper' at position 19: ...s @e[type=<--[HERE]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:80) ~[forge-1.21-51.0.33-server.jar!/:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:89) ~[forge-1.21-51.0.33-server.jar!/:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 6 more
-[03May2025 23:02:26.976] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/spruce_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:spruce_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:spruce_creeper"; Second: Failed to get element creeperoverhaul:spruce_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:spruce_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.074] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/cave_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:cave_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:cave_creeper"; Second: Failed to get element creeperoverhaul:cave_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:cave_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.118] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/beach_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:beach_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:beach_creeper"; Second: Failed to get element creeperoverhaul:beach_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:beach_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.142] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/jungle_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:jungle_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:jungle_creeper"; Second: Failed to get element creeperoverhaul:jungle_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:jungle_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.224] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/desert_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:desert_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:desert_creeper"; Second: Failed to get element creeperoverhaul:desert_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:desert_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.231] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/dark_oak_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:dark_oak_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:dark_oak_creeper"; Second: Failed to get element creeperoverhaul:dark_oak_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:dark_oak_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.259] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/snowy_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:snowy_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:snowy_creeper"; Second: Failed to get element creeperoverhaul:snowy_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:snowy_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.264] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/bamboo_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:bamboo_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:bamboo_creeper"; Second: Failed to get element creeperoverhaul:bamboo_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:bamboo_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.308] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/dripstone_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:dripstone_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:dripstone_creeper"; Second: Failed to get element creeperoverhaul:dripstone_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:dripstone_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.557] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/hills_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:hills_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:hills_creeper"; Second: Failed to get element creeperoverhaul:hills_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:hills_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.616] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/swamp_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:swamp_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:swamp_creeper"; Second: Failed to get element creeperoverhaul:swamp_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:swamp_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.618] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/badlands_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:badlands_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:badlands_creeper"; Second: Failed to get element creeperoverhaul:badlands_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:badlands_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.718] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement h-nigh:stats/mobs/slay/creepers/modded/savannah_creeper: Failed to parse either. First: Not a JSON object: "creeperoverhaul:savannah_creeper"; Second: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "creeperoverhaul:savannah_creeper"; Second: Failed to get element creeperoverhaul:savannah_creeper missed input: {"requirement":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type":"creeperoverhaul:savannah_creeper","nbt":"{Tags:[\"h-nigh.mob\"]}"}}]}}}
-[03May2025 23:02:27.740] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [minecraft:wander_add_map, h-nigh:festive/the_rapture, h-nigh:super/too_many_nights, minecraft:give_quest_trader_trade, h-nigh:blood/many_nights]
-[03May2025 23:02:27.741] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2219 advancements
-[03May2025 23:02:28.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
-[03May2025 23:02:28.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03May2025 23:02:28.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03May2025 23:02:28.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03May2025 23:02:28.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03May2025 23:02:29.024] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03May2025 23:02:29.214] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03May2025 23:02:29.216] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03May2025 23:02:29.217] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03May2025 23:02:29.217] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03May2025 23:02:29.555] [Server thread/INFO] [spark/]: Starting background profiler...
-[03May2025 23:02:30.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03May2025 23:02:47.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03May2025 23:02:49.643] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 23:02:49.645] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 23:02:49.646] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 23:02:49.646] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 23:02:49.646] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 23:02:50.088] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2486 ms
-[03May2025 23:02:50.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.833s)! For help, type "help"
-[03May2025 23:02:50.116] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03May2025 23:02:50.157] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[03May2025 23:02:50.170] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 3925
-[03May2025 23:02:51.682] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemDisplay['Item Display'/54, l='ServerLevel[world]', x=0.50, y=0.50, z=0.50]
-[03May2025 23:02:51.684] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Marker['Marker'/55, l='ServerLevel[world]', x=0.50, y=0.50, z=0.50]
-[03May2025 23:02:51.685] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Marker['Marker'/56, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00]
-[03May2025 23:02:51.686] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemDisplay['Item Display'/57, l='ServerLevel[world]', x=0.50, y=-64.00, z=0.50]
-[03May2025 23:07:55.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.122.159.96:53573] logged in with entity id 77 at (-1121.3573321551355, 86.81609489023143, 1527.1063992704464)
-[03May2025 23:07:55.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
-[03May2025 23:07:55.953] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
-[03May2025 23:07:55.962] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
-[03May2025 23:12:02.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[03May2025 23:12:21.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind
-[03May2025 23:28:40.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
-[03May2025 23:30:35.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1268, y=26, z=1747} BlockPos{x=-1268, y=24, z=1747}
-[03May2025 23:30:35.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1268, y=26, z=1747} BlockPos{x=-1268, y=24, z=1747}
-[03May2025 23:30:35.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has reached the goal [Common Lads!]
-[03May2025 23:31:05.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Eye Spy]
-[03May2025 23:31:05.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 fell from a high place
-[03May2025 23:32:02.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
-[03May2025 23:32:25.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> asd
-[03May2025 23:32:52.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -1.512521662026984,2.8181688159839524,9.68112932633187
-[03May2025 23:32:56.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! -1.6930160369731766,0.0,10.73321685006863
-[03May2025 23:36:50.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
-[03May2025 23:37:29.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Timed out
-[03May2025 23:37:29.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
-[03May2025 23:37:29.097] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
-[03May2025 23:37:29.155] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03May2025 23:37:57.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.122.159.96:41459] logged in with entity id 7921 at (-1265.446915577642, 21.0, 1749.6051584292188)
-[03May2025 23:37:57.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
-[03May2025 23:37:58.292] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
-[03May2025 23:37:58.294] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
-[03May2025 23:39:39.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vindicator
+[04May2025 00:00:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> oe
+[04May2025 00:00:15.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a
+[04May2025 00:00:18.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tengo la espada pa que los endermans suelten endeperls
+[04May2025 00:00:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> osea un porcentaje mas
+[04May2025 00:00:39.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a
+[04May2025 00:00:40.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 00:00:47.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> yo tengo botin 2
+[04May2025 00:00:51.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-831, y=71, z=438} BlockPos{x=-128, y=69, z=69}
+[04May2025 00:00:53.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> rico
+[04May2025 00:03:00.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[04May2025 00:03:34.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 fell from a high place
+[04May2025 00:03:34.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[04May2025 00:04:03.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04May2025 00:04:33.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> davi onde ta el lapiz lasuli
+[04May2025 00:04:55.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ni yo se hace rato la intente buscar y no esta literal desaparecio
+[04May2025 00:05:26.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Crimson Prism]
+[04May2025 00:05:42.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04May2025 00:06:00.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ue rico lagrima de ghasrt
+[04May2025 00:06:10.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pero si yo tengo 20
+[04May2025 00:06:12.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 00:06:16.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 00:06:56.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Flower Power!]
+[04May2025 00:06:57.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has reached the goal [Is It Spring Already?]
+[04May2025 00:07:34.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was blown up by Creeper
+[04May2025 00:07:36.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> asada de madera con filo 3
+[04May2025 00:07:39.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> creper de mrd
+[04May2025 00:07:41.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> uf demasiao potente
+[04May2025 00:07:53.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me destruyo el portal y me mato en el nether
+[04May2025 00:07:57.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> y otra de madera con efi 4
+[04May2025 00:08:03.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> perdon 5
+[04May2025 00:08:04.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 00:08:08.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 00:08:52.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
+[04May2025 00:08:52.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
+[04May2025 00:09:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tomas
+[04May2025 00:10:00.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> me gusta cuando me da tremenda bajada de fps avecez
+[04May2025 00:10:04.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 00:10:20.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira
+[04May2025 00:10:27.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> sube
+[04May2025 00:10:28.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> desaparecio
+[04May2025 00:10:48.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> me aparecio en un cofreciro
+[04May2025 00:11:15.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> metiste un piglin dentro
+[04May2025 00:11:18.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no
+[04May2025 00:11:22.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> sube
+[04May2025 00:11:37.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a
+[04May2025 00:11:51.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-834, y=74, z=427} BlockPos{x=-833, y=74, z=428}
+[04May2025 00:11:51.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ahora todo tiene sentido
+[04May2025 00:11:56.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-834, y=74, z=427} BlockPos{x=-834, y=72, z=428}
+[04May2025 00:13:16.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira
+[04May2025 00:13:24.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 00:13:28.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> poquitas
+[04May2025 00:13:31.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ven
+[04May2025 00:13:37.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira toma
+[04May2025 00:13:52.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ten
+[04May2025 00:13:59.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pendejo
+[04May2025 00:14:10.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> bueno depue te los doy
+[04May2025 00:15:36.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-834, y=74, z=429} BlockPos{x=-154, y=69, z=217}
+[04May2025 00:16:10.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was killed
+[04May2025 00:16:10.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Killed davixelpro123]
+[04May2025 00:16:16.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 00:17:31.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> damelo
+[04May2025 00:18:14.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe cuando estabamos en el nether te tire una vagoneta
+[04May2025 00:18:18.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> la recojiste ?
+[04May2025 00:18:22.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ta en el inicio
+[04May2025 00:18:43.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> onde
+[04May2025 00:18:52.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> puesta en el inicio
+[04May2025 00:19:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> donde en el inicio ?
+[04May2025 00:19:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no la recojiste ?
+[04May2025 00:19:12.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ya la vi
+[04May2025 00:19:33.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=68, z=65} BlockPos{x=-122, y=69, z=69}
+[04May2025 00:21:53.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=69, z=141} BlockPos{x=-158, y=69, z=186}
+[04May2025 00:21:55.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=69, z=141} BlockPos{x=-157, y=69, z=186}
+[04May2025 00:22:44.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-134, y=69, z=69} BlockPos{x=-139, y=69, z=69}
+[04May2025 00:23:53.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=69, z=69} BlockPos{x=-129, y=69, z=70}
