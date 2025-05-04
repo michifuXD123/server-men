@@ -577,3 +577,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7:
 [04May2025 02:24:22.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> oe
 [04May2025 02:24:34.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
 [04May2025 02:24:38.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob tried to swim in lava
+[04May2025 02:35:06.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Disconnected
+[04May2025 02:35:06.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
+[04May2025 02:35:06.245] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client crisrob
