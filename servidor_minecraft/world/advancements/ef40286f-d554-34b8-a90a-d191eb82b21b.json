@@ -3919,5 +3919,35 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot_from_block": {
+    "criteria": {
+      "has_Block{advancednetherite:netherite_diamond_block}": "2025-05-04 15:57:28 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/boots_durability": {
+    "criteria": {
+      "requirement": "2025-05-04 15:57:57 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/legs_durability": {
+    "criteria": {
+      "requirement": "2025-05-04 15:57:57 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/helmet_durability": {
+    "criteria": {
+      "requirement": "2025-05-04 15:57:57 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/obtain_netherite_diamond_block": {
+    "criteria": {
+      "netherite_diamond_block": "2025-05-04 15:57:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

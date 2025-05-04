@@ -3709,30 +3709,6 @@
     },
     "done": true
   },
-  "mt:technical/armor/chest_durability": {
-    "criteria": {
-      "requirement": "2025-05-04 02:01:47 +0000"
-    },
-    "done": true
-  },
-  "mt:technical/armor/boots_durability": {
-    "criteria": {
-      "requirement": "2025-05-04 02:01:47 +0000"
-    },
-    "done": true
-  },
-  "mt:technical/armor/legs_durability": {
-    "criteria": {
-      "requirement": "2025-05-04 02:01:47 +0000"
-    },
-    "done": true
-  },
-  "mt:technical/armor/helmet_durability": {
-    "criteria": {
-      "requirement": "2025-05-04 02:01:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-05-04 02:08:45 +0000"
@@ -3826,6 +3802,24 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-05-04 02:42:33 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_diamond_armor": {
+    "criteria": {
+      "netherite_diamond_armor": "2025-05-04 15:54:00 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:weapons/sword/base": {
+    "criteria": {
+      "tears_of_asflors": "2025-05-04 15:59:54 +0000"
+    },
+    "done": false
+  },
+  "enchantplus:weapons/sword/tears_of_asflors": {
+    "criteria": {
+      "requirement": "2025-05-04 15:59:54 +0000"
     },
     "done": true
   },
