@@ -3217,12 +3217,6 @@
     },
     "done": true
   },
-  "senti:tick": {
-    "criteria": {
-      "requirement": "2025-05-04 02:31:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-05-03 23:57:49 +0000"
@@ -3649,9 +3643,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/allay_deliver_item_to_player": {
+  "enchantplus:armor/fury": {
     "criteria": {
-      "allay_deliver_item_to_player": "2025-05-04 01:26:49 +0000"
+      "requirement": "2025-05-04 00:51:51 +0000"
     },
     "done": true
   },
@@ -3661,159 +3655,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-05-04 01:31:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-04 01:15:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2025-05-04 02:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-04 01:15:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-05-04 01:31:38 +0000"
-    },
-    "done": true
-  },
-  "stellarity:story/drop_rare_illager_loot": {
-    "criteria": {
-      "drop4": "2025-05-04 01:18:16 +0000"
-    },
-    "done": true
-  },
-  "enchantplus:root": {
-    "criteria": {
-      "requirement": "2025-05-04 01:28:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-05-04 01:07:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-05-04 02:31:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2025-05-04 01:15:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-05-04 02:02:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-05-04 01:00:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-05-04 02:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-04 01:06:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-05-04 01:07:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-04 01:15:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-05-04 02:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-05-04 01:07:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-04 01:15:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-05-04 02:07:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 01:06:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2025-05-04 01:15:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-05-04 01:15:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-05-04 01:07:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-05-04 01:15:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-05-04 01:31:38 +0000"
     },
     "done": true
   },
@@ -3823,33 +3667,51 @@
     },
     "done": true
   },
-  "mt:treasure_advancements/first_common_warped_treasure": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "obtainchest": "2025-05-04 02:15:55 +0000"
+      "avoid_vibration": "2025-05-04 01:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-04 01:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 01:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-04 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-04 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-04 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-04 01:07:00 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-04 01:07:00 +0000"
-    },
-    "done": true
-  },
-  "enchantplus:armor/fury": {
-    "criteria": {
-      "requirement": "2025-05-04 00:51:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-05-04 01:49:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-05-04 01:11:44 +0000"
     },
     "done": true
   },
@@ -3871,9 +3733,63 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "avoid_vibration": "2025-05-04 01:06:50 +0000"
+      "has_planks": "2025-05-04 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-05-04 01:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-04 01:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-04 01:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-04 01:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-04 01:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-04 01:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-04 01:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-04 01:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-04 01:15:22 +0000"
     },
     "done": true
   },
@@ -3883,15 +3799,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "stellarity:story/drop_rare_illager_loot": {
     "criteria": {
-      "has_planks": "2025-05-04 01:07:00 +0000"
+      "drop4": "2025-05-04 01:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-05-04 01:26:49 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:root": {
+    "criteria": {
+      "requirement": "2025-05-04 01:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-04 01:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-04 01:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-04 01:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-04 01:49:03 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-05-04 01:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-04 02:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-05-04 02:07:48 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_common_warped_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-04 02:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-04 02:31:04 +0000"
+    },
+    "done": true
+  },
+  "senti:tick": {
+    "criteria": {
+      "requirement": "2025-05-04 02:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-05-04 02:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-05-04 02:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-05-04 02:34:23 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-05-04 02:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-04 02:42:16 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-05-04 02:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-04 02:42:16 +0000"
     },
     "done": true
   },
