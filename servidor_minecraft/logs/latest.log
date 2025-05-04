@@ -72,3 +72,52 @@
 [04May2025 00:21:55.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=69, z=141} BlockPos{x=-157, y=69, z=186}
 [04May2025 00:22:44.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-134, y=69, z=69} BlockPos{x=-139, y=69, z=69}
 [04May2025 00:23:53.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=69, z=69} BlockPos{x=-129, y=69, z=70}
+[04May2025 00:24:17.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[04May2025 00:24:41.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9050ms or 181 ticks behind
+[04May2025 00:26:34.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1266, y=73, z=1761} BlockPos{x=-1269, y=60, z=1759}
+[04May2025 00:27:39.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[04May2025 00:28:20.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
+[04May2025 00:28:23.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que
+[04May2025 00:28:35.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> estay en la home ?
+[04May2025 00:28:38.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> yes
+[04May2025 00:28:49.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ven al portal
+[04May2025 00:28:59.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ven
+[04May2025 00:29:14.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1267, y=73, z=1760} BlockPos{x=-121, y=69, z=69}
+[04May2025 00:29:19.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> subete
+[04May2025 00:30:00.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por aqui
+[04May2025 00:30:28.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Eye Spy]
+[04May2025 00:30:54.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vindicator
+[04May2025 00:31:01.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:31:10.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by davixelpro123
+[04May2025 00:31:15.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 00:31:16.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> muchas gracias
+[04May2025 00:31:20.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vindicator
+[04May2025 00:31:21.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[04May2025 00:31:26.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:31:31.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vindicator
+[04May2025 00:31:34.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:31:40.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vex
+[04May2025 00:31:51.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Vex
+[04May2025 00:31:55.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[04May2025 00:31:58.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:32:06.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vindicator
+[04May2025 00:32:10.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:32:23.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vex
+[04May2025 00:32:27.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:33:04.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was shot by Illusioner
+[04May2025 00:33:09.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:33:15.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Robbing the Fortress]
+[04May2025 00:33:27.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por aca no e
+[04May2025 00:34:37.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was shot by Illusioner
+[04May2025 00:34:40.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Vindicator
+[04May2025 00:34:41.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por aca no e
+[04May2025 00:34:43.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:34:45.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vindicator
+[04May2025 00:34:47.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[04May2025 00:34:50.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:34:52.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vindicator
+[04May2025 00:34:56.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Vex
+[04May2025 00:34:56.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:35:00.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[04May2025 00:35:00.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was shot by Pillager
+[04May2025 00:35:03.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]

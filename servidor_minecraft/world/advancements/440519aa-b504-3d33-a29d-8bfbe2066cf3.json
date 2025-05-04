@@ -304,6 +304,7 @@
       "minecraft:zombified_piglin": "2025-05-03 03:50:36 +0000",
       "minecraft:wither_skeleton": "2025-05-03 02:35:30 +0000",
       "minecraft:piglin": "2025-05-03 02:16:19 +0000",
+      "minecraft:vindicator": "2025-05-04 00:31:35 +0000",
       "minecraft:enderman": "2025-05-03 02:18:43 +0000",
       "minecraft:silverfish": "2025-05-03 17:15:17 +0000",
       "minecraft:magma_cube": "2025-05-03 02:26:16 +0000",
@@ -2801,12 +2802,6 @@
     },
     "done": true
   },
-  "mt:technical/armor/helmet_durability": {
-    "criteria": {
-      "requirement": "2025-05-03 16:05:14 +0000"
-    },
-    "done": true
-  },
   "mobheads:killed_mob_check": {
     "criteria": {
       "killed_mob": "2025-05-03 16:08:06 +0000"
@@ -3167,12 +3162,6 @@
     },
     "done": true
   },
-  "mt:technical/armor/boots_durability": {
-    "criteria": {
-      "requirement": "2025-05-03 22:44:41 +0000"
-    },
-    "done": true
-  },
   "mt:treasure_advancements/50_common_treasure": {
     "criteria": {
       "obtainchest": "2025-05-03 23:30:35 +0000"
@@ -3185,9 +3174,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 00:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 00:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 00:33:00 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/drop_rare_illager_loot": {
+    "criteria": {
+      "drop1": "2025-05-04 00:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 00:33:00 +0000"
+    },
+    "done": true
+  },
   "mt:treasure_advancements/first_rare_crimson_treasure": {
     "criteria": {
       "obtainchest": "2025-05-04 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-04 00:33:00 +0000"
     },
     "done": true
   },
@@ -3215,6 +3240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 00:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-05-04 00:13:17 +0000"
@@ -3233,9 +3264,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 00:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-05-04 00:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 00:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-04 00:33:00 +0000"
     },
     "done": true
   },

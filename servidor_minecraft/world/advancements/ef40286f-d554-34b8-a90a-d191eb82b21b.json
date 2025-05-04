@@ -18,12 +18,14 @@
       "minecraft:beach": "2025-05-02 23:45:47 +0000",
       "minecraft:forest": "2025-05-02 22:55:37 +0000",
       "minecraft:taiga": "2025-05-02 22:56:17 +0000",
+      "minecraft:river": "2025-05-02 22:56:19 +0000",
+      "minecraft:stony_shore": "2025-05-02 23:34:23 +0000",
+      "minecraft:lush_caves": "2025-05-04 00:31:21 +0000",
+      "minecraft:dripstone_caves": "2025-05-02 23:05:56 +0000",
       "minecraft:deep_dark": "2025-05-03 00:07:35 +0000",
       "minecraft:ocean": "2025-05-02 23:49:35 +0000",
-      "minecraft:river": "2025-05-02 22:56:19 +0000",
       "minecraft:meadow": "2025-05-02 23:53:09 +0000",
-      "minecraft:stony_shore": "2025-05-02 23:34:23 +0000",
-      "minecraft:dripstone_caves": "2025-05-02 23:05:56 +0000",
+      "minecraft:birch_forest": "2025-05-04 00:29:51 +0000",
       "minecraft:plains": "2025-05-02 23:07:05 +0000"
     },
     "done": false
@@ -523,17 +525,21 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-05-03 02:22:42 +0000",
+      "minecraft:pillager": "2025-05-04 00:31:03 +0000",
       "minecraft:skeleton": "2025-05-02 23:58:36 +0000",
+      "minecraft:witch": "2025-05-03 21:13:15 +0000",
+      "minecraft:wither_skeleton": "2025-05-03 02:27:46 +0000",
+      "minecraft:hoglin": "2025-05-03 21:39:12 +0000",
       "minecraft:piglin": "2025-05-03 02:45:25 +0000",
+      "minecraft:vindicator": "2025-05-04 00:30:38 +0000",
       "minecraft:enderman": "2025-05-03 02:20:04 +0000",
       "minecraft:silverfish": "2025-05-03 04:04:17 +0000",
-      "minecraft:witch": "2025-05-03 21:13:15 +0000",
       "minecraft:spider": "2025-05-02 23:51:59 +0000",
       "minecraft:piglin_brute": "2025-05-03 03:09:31 +0000",
-      "minecraft:wither_skeleton": "2025-05-03 02:27:46 +0000",
+      "minecraft:vex": "2025-05-04 00:31:46 +0000",
       "minecraft:zombie": "2025-05-02 23:06:02 +0000",
       "minecraft:creeper": "2025-05-02 23:39:37 +0000",
-      "minecraft:hoglin": "2025-05-03 21:39:12 +0000"
+      "minecraft:evoker": "2025-05-04 00:31:33 +0000"
     },
     "done": false
   },
@@ -589,6 +595,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-03 03:10:25 +0000",
       "apple": "2025-05-02 23:15:52 +0000",
+      "chicken": "2025-05-04 00:29:08 +0000",
       "bread": "2025-05-02 23:39:42 +0000",
       "golden_apple": "2025-05-03 17:58:21 +0000",
       "honey_bottle": "2025-05-03 04:06:17 +0000",
@@ -2927,6 +2934,12 @@
     },
     "done": true
   },
+  "mt:technical/armor/boots_durability": {
+    "criteria": {
+      "requirement": "2025-05-04 00:30:36 +0000"
+    },
+    "done": true
+  },
   "mt:technical/hit_match/entity_hurt_player": {
     "criteria": {
       "requirement": "2025-05-03 16:54:55 +0000"
@@ -3215,6 +3228,12 @@
     },
     "done": true
   },
+  "mt:technical/armor/chest_durability": {
+    "criteria": {
+      "requirement": "2025-05-04 00:30:36 +0000"
+    },
+    "done": true
+  },
   "mt:technical/armor/helmet_durability": {
     "criteria": {
       "requirement": "2025-05-04 00:01:08 +0000"
@@ -3233,9 +3252,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-04 00:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
     "criteria": {
       "has_advancednetherite:netherite_emerald_ingot": "2025-05-03 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
     },
     "done": true
   },
@@ -3245,9 +3282,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_helmet_smithing": {
     "criteria": {
       "has_ingredients": "2025-05-03 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-04 00:28:36 +0000"
     },
     "done": true
   },
@@ -3257,9 +3306,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
   "mt:treasure_advancements/first_common_flower_treasure": {
     "criteria": {
       "obtainchest": "2025-05-04 00:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
     },
     "done": true
   },
@@ -3293,6 +3354,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/building_blocks/netherite_diamond_block": {
     "criteria": {
       "has_advancednetherite:netherite_diamond_ingot": "2025-05-03 23:59:54 +0000"
@@ -3314,6 +3399,24 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-05-04 00:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
     },
     "done": true
   },
@@ -3353,6 +3456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_helmet_smithing": {
     "criteria": {
       "has_ingredients": "2025-05-03 23:59:09 +0000"
@@ -3365,9 +3474,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/chorus_plant_from_fruit": {
     "criteria": {
       "has_item": "2025-05-04 00:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-04 00:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
     },
     "done": true
   },
@@ -3389,6 +3516,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-04 00:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
   "mt:treasure_advancements/first_epic_flower_treasure": {
     "criteria": {
       "obtainchest": "2025-05-04 00:06:57 +0000"
@@ -3398,6 +3537,24 @@
   "advancednetherite:recipes/misc/netherite_emerald_axe_smithing": {
     "criteria": {
       "has_ingredients": "2025-05-03 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 00:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-04 00:30:28 +0000"
     },
     "done": true
   },
