@@ -302,6 +302,7 @@
       "minecraft:pillager": "2025-05-03 03:31:50 +0000",
       "minecraft:skeleton": "2025-05-02 23:16:57 +0000",
       "minecraft:zombified_piglin": "2025-05-03 03:50:36 +0000",
+      "minecraft:witch": "2025-05-04 01:05:20 +0000",
       "minecraft:wither_skeleton": "2025-05-03 02:35:30 +0000",
       "minecraft:piglin": "2025-05-03 02:16:19 +0000",
       "minecraft:vindicator": "2025-05-04 00:31:35 +0000",
@@ -313,7 +314,8 @@
       "minecraft:vex": "2025-05-04 00:35:12 +0000",
       "minecraft:zombie": "2025-05-02 23:10:29 +0000",
       "minecraft:creeper": "2025-05-03 03:50:43 +0000",
-      "minecraft:drowned": "2025-05-03 22:15:57 +0000"
+      "minecraft:drowned": "2025-05-03 22:15:57 +0000",
+      "minecraft:evoker": "2025-05-04 00:57:02 +0000"
     },
     "done": false
   },
@@ -3322,6 +3324,102 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-05-04 00:37:38 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-04 01:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-04 01:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-04 01:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-04 01:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 01:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 01:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-04 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
+    "criteria": {
+      "has_tuff_brick_slab": "2025-05-04 01:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 01:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
     },
     "done": true
   },

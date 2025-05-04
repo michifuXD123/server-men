@@ -1631,3 +1631,92 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7:
 [04May2025 00:52:01.547] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
 [04May2025 00:52:39.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ya vengo
 [04May2025 00:52:42.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> afk
+[04May2025 00:53:42.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[04May2025 00:54:02.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4683ms or 93 ticks behind
+[04May2025 00:54:04.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> volvi
+[04May2025 00:54:23.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[04May2025 00:54:27.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ten
+[04May2025 00:54:33.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ??
+[04May2025 00:54:33.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ademas con fortuna 1
+[04May2025 00:54:36.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:54:36.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 00:54:37.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 00:54:44.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> y el 1 de bosi
+[04May2025 00:54:55.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> enserio davis
+[04May2025 00:55:04.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> un ñortal
+[04May2025 00:55:33.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[04May2025 00:55:37.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a
+[04May2025 00:55:38.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 00:55:47.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 00:55:50.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> jajaja
+[04May2025 00:57:00.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vex
+[04May2025 00:57:05.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:57:36.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Suit Up]
+[04May2025 00:58:08.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> el portal
+[04May2025 00:58:09.775] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[04May2025 00:58:23.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[04May2025 00:58:28.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> wtf
+[04May2025 00:58:44.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was doomed to fall
+[04May2025 00:58:50.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[04May2025 00:59:07.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vindicator
+[04May2025 00:59:09.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob withered away while fighting Silverfish
+[04May2025 00:59:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:59:17.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Vindicator
+[04May2025 00:59:20.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[04May2025 00:59:27.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 00:59:39.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:59:39.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:00:07.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
+[04May2025 01:00:52.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 01:01:00.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 tried to swim in lava
+[04May2025 01:01:04.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 01:01:07.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 01:01:44.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> agarre solo las emeraldas
+[04May2025 01:01:52.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> t tengo 1 extack
+[04May2025 01:03:51.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was slain by Vex
+[04May2025 01:04:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tepeate
+[04May2025 01:04:32.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04May2025 01:04:42.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:04:42.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:04:42.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[04May2025 01:04:52.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tengo toque sidoso
+[04May2025 01:05:15.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> o ño satanasd
+[04May2025 01:06:11.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que buscas
+[04May2025 01:06:17.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has completed the challenge [It Spreads]
+[04May2025 01:06:23.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> gg
+[04May2025 01:06:50.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Sneak 100]
+[04May2025 01:07:26.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
+[04May2025 01:07:27.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira armadura de hierro
+[04May2025 01:07:31.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Suit Up]
+[04May2025 01:07:39.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> estan insultadndo a tu madre
+[04May2025 01:07:43.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> o no
+[04May2025 01:07:46.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> chinos
+[04May2025 01:07:57.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ee
+[04May2025 01:08:01.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no romas anada
+[04May2025 01:08:04.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> son mecanismos
+[04May2025 01:08:08.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> contraseña
+[04May2025 01:08:13.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pene
+[04May2025 01:09:41.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:09:41.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:10:13.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1333, y=6, z=1715} BlockPos{x=-1333, y=7, z=1715}
+[04May2025 01:10:13.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1334, y=6, z=1711} BlockPos{x=-1335, y=6, z=1713}
+[04May2025 01:10:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
+[04May2025 01:10:54.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tienes los ojos ?
+[04May2025 01:10:55.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que
+[04May2025 01:10:57.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no
+[04May2025 01:11:01.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ya puse 3
+[04May2025 01:11:11.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> y no tienes mas polvo ?
+[04May2025 01:11:16.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si
+[04May2025 01:11:20.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> pasamelo
+[04May2025 01:11:28.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pero no en la mochila ni en el inventario
+[04May2025 01:11:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> traelos entonces
+[04May2025 01:11:48.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
+[04May2025 01:11:48.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
+[04May2025 01:12:31.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[04May2025 01:12:44.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
+[04May2025 01:12:44.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
+[04May2025 01:13:08.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> al vrg
+[04May2025 01:13:19.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> faltarian 5 ojos mas
+[04May2025 01:13:20.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> 18 nvl con puros libros
+[04May2025 01:13:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 01:13:34.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> hermano se volvio loco la xp
