@@ -1829,3 +1829,348 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7:
 [04May2025 01:34:59.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
 [04May2025 01:35:03.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> etos dos
 [04May2025 01:35:11.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> dan 4 libros por una emeralda
+[04May2025 01:35:29.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira
+[04May2025 01:35:48.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> otia
+[04May2025 01:35:51.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> coje
+[04May2025 01:35:55.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira cuanto es
+[04May2025 01:36:10.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> lo hiba a recojer
+[04May2025 01:36:11.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> :v
+[04May2025 01:36:13.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a no son 4
+[04May2025 01:36:51.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [What a Deal!]
+[04May2025 01:37:57.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> subete al bloque
+[04May2025 01:38:01.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que la xp se queda atorada
+[04May2025 01:38:08.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ves
+[04May2025 01:38:09.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 01:38:12.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> por eso
+[04May2025 01:38:22.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> se lageuo ?
+[04May2025 01:38:31.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si
+[04May2025 01:38:45.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> es nuestro net
+[04May2025 01:38:49.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por que el serv va bien
+[04May2025 01:39:19.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tengo un libro corriende asendente
+[04May2025 01:39:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 01:39:35.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> mira arriba
+[04May2025 01:39:43.440] [Worker-Main-2/DEBUG] [mixin/]: Mixing NoiseChunkMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[04May2025 01:39:43.441] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:NoiseChunkMixin: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[04May2025 01:39:43.445] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$yungsapi_dontFillMarkedPositions$0()Lcom/yungnickyoung/minecraft/yungsapi/world/structure/terrainadaptation/aquiferoverride/AquiferOverrideMask; to md4bd476$yungsapi$lambda$yungsapi_dontFillMarkedPositions$0$0 in yungsapi.mixins.json:NoiseChunkMixin
+[04May2025 01:39:43.549] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.NoiseChunkAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[04May2025 01:39:43.549] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.NoiseChunkAccessor: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[04May2025 01:39:43.666] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[04May2025 01:39:43.668] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[04May2025 01:39:43.691] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[04May2025 01:39:43.694] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.BeardifierAccessor: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[04May2025 01:39:45.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:39:45.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:39:49.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 01:40:11.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> es perma el libro
+[04May2025 01:40:24.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> chao
+[04May2025 01:40:31.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 01:40:51.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> se rompio yunke ay hago otr
+[04May2025 01:41:02.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a dios me da lagasos extremos
+[04May2025 01:41:11.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> porque tenes 1 de vida
+[04May2025 01:41:35.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> toma
+[04May2025 01:41:46.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> otia
+[04May2025 01:41:52.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si
+[04May2025 01:41:57.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ya viste los libros
+[04May2025 01:42:04.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> cuales ?
+[04May2025 01:42:10.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> los encantaos
+[04May2025 01:42:25.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> los de cofre ?
+[04May2025 01:42:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si
+[04May2025 01:44:42.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
+[04May2025 01:44:45.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:44:45.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:44:48.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> lo que trienes esta espada
+[04May2025 01:44:49.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que
+[04May2025 01:45:01.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que es eso
+[04May2025 01:45:16.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> es lo del breze
+[04May2025 01:45:20.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> a
+[04May2025 01:48:01.382] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_limbo_dimensiondatapack for mod file /workspaces/server-men/servidor_minecraft/mods/limbo-dimension-datapack-3.0.4.1.21.1.jar
+[04May2025 01:48:01.384] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_blood_moon for mod file /workspaces/server-men/servidor_minecraft/mods/blood-moon-1.3.3.jar
+[04May2025 01:48:01.387] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_beyondenchant for mod file /workspaces/server-men/servidor_minecraft/mods/beyondenchant-1.5.0.jar
+[04May2025 01:48:01.391] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:geckolib for mod file /workspaces/server-men/servidor_minecraft/mods/geckolib-forge-1.21-4.5.8.jar
+[04May2025 01:48:01.393] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_desert_scourge for mod file /workspaces/server-men/servidor_minecraft/mods/desert-scourge-1.2.jar
+[04May2025 01:48:01.395] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_edf_remastered for mod file /workspaces/server-men/servidor_minecraft/mods/edf-remastered-5.0-beta4.jar
+[04May2025 01:48:01.397] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:chunky for mod file /workspaces/server-men/servidor_minecraft/mods/Chunky-Forge-1.4.23.jar
+[04May2025 01:48:01.399] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_vanilla_backpacks for mod file /workspaces/server-men/servidor_minecraft/mods/1.3.1-backpacks_mod-1.21-1.21.1.jar
+[04May2025 01:48:01.401] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_mob_heads for mod file /workspaces/server-men/servidor_minecraft/mods/mob-heads-v.3.2.2.jar
+[04May2025 01:48:01.403] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_enchantments_encore for mod file /workspaces/server-men/servidor_minecraft/mods/enchantments-encore-1.8.jar
+[04May2025 01:48:01.404] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:spark for mod file /workspaces/server-men/servidor_minecraft/mods/spark-1.10.109-forge.jar
+[04May2025 01:48:01.406] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_blossom_blade for mod file /workspaces/server-men/servidor_minecraft/mods/blossom-blade-1.3.jar
+[04May2025 01:48:01.407] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:collective for mod file /workspaces/server-men/servidor_minecraft/mods/collective-1.21.1-8.3.jar
+[04May2025 01:48:01.409] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:cerbons_api for mod file /workspaces/server-men/servidor_minecraft/mods/CerbonsAPI-Forge-1.21-1.3.0.jar
+[04May2025 01:48:01.410] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:advancednetherite for mod file /workspaces/server-men/servidor_minecraft/mods/advancednetherite-forge-2.1.6-1.21.jar
+[04May2025 01:48:01.412] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_mine_treasure for mod file /workspaces/server-men/servidor_minecraft/mods/mine-treasure-1.4.6.jar
+[04May2025 01:48:01.414] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_dungeons_andtaverns for mod file /workspaces/server-men/servidor_minecraft/mods/dungeons-and-taverns-v4.4.4.jar
+[04May2025 01:48:01.414] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:yungsapi for mod file /workspaces/server-men/servidor_minecraft/mods/YungsApi-1.21.1-Forge-5.1.4.jar
+[04May2025 01:48:01.416] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_health_indicator for mod file /workspaces/server-men/servidor_minecraft/mods/health-indicator-4.jar
+[04May2025 01:48:01.417] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mixinextras for mod file 
+[04May2025 01:48:01.422] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_moreenchantments for mod file /workspaces/server-men/servidor_minecraft/mods/moreenchantments-1.2.1.jar
+[04May2025 01:48:01.423] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:medievalend for mod file /workspaces/server-men/servidor_minecraft/mods/forge_medieval_buildings_end_edition-1.0.2-1.21.jar
+[04May2025 01:48:01.425] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:betterdeserttemples for mod file /workspaces/server-men/servidor_minecraft/mods/YungsBetterDesertTemples-1.21.1-Forge-4.1.5.jar
+[04May2025 01:48:01.427] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:medieval_buildings for mod file /workspaces/server-men/servidor_minecraft/mods/medieval_buildings-1.21-1.1.0-forge.jar
+[04May2025 01:48:01.430] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:cloth_config for mod file /workspaces/server-men/servidor_minecraft/mods/cloth-config-15.0.140-forge.jar
+[04May2025 01:48:01.432] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:voicechat for mod file /workspaces/server-men/servidor_minecraft/mods/voicechat-forge-1.21.1-2.5.30.jar
+[04May2025 01:48:01.434] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:betterfortresses for mod file /workspaces/server-men/servidor_minecraft/mods/YungsBetterNetherFortresses-1.21.1-Forge-3.1.4.jar
+[04May2025 01:48:01.436] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/server-men/servidor_minecraft/libraries/net/minecraftforge/forge/1.21-51.0.33/forge-1.21-51.0.33-universal.jar
+[04May2025 01:48:01.438] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:stellarity for mod file /workspaces/server-men/servidor_minecraft/mods/Stellarity-3.0.6.jar
+[04May2025 01:48:01.438] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:infinitetrading for mod file /workspaces/server-men/servidor_minecraft/mods/infinitetrading-1.21.1-4.6.jar
+[04May2025 01:48:01.440] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_neoenchant for mod file /workspaces/server-men/servidor_minecraft/mods/neoenchant-5.10.jar
+[04May2025 01:48:01.442] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:bettermineshafts for mod file /workspaces/server-men/servidor_minecraft/mods/YungsBetterMineshafts-1.21.1-Forge-5.1.1.jar
+[04May2025 01:48:01.445] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_limbo_dimensiondatapack for mod file /workspaces/server-men/servidor_minecraft/mods/limbo-dimension-datapack-3.0.4.1.21.1.jar
+[04May2025 01:48:01.445] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_blood_moon for mod file /workspaces/server-men/servidor_minecraft/mods/blood-moon-1.3.3.jar
+[04May2025 01:48:01.445] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_beyondenchant for mod file /workspaces/server-men/servidor_minecraft/mods/beyondenchant-1.5.0.jar
+[04May2025 01:48:01.448] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:geckolib for mod file /workspaces/server-men/servidor_minecraft/mods/geckolib-forge-1.21-4.5.8.jar
+[04May2025 01:48:01.448] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_desert_scourge for mod file /workspaces/server-men/servidor_minecraft/mods/desert-scourge-1.2.jar
+[04May2025 01:48:01.448] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_edf_remastered for mod file /workspaces/server-men/servidor_minecraft/mods/edf-remastered-5.0-beta4.jar
+[04May2025 01:48:01.449] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:chunky for mod file /workspaces/server-men/servidor_minecraft/mods/Chunky-Forge-1.4.23.jar
+[04May2025 01:48:01.449] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_vanilla_backpacks for mod file /workspaces/server-men/servidor_minecraft/mods/1.3.1-backpacks_mod-1.21-1.21.1.jar
+[04May2025 01:48:01.449] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_mob_heads for mod file /workspaces/server-men/servidor_minecraft/mods/mob-heads-v.3.2.2.jar
+[04May2025 01:48:01.449] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_enchantments_encore for mod file /workspaces/server-men/servidor_minecraft/mods/enchantments-encore-1.8.jar
+[04May2025 01:48:01.452] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:spark for mod file /workspaces/server-men/servidor_minecraft/mods/spark-1.10.109-forge.jar
+[04May2025 01:48:01.452] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_blossom_blade for mod file /workspaces/server-men/servidor_minecraft/mods/blossom-blade-1.3.jar
+[04May2025 01:48:01.452] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:collective for mod file /workspaces/server-men/servidor_minecraft/mods/collective-1.21.1-8.3.jar
+[04May2025 01:48:01.452] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:cerbons_api for mod file /workspaces/server-men/servidor_minecraft/mods/CerbonsAPI-Forge-1.21-1.3.0.jar
+[04May2025 01:48:01.452] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:advancednetherite for mod file /workspaces/server-men/servidor_minecraft/mods/advancednetherite-forge-2.1.6-1.21.jar
+[04May2025 01:48:01.453] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_mine_treasure for mod file /workspaces/server-men/servidor_minecraft/mods/mine-treasure-1.4.6.jar
+[04May2025 01:48:01.453] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_dungeons_andtaverns for mod file /workspaces/server-men/servidor_minecraft/mods/dungeons-and-taverns-v4.4.4.jar
+[04May2025 01:48:01.453] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:yungsapi for mod file /workspaces/server-men/servidor_minecraft/mods/YungsApi-1.21.1-Forge-5.1.4.jar
+[04May2025 01:48:01.455] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_health_indicator for mod file /workspaces/server-men/servidor_minecraft/mods/health-indicator-4.jar
+[04May2025 01:48:01.456] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mixinextras for mod file 
+[04May2025 01:48:01.456] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_moreenchantments for mod file /workspaces/server-men/servidor_minecraft/mods/moreenchantments-1.2.1.jar
+[04May2025 01:48:01.456] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:medievalend for mod file /workspaces/server-men/servidor_minecraft/mods/forge_medieval_buildings_end_edition-1.0.2-1.21.jar
+[04May2025 01:48:01.456] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:betterdeserttemples for mod file /workspaces/server-men/servidor_minecraft/mods/YungsBetterDesertTemples-1.21.1-Forge-4.1.5.jar
+[04May2025 01:48:01.457] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:medieval_buildings for mod file /workspaces/server-men/servidor_minecraft/mods/medieval_buildings-1.21-1.1.0-forge.jar
+[04May2025 01:48:01.457] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:cloth_config for mod file /workspaces/server-men/servidor_minecraft/mods/cloth-config-15.0.140-forge.jar
+[04May2025 01:48:01.457] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:voicechat for mod file /workspaces/server-men/servidor_minecraft/mods/voicechat-forge-1.21.1-2.5.30.jar
+[04May2025 01:48:01.457] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:betterfortresses for mod file /workspaces/server-men/servidor_minecraft/mods/YungsBetterNetherFortresses-1.21.1-Forge-3.1.4.jar
+[04May2025 01:48:01.457] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/server-men/servidor_minecraft/libraries/net/minecraftforge/forge/1.21-51.0.33/forge-1.21-51.0.33-universal.jar
+[04May2025 01:48:01.457] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:stellarity for mod file /workspaces/server-men/servidor_minecraft/mods/Stellarity-3.0.6.jar
+[04May2025 01:48:01.457] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:infinitetrading for mod file /workspaces/server-men/servidor_minecraft/mods/infinitetrading-1.21.1-4.6.jar
+[04May2025 01:48:01.460] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:mr_neoenchant for mod file /workspaces/server-men/servidor_minecraft/mods/neoenchant-5.10.jar
+[04May2025 01:48:01.462] [Server thread/DEBUG] [net.minecraftforge.resource.ResourcePackLoader/CORE]: Generating PackInfo named mod:bettermineshafts for mod file /workspaces/server-men/servidor_minecraft/mods/YungsBetterMineshafts-1.21.1-Forge-5.1.1.jar
+[04May2025 01:48:21.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tienes carbon
+[04May2025 01:48:39.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> toma
+[04May2025 01:48:49.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe
+[04May2025 01:48:50.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
+[04May2025 01:49:03.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Spooky Scary Skeleton]
+[04May2025 01:49:05.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> podemos invocarlo
+[04May2025 01:49:06.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> insano
+[04May2025 01:49:12.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> sera mejor ma rato
+[04May2025 01:49:28.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Ol' Betsy]
+[04May2025 01:49:45.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:49:45.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:50:03.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> me vas a romper la armadura
+[04May2025 01:50:51.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Made crisrob no longer a server operator]
+[04May2025 01:51:08.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set 45 experience levels on davixelpro123]
+[04May2025 01:51:13.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> toma
+[04May2025 01:51:38.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> referencia a fate
+[04May2025 01:51:41.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> cuantos corazones tengo ?
+[04May2025 01:51:43.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> te acuerdas
+[04May2025 01:51:44.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 01:51:46.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> 41
+[04May2025 01:51:53.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> poquitos
+[04May2025 01:51:53.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> 52
+[04May2025 01:52:03.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> 56
+[04May2025 01:52:11.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tu nomas 15
+[04May2025 01:52:13.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> 61
+[04May2025 01:52:22.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si esque mi armor se estaba a puntito de romper
+[04May2025 01:52:35.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ya se me rompieron los panta
+[04May2025 01:52:45.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 01:52:56.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> asi que toy nerfeado
+[04May2025 01:54:45.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:54:45.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:54:56.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> oe sacate la armor quierto ver algo
+[04May2025 01:55:02.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ????????????
+[04May2025 01:55:08.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> compañero pero como asi
+[04May2025 01:55:09.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> onde tay
+[04May2025 01:55:13.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 01:55:24.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> o no me quiere meter una flecha por el potito
+[04May2025 01:55:31.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[04May2025 01:56:04.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> toy en home
+[04May2025 01:56:55.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> me falta emeralda
+[04May2025 01:57:36.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set the target tick rate to 10000.0 per second]
+[04May2025 01:57:37.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 1013ms or 10130 ticks behind
+[04May2025 01:57:59.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> uff el lag ta potento
+[04May2025 01:58:06.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> veo a los animales correr
+[04May2025 01:58:10.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 01:58:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set the target tick rate to 20.0 per second]
+[04May2025 01:58:16.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24204ms or 484 ticks behind
+[04May2025 01:58:18.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:58:18.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:58:33.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ay que matar endermans
+[04May2025 01:58:41.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> yes
+[04May2025 01:59:46.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> whats?
+[04May2025 01:59:50.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> que
+[04May2025 01:59:51.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> hiciste de dia ?
+[04May2025 01:59:53.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> si
+[04May2025 01:59:56.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> pero
+[04May2025 01:59:57.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pa eso ta el nether
+[04May2025 02:00:01.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> si teniamos que matar endermans
+[04May2025 02:00:04.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> naaa
+[04May2025 02:00:09.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set the time to 6000]
+[04May2025 02:00:29.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was killed
+[04May2025 02:00:29.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Killed davixelpro123]
+[04May2025 02:00:47.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> me dio tremendo lagaso cuando moriste
+[04May2025 02:02:17.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[04May2025 02:02:23.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! 9.162835946827574,-3.732609939845254,4.8330121074645405
+[04May2025 02:02:27.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! 9.822893261778987,-0.39000001549720764,-2.9602371813890187
+[04May2025 02:02:31.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has completed the challenge [Hot Tourist Destinations]
+[04May2025 02:02:34.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> gg
+[04May2025 02:02:40.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> recien lo tienes
+[04May2025 02:02:50.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> si xd
+[04May2025 02:02:55.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 02:03:18.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 02:03:18.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 02:03:53.679] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:nether_wastes took 14 ms
+[04May2025 02:04:15.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 moved too quickly! 10.70951850878916,0.0,0.30199593218628706
+[04May2025 02:05:35.071] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:warped_forest took 4 ms
+[04May2025 02:05:44.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to 77.500000, 53.000000, -290.500000]
+[04May2025 02:05:52.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> gg bioma encontrado
+[04May2025 02:05:59.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[04May2025 02:06:17.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tiene nether fortres
+[04May2025 02:06:25.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[04May2025 02:06:30.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tepeate
+[04May2025 02:07:03.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> 62 39 -289
+[04May2025 02:07:07.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 02:07:48.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has completed the challenge [Cover Me in Debris]
+[04May2025 02:07:53.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to 62.500000, 39.000000, -288.500000]
+[04May2025 02:07:55.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> sin preguntas
+[04May2025 02:08:12.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to crisrob]
+[04May2025 02:08:18.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 02:08:18.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 02:08:32.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to 62.500000, 39.000000, -288.500000]
+[04May2025 02:09:46.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ya vengo
+[04May2025 02:09:49.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ok
+[04May2025 02:10:43.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> volvi
+[04May2025 02:12:02.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ahora si toy todo lito
+[04May2025 02:12:10.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd{
+[04May2025 02:12:23.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> me quitate el tp verdad
+[04May2025 02:12:37.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no por ?
+[04May2025 02:12:42.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> no me deja
+[04May2025 02:12:46.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> aver
+[04May2025 02:12:50.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> me sale en rojitos
+[04May2025 02:12:51.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Made crisrob a server operator]
+[04May2025 02:12:54.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> bruh
+[04May2025 02:12:56.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[04May2025 02:13:00.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> el server te habia quitao el op
+[04May2025 02:13:05.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> ando facha
+[04May2025 02:13:18.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 02:13:18.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 02:13:34.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> creo que s emuri
+[04May2025 02:13:45.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> pendejo no dura nada
+[04May2025 02:14:07.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> perla
+[04May2025 02:14:32.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has reached the goal [Rarer Materials]
+[04May2025 02:14:35.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Wrap That Trap]
+[04May2025 02:14:57.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> puta el enderman que weon
+[04May2025 02:15:00.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> toma
+[04May2025 02:15:00.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixelpro123 lost connection: Disconnected
+[04May2025 02:15:00.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
+[04May2025 02:15:00.206] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of davixelpro123
+[04May2025 02:15:00.208] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client davixelpro123
+[04May2025 02:15:08.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> jajajajaja
+[04May2025 02:15:44.354] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [advancednetherite, chunky, forge, jei, medieval_buildings, medievalend, minecraft, mixinextras, mr_beyondenchant, mr_blood_moon, mr_enchantments_encore, mr_moreenchantments, mr_neoenchant, mr_vanilla_backpacks, nullscape, spark, stellarity, tlskincape, voicechat, yungsapi]
+[04May2025 02:15:44.719] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login, jei:channel, voicechat:add_category, voicechat:add_group, voicechat:create_group, voicechat:joined_group, voicechat:leave_group, voicechat:player_state, voicechat:player_states, voicechat:remove_category, voicechat:remove_group, voicechat:request_secret, voicechat:secret, voicechat:set_group, voicechat:update_state]
+[04May2025 02:15:44.720] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.720] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.720] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.720] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.720] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[04May2025 02:15:44.720] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[04May2025 02:15:44.720] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.720] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[04May2025 02:15:44.720] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.721] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:multipart_entity_interaction' : Version test of 'MISSING 0' from client : ACCEPTED
+[04May2025 02:15:44.721] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.721] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.721] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.721] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.721] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.721] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.721] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:15:44.721] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'MISSING 0' from client : ACCEPTED
+[04May2025 02:15:44.722] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[04May2025 02:15:45.014] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[04May2025 02:15:45.252] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[04May2025 02:15:45.533] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[04May2025 02:15:46.575] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[04May2025 02:15:46.975] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[04May2025 02:15:47.257] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[04May2025 02:15:47.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[04May2025 02:15:48.150] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[04May2025 02:15:48.420] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[04May2025 02:15:48.685] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[04May2025 02:15:49.061] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[04May2025 02:15:49.266] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[04May2025 02:15:49.840] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[04May2025 02:15:50.009] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[04May2025 02:15:50.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[04May2025 02:15:51.037] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[04May2025 02:15:51.221] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[04May2025 02:15:51.403] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[04May2025 02:15:55.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Warping...]
+[04May2025 02:16:00.268] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[04May2025 02:16:16.743] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ef7599b[id=440519aa-b504-3d33-a29d-8bfbe2066cf3,name=davixelpro123,properties={}] lost connection: Timed out
+[04May2025 02:16:16.765] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04May2025 02:16:19.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob was killed
+[04May2025 02:16:19.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Killed crisrob]
+[04May2025 02:17:23.920] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [advancednetherite, chunky, forge, jei, medieval_buildings, medievalend, minecraft, mixinextras, mr_beyondenchant, mr_blood_moon, mr_enchantments_encore, mr_moreenchantments, mr_neoenchant, mr_vanilla_backpacks, nullscape, spark, stellarity, tlskincape, voicechat, yungsapi]
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login, jei:channel, voicechat:add_category, voicechat:add_group, voicechat:create_group, voicechat:joined_group, voicechat:leave_group, voicechat:player_state, voicechat:player_states, voicechat:remove_category, voicechat:remove_group, voicechat:request_secret, voicechat:secret, voicechat:set_group, voicechat:update_state]
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:multipart_entity_interaction' : Version test of 'MISSING 0' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'PRESENT 18' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'MISSING 0' from client : ACCEPTED
+[04May2025 02:17:24.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[04May2025 02:17:25.600] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[04May2025 02:17:25.810] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[04May2025 02:17:26.030] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[04May2025 02:17:26.950] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[04May2025 02:17:27.258] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[04May2025 02:17:27.461] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[04May2025 02:17:29.353] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[04May2025 02:17:29.569] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[04May2025 02:17:29.948] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[04May2025 02:17:30.144] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[04May2025 02:17:30.325] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[04May2025 02:17:30.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[04May2025 02:17:30.951] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[04May2025 02:17:31.932] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[04May2025 02:17:32.232] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[04May2025 02:17:32.430] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[04May2025 02:17:32.628] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[04May2025 02:17:32.813] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[04May2025 02:17:34.828] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[04May2025 02:17:40.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davixelpro123[/127.122.159.96:57339] logged in with entity id 46006 at (-61.73473154613352, 46.0, -260.0401237480282)
+[04May2025 02:17:40.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 joined the game
+[04May2025 02:17:40.663] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of davixelpro123: {disabled=false, disconnected=true, uuid=440519aa-b504-3d33-a29d-8bfbe2066cf3, name=davixelpro123, group=null}
+[04May2025 02:17:41.094] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of davixelpro123 (18)
+[04May2025 02:17:41.095] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to davixelpro123
+[04May2025 02:17:41.095] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with davixelpro123
+[04May2025 02:17:41.095] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with davixelpro123
+[04May2025 02:17:41.095] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to davixelpro123
+[04May2025 02:17:45.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> adivina que
+[04May2025 02:18:02.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tengo ya las perlas y justamente son las que necesitamos
+[04May2025 02:18:18.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 02:18:18.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 02:18:23.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> negro
+[04May2025 02:18:58.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> oe tay
+[04May2025 02:20:10.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> davis
+[04May2025 02:20:22.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 tried to swim in lava
+[04May2025 02:21:36.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> davi????
+[04May2025 02:23:18.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 02:23:18.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 02:24:22.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> oe
+[04May2025 02:24:34.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[04May2025 02:24:38.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob tried to swim in lava

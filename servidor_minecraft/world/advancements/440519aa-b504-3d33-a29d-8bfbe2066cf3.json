@@ -531,6 +531,8 @@
       "rotten_flesh": "2025-05-02 23:13:35 +0000",
       "cooked_mutton": "2025-05-02 23:40:38 +0000",
       "cooked_beef": "2025-05-03 16:22:26 +0000",
+      "chorus_fruit": "2025-05-04 02:14:42 +0000",
+      "baked_potato": "2025-05-04 01:51:36 +0000",
       "golden_carrot": "2025-05-03 02:55:45 +0000"
     },
     "done": false
@@ -1517,10 +1519,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-03 02:27:43 +0000",
       "minecraft:nether_wastes": "2025-05-03 02:07:44 +0000",
+      "minecraft:soul_sand_valley": "2025-05-04 02:02:31 +0000",
       "minecraft:warped_forest": "2025-05-03 02:18:28 +0000",
       "minecraft:basalt_deltas": "2025-05-04 00:00:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "nova_structures:nether/find_piglins": {
     "criteria": {
@@ -3328,51 +3331,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/allay_deliver_item_to_player": {
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
     "criteria": {
-      "allay_deliver_item_to_player": "2025-05-04 01:24:47 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/lodestone": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2025-05-04 01:05:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-05-04 01:12:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-04 01:10:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-05-04 01:07:31 +0000"
-    },
-    "done": true
-  },
-  "mt:technical/armor/chest_durability": {
-    "criteria": {
-      "requirement": "2025-05-04 01:16:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-05-04 01:15:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-04 01:22:36 +0000"
+      "has_tuff_brick_slab": "2025-05-04 01:00:12 +0000"
     },
     "done": true
   },
@@ -3382,9 +3343,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
+  "minecraft:recipes/decorations/tuff_brick_wall": {
     "criteria": {
-      "has_black_wool": "2025-05-04 01:15:17 +0000"
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-04 01:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 01:04:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-04 01:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-04 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-04 01:07:31 +0000"
     },
     "done": true
   },
@@ -3394,9 +3415,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
-      "has_stripped_logs": "2025-05-04 01:04:25 +0000"
+      "has_log": "2025-05-04 01:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 01:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-04 01:10:30 +0000"
     },
     "done": true
   },
@@ -3412,27 +3445,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/tuff_brick_wall": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+      "has_magma_cream": "2025-05-04 01:12:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "has_log": "2025-05-04 01:08:27 +0000"
+      "has_black_wool": "2025-05-04 01:15:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+  "minecraft:recipes/decorations/black_banner": {
     "criteria": {
-      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 01:08:27 +0000"
+      "has_black_wool": "2025-05-04 01:15:17 +0000"
     },
     "done": true
   },
@@ -3442,63 +3469,309 @@
     },
     "done": true
   },
-  "mt:technical/armor/legs_durability": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "requirement": "2025-05-04 01:16:03 +0000"
+      "shot_arrow": "2025-05-04 01:22:36 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+  "minecraft:husbandry/allay_deliver_item_to_player": {
     "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-05-04 01:06:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
-    "criteria": {
-      "has_tuff_brick_slab": "2025-05-04 01:00:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
-    "criteria": {
-      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
-    },
-    "done": true
-  },
-  "mt:technical/armor/helmet_durability": {
-    "criteria": {
-      "requirement": "2025-05-04 01:16:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 01:04:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_slab": {
-    "criteria": {
-      "has_tuff_bricks": "2025-05-04 01:02:38 +0000"
+      "allay_deliver_item_to_player": "2025-05-04 01:24:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2025-05-04 01:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-04 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-04 01:36:51 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/pink": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/white": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/red": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/blue": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/purple": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/light_blue": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/lime": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/brown": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/cyan": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/black": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/green": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/orange": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/gray": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/magenta": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/yellow": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "mobheads:killed_mob_check/sheep/light_gray": {
+    "criteria": {
+      "killed_mob": "2025-05-04 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:durability/curse_of_breaking": {
+    "criteria": {
+      "requirement": "2025-05-04 01:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-04 01:49:28 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/chest_durability": {
+    "criteria": {
+      "requirement": "2025-05-04 02:01:47 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/boots_durability": {
+    "criteria": {
+      "requirement": "2025-05-04 02:01:47 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/legs_durability": {
+    "criteria": {
+      "requirement": "2025-05-04 02:01:47 +0000"
+    },
+    "done": true
+  },
+  "mt:technical/armor/helmet_durability": {
+    "criteria": {
+      "requirement": "2025-05-04 02:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-04 02:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 02:08:45 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/10_rare_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-04 02:14:32 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_rare_warped_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-04 02:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-04 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2025-05-04 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/sugar_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2025-05-04 02:14:38 +0000"
     },
     "done": true
   },

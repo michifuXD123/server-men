@@ -3649,30 +3649,6 @@
     },
     "done": true
   },
-  "mt:technical/armor/boots_durability": {
-    "criteria": {
-      "requirement": "2025-05-04 00:47:33 +0000"
-    },
-    "done": true
-  },
-  "mt:technical/armor/legs_durability": {
-    "criteria": {
-      "requirement": "2025-05-04 00:47:33 +0000"
-    },
-    "done": true
-  },
-  "mt:technical/armor/chest_durability": {
-    "criteria": {
-      "requirement": "2025-05-04 01:21:17 +0000"
-    },
-    "done": true
-  },
-  "mt:technical/armor/helmet_durability": {
-    "criteria": {
-      "requirement": "2025-05-04 00:47:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/allay_deliver_item_to_player": {
     "criteria": {
       "allay_deliver_item_to_player": "2025-05-04 01:26:49 +0000"
@@ -3733,6 +3709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-04 02:02:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-05-04 01:00:17 +0000"
@@ -3766,6 +3748,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-04 01:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-05-04 02:07:48 +0000"
     },
     "done": true
   },
@@ -3811,6 +3799,12 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_common_warped_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-04 02:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-04 01:07:00 +0000"
@@ -3820,6 +3814,12 @@
   "enchantplus:armor/fury": {
     "criteria": {
       "requirement": "2025-05-04 00:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-04 01:49:03 +0000"
     },
     "done": true
   },
@@ -3862,6 +3862,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-04 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-04 01:49:03 +0000"
     },
     "done": true
   },
