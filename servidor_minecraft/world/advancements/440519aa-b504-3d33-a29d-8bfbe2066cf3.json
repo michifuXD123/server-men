@@ -310,6 +310,7 @@
       "minecraft:magma_cube": "2025-05-03 02:26:16 +0000",
       "minecraft:piglin_brute": "2025-05-03 02:16:34 +0000",
       "minecraft:spider": "2025-05-03 03:34:38 +0000",
+      "minecraft:vex": "2025-05-04 00:35:12 +0000",
       "minecraft:zombie": "2025-05-02 23:10:29 +0000",
       "minecraft:creeper": "2025-05-03 03:50:43 +0000",
       "minecraft:drowned": "2025-05-03 22:15:57 +0000"
@@ -2796,12 +2797,6 @@
     },
     "done": true
   },
-  "mt:technical/armor/chest_durability": {
-    "criteria": {
-      "requirement": "2025-05-03 16:05:14 +0000"
-    },
-    "done": true
-  },
   "mobheads:killed_mob_check": {
     "criteria": {
       "killed_mob": "2025-05-03 16:08:06 +0000"
@@ -3174,6 +3169,72 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_rare_crimson_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-04 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-04 00:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-04 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 00:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 00:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 00:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 00:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-04 00:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-04 00:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-04 00:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-04 00:13:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-05-04 00:33:00 +0000"
@@ -3192,21 +3253,9 @@
     },
     "done": true
   },
-  "stellarity:story/drop_rare_illager_loot": {
-    "criteria": {
-      "drop1": "2025-05-04 00:33:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-04 00:33:00 +0000"
-    },
-    "done": true
-  },
-  "mt:treasure_advancements/first_rare_crimson_treasure": {
-    "criteria": {
-      "obtainchest": "2025-05-04 00:05:26 +0000"
     },
     "done": true
   },
@@ -3216,63 +3265,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-05-04 00:10:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-04 00:12:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-05-04 00:05:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-05-04 00:13:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-04 00:33:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-05-04 00:13:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-04 00:12:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-04 00:12:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-04 00:33:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-04 00:12:26 +0000"
     },
     "done": true
   },
@@ -3288,15 +3289,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "stellarity:story/drop_rare_illager_loot": {
     "criteria": {
-      "has_rail": "2025-05-04 00:13:17 +0000"
+      "drop1": "2025-05-04 00:33:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "mt:treasure_advancements/first_legendary_treasure": {
     "criteria": {
-      "has_minecart": "2025-05-04 00:12:26 +0000"
+      "obtainchest": "2025-05-04 00:37:02 +0000"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_legendary_crimson_treasure": {
+    "criteria": {
+      "obtainchest": "2025-05-04 00:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-04 00:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-04 00:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-04 00:37:38 +0000"
     },
     "done": true
   },
